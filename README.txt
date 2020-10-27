@@ -1012,3 +1012,11 @@ R: Numa remota tribo bárbara
 Question 253
 Qual das seguintes NÃO é uma das habilidades de Belisarius?
 R: Força Estrondosa
+
+Question 254
+Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de infantaria?
+R: Hermann
+
+Question 255
+Na página VISUALIZAÇÃO DO COMANDATE, que bônus os comandantes agindo como "Guarda" ganham?
+R: Nenhuma dessas respostas está correta
