@@ -1020,3 +1020,9 @@ R: Hermann
 Question 255
 Na página VISUALIZAÇÃO DO COMANDATE, que bônus os comandantes agindo como "Guarda" ganham?
 R: Nenhuma dessas respostas está correta
+
+Question 256
+Qual dos seguintes NÃO é uma habilidade de rei?
+R: Alívio
+
+.
