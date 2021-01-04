@@ -379,7 +379,7 @@ Como é chamado o centro de um furacão?
 R: Olho
 
 Question 96
-Que comandante foi considerado de um inimigo de Roma desde primeiro?
+Que comandante foi considerado de um inimigo de Roma desde pequeno (primeiro)?
 R: Hannibal Barca
 
 Question 97
@@ -424,7 +424,7 @@ R: 1000
 
 Question 107
 O processo de dividir átomos é conhecido como o quê?
-R: Fissão
+R: Fissão (incorreto?) e Fusão (correto) ... confusão
 
 Question 108
 Que país não está na Europa?
@@ -1024,5 +1024,37 @@ R: Nenhuma dessas respostas está correta
 Question 256
 Qual dos seguintes NÃO é uma habilidade de rei?
 R: Alívio
+
+Question 256
+Qual das seguintes NÃO é uma das habilidades de Keira?
+R: Sangue Indisciplinado
+
+Question 257
+Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de arquearia?
+R: Cao Cao
+
+Question 258
+Qual das seguintes NÃO é uma das habilidades de Hermann?
+R: Irrestível
+
+Question 259
+Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de cavalaria?
+R: Sun Tzu
+
+Question 260
+Por que o escorbuto já foi um problema comum dos marinheiros?
+R: Pro falta de frutas e vegetais frescos em longas viagens
+
+Question 261
+Em que o Comandante Hermann é bom?
+R: Liderar unidades de arquearia
+
+Question 262
+Qual dessas cidades no Brasil recebeu os Jogos Olímpicos?
+R: Rio de Janeiro
+
+Question 263
+Qual das seguintes vitaminas é mais útil para manter uma boa visão?
+R: Vitamina A
 
 .
