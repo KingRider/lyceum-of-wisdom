@@ -1057,4 +1057,44 @@ Question 263
 Qual das seguintes vitaminas é mais útil para manter uma boa visão?
 R: Vitamina A
 
+Question 264
+Na página VISUALIZAÇÃO DO COMANDANTE, que bônus os comandantes agindo como "Fiscal" ganham?
+R: Velocidade de Coleta 5%
+
+Question 265
+Em que o Comandante Hannibal Barca é bom?
+R: Atacar cidades
+
+Question 266
+Em qual desses países passa o primeiro meridiano?
+R: Mali -> (Espanha, França, Reino Unido, Gana, Burkina Faso, Mali  Argélia)
+
+Question 267
+Qual das seguintes doenças pode ser causada pela falta de Vitamina D?
+R: Raquitismo
+
+Question 268
+Qual das seguintes NÃO é uma das habilidades de Matilda de Flanders?
+R: Sangue Celta
+
+Question 269
+Qual das seguintes NÃO é uma das habilidades de Mulan?
+R: Exército Indomável
+
+Question 270
+Além de "Número de Batedores" e "Poder", qual que seguintes parâmetros do Acampamento de Batedores também pode ser atualizado?
+R: Velocidade de Marcha do Batedor e Alcance de Exploração
+
+Question 271
+Qual das seguintes construções não pode ser atualizada?
+R: Correio
+
+Question 272
+Qual é a relação entre os famosos generais Tolui e Gengis Khan?
+R: Pai e filho
+
+Question 273
+Qual dos seguintes foi elogiado pelos seus conterrâneos como melhor e mais honesto da Grécia Antiga dos representantes democráticos?
+R: Péricles
+
 .
