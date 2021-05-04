@@ -1,3 +1,7 @@
+Referências:
+https://www.appgamer.com/rise-of-kingdoms/answers/
+https://rok.guide/buildings/lyceum-of-wisdom/
+
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
 R: Um gladiador
@@ -547,7 +551,7 @@ Que comandante é conhecida como a Senhora dos Mercianos?
 R: AEthelflaed
 
 Questão 138
-Que tipo de unidade é mais forte contra a arqueira?
+Que tipo de unidade é mais forte contra a arqueaira?
 R: Cavalaria
 
 Questão 139
@@ -1186,5 +1190,9 @@ R: A Batalha de Azincourt
 Questão 296
 Qual tecnologia vem logo antes da Cavalaria Pesada?
 R: Armadura de Escama
+
+Questão 297
+Qual dos seguintes países é mais próximo do Polo Norte?
+R: Finlândia
 
 .
