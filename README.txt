@@ -1195,4 +1195,12 @@ Questão 297
 Qual dos seguintes países é mais próximo do Polo Norte?
 R: Finlândia
 
+Questão 298
+Em que escrita o Código de Hammurabi foi entalhada em pedra?
+R: Cuneiforme
+
+Questão 299
+Um item de Recolhimento Aprimorado pode aumentar em quanto a sua velocidade de coleta?
+R: 50%
+
 .
