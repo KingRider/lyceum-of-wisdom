@@ -257,6 +257,7 @@ R: Joana D'Arc
 Questão 64
 Qual dos seguintes NÃO pode ser encontrado num baú prateado na taberna?
 R: Tomo da Sabedoria Nv. 3
+R: Tomo do Conhecimento Nv. 3
 
 Questão 65
 Que parte do corpo humano contém mais água?
@@ -1202,5 +1203,25 @@ R: Cuneiforme
 Questão 299
 Um item de Recolhimento Aprimorado pode aumentar em quanto a sua velocidade de coleta?
 R: 50%
+
+Questão 300
+Em qual nível VIP você desbloqueia permanentemente uma segunda fila de construção?
+R: Nvl. 6
+
+Questão 301
+Um item de Ataque Aprimorado (Avançado) pode aumentar em quanto o seu ataque?
+R: 10%
+
+Questão 302
+Qual dos seguintes discursos foi feito pelo Primeiro Ministro prussiano Otto von Bismarck em Setembro de 1862?
+R: Sangue e ferro
+
+Questão 303
+De que os homens e mulheres estavam se escondendo na periferia de Florença na coleção de romances "O Decamerão"?
+R: A Peste Negra
+
+Questão 304
+Qual das seguintes opções concede pontos de atividade diários?
+R: Derrotar tropas Bárbaras no mapa
 
 .
