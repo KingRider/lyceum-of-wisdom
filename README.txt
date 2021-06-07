@@ -328,7 +328,8 @@ Qual dessas é uma fase no evento "O Governador Mais Poderoso"?
 R: Eliminação do Inimigo
 
 Questão 82
-Que comandante demonstrou sua genialidade militar na Batalha de Poitiers (Tours) no século VIII?
+Que comandante demonstrou sua genialidade militar na Batalha de Tours no século VIII?
+Que comandante demonstrou sua genialidade militar na Batalha de Poitiers no século VIII?
 R: Carlos Martel
 
 Questão 83
@@ -1223,5 +1224,36 @@ R: A Peste Negra
 Questão 304
 Qual das seguintes opções concede pontos de atividade diários?
 R: Derrotar tropas Bárbaras no mapa
+
+Questão 305
+R: Marie Curie
+
+Questão 306
+Quais oceanos são conectados pelo Canal de Panamá?
+R: Pacífico e Atlântico
+
+Questão 307
+De acordo com o conto da Loba da mitologia romana, o que houve com os gêmeos que ela alimentou: Rômulo e Remo?
+R: Rômulo se tornou o fundador e primeiro Rei de Roma
+
+Questão 308
+Qual dos buffs seguintes pode ter efeito durante as batalhas do Desfiladeiro do Pôr do Sol?
+R: Buffs de equipamento
+
+Questão 309
+Quais cidades são conenctadas pela Ponte Dom Luís I?
+R: Porto e Vila Nova de Gaia
+
+Questão 310
+Considerando sua fundação em 1863, quantas vezes o Comitê International da Cruz Vermelha venceu o Prêmio Nobel da Paz?
+R: 3
+
+Questão 311
+Em que cidade moderna foi construído o Globo de Shakespeare?
+R: Londres
+
+Questão 312
+Qual foi o nome real usado pelo último imperador da Dinastia Qing chinesa?
+R: Xuantong
 
 .
