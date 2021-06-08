@@ -1256,4 +1256,20 @@ Questão 312
 Qual foi o nome real usado pelo último imperador da Dinastia Qing chinesa?
 R: Xuantong
 
+Questão 313
+Qual dinastia chinesa Jiang Ziya ajudou a fundar?
+R: A Dinastia Zhou
+
+Questão 314
+Que país foi o primeiro a inventar o perfume?
+R: Chipre
+
+Questão 315
+Em RoK, o Lança Machado é a unidade especial de qual civilização?
+R: França
+
+Questão 316
+Na Arca de Osíris, quantos teletransportes a primeira aliança ganha para ocupar um obelisco?
+R: 8
+
 .
