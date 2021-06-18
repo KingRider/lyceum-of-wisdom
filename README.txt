@@ -1272,4 +1272,40 @@ Questão 316
 Na Arca de Osíris, quantos teletransportes a primeira aliança ganha para ocupar um obelisco?
 R: 8
 
+Questão 317
+Qual foi o propósito original da Grande Pirâmide de Gizé?
+R: Tumba do faraó Quéops
+
+Questão 318
+De quem é a beleza que dizem ser a causa da Guerra de Troia?
+R: Helena
+
+Questão 319
+Qual das seguintes serve como flor nacional das Filipinas?
+R: Sampaguita
+
+Questão 320
+Que período da história europeia, que durou de 1300 a 1600, viu renascer o interesse na cultura clássica e levou a amplas mudanças na arte, aprendizado e visões de mundo?
+R: A Renascença
+
+Questão 321
+Que guerra terminou a governo da Casa de Plantagenet e começou o governo dos Tudors na Inglaterra?
+R: As Guerras das Rosas
+
+Questão 322
+Quem fez o famoso discurso "Eu tenho um sonho"?
+R: Martin Luther King
+
+Questão 323
+Quem foi o último imperador do Sacro Império Romano?
+R: Francis II
+
+Questão 324
+Dos século XVII ao XIX, o Reino da Prússia foi na maior parte em que país moderno?
+R: Alemanha
+
+Questão 325
+A Festa Nacional Francesa ocorre em 14 de julho para coincidir com qual evento histórico?
+R: Tomada da Bastilha
+
 .
