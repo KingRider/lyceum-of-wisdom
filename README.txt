@@ -769,8 +769,8 @@ Que psicólogo alemão descobriu a curva de esquecimento do cérebro humano?
 R: Hermann Ebbinghaus
 
 Questão 192
-Qual é o nome da eletricidade produzida pela força da água usando grandes represas num rio?
-R: Energia hidroelétrica
+Qual das seguintes civilizações oferece um bônus de 5% para unidades de cavalaria?
+R: Alemanha
 
 Questão 193
 Que inventor construiu a primeira locomotiva elétrica do mundo em 1837?
@@ -1294,7 +1294,7 @@ R: As Guerras das Rosas
 
 Questão 322
 Quem fez o famoso discurso "Eu tenho um sonho"?
-R: Martin Luther King
+R: Martin Luther King Jr.
 
 Questão 323
 Quem foi o último imperador do Sacro Império Romano?
@@ -1307,5 +1307,29 @@ R: Alemanha
 Questão 325
 A Festa Nacional Francesa ocorre em 14 de julho para coincidir com qual evento histórico?
 R: Tomada da Bastilha
+
+Questão 326
+Que faraó ordenou a construção dos templos de Abu Simbel?
+R: Ramsés II
+
+Questão 327
+Em qual teatro a Sinfonia Nº 5 em Dó Menor de Beethoven estreou em 1808?
+R: Theater an der Wien
+
+Questão 328
+QUal dos seguintes trabalhos é baseado na Batalha de Roncesvales, lutada por Carlos Magno e seus cavaleiros?
+R: "A Canção de Rolando"
+
+Questão 329
+Quem foi o fundador do Edo Bakufu do Japão?
+R: Tokugawa leyasu
+
+Questão 330
+Para qual doença Edward Jenner, conhecido como o pai da imunologia, desenvolveu uma vacina?
+R: Varíola
+
+Questão 331
+Em que ano Einstein publicou seus quatro Annus Mirabilis ("Artigos Miraculosos")?
+R: 1905
 
 .
