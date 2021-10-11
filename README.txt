@@ -1332,4 +1332,12 @@ Questão 331
 Em que ano Einstein publicou seus quatro Annus Mirabilis ("Artigos Miraculosos")?
 R: 1905
 
+Questão 332
+Qual das seguintes invenções não surgiu durante a primeira revolução industrial?
+R: Telefone
+
+Questão 333
+Qual desses campos não está incluído na lista de prêmios Nobel?
+R: Matemática
+
 .
