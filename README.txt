@@ -1,3 +1,4 @@
+Email: contato@sandroalvares.com.br
 Referências:
 https://www.appgamer.com/rise-of-kingdoms/answers/
 https://rok.guide/buildings/lyceum-of-wisdom/
