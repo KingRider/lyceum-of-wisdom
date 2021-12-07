@@ -168,7 +168,7 @@ R: Seleção natural
 
 Questão 42
 Que tipo de unidade é mais forte contra a infantaria?
-R: Arqueira
+R: Arquearia
 
 Questão 43
 Q.As duas capitais da Áustria-Hungria eram Budapeste e que outra cidade?
@@ -373,7 +373,7 @@ Primeiramente criada na Grécia Antiga, a que profissão se aplica o Juramento d
 R: Médicos
 
 Questão 93
-Qual dos seguintes é um recursos energético inexaurível que baseia-se no magma quente ou em rochas quentes e secas abaixo da superfície?
+Qual dos seguintes é um recursos energéticos inexaurível que baseia-se no magma quente ou em rochas quentes e secas abaixo da superfície?
 R: Energia geotérmica
 
 Questão 94
@@ -406,7 +406,7 @@ R: O Código de Hammurabi
 
 Questão 101
 Na Arca de Osíris, para onde você deve levar a Arca?
-R: Uma construção não inimiga
+R: Uma construção NÃO inimiga
 
 Questão 102
 Quando a Declaração da Independência foi escrita?
@@ -429,8 +429,9 @@ Sem usar buffs, quantos Pontos de Ação um Governador pode ter?
 R: 1000
 
 Questão 107
-O processo de dividir átomos é conhecido como o quê? (cuidado a palavra dividir é fissão e combinar é fusão)
+O processo de dividir átomos é conhecido como o quê?
 R: Fissão
+(dividir)(cuidado a palavra dividir é fissão e combinar é fusão)
 
 Questão 108
 Que país não está na Europa?
@@ -553,7 +554,7 @@ Que comandante é conhecida como a Senhora dos Mercianos?
 R: AEthelflaed
 
 Questão 138
-Que tipo de unidade é mais forte contra a arqueaira?
+Que tipo de unidade é mais forte contra a arquearia?
 R: Cavalaria
 
 Questão 139
@@ -666,7 +667,8 @@ R: Doando para a tecnologia da aliança de pesquisa
 
 Questão 166
 O processo de combinar átomos é conhecido como o quê?
-R: Fusão
+R: Fusão 
+(combinar)(cuidado a palavra dividir é fissão e combinar é fusão)
 
 Questão 167
 Vantagens da imprensa de Johannes Gutenberg incluem todos os seguintes, exceto qual?
@@ -885,8 +887,8 @@ O épico de Homero, "A Ilíada" foca nos eventos que acontecem durante que guerr
 R: A Guerra de Troia
 
 Questão 221
-Qual dos seguintes é um recursos energéticos inexaurível que baseia-se no magma quente ou em rochas quentes e secas abaixo da superfície?
-R: Energia geotérmica
+Qual destas é uma das "habilidades ativas" de Minamoto no Yoshitsune?
+R: Kyohachiryu
 
 Questão 222
 A Rainha Vitória da Inglaterra fez parte de que casa real?
@@ -934,7 +936,7 @@ R: Os Incas
 
 Questão 233
 O que Espártaco fez como escravo antes de liderar a maior rebelião de escravos da Roma Antiga?
-R: um gladiador
+R: Um gladiador
 
 Questão 234
 Qual dos seguintes não é um recurso natural?
@@ -1046,8 +1048,10 @@ Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos d
 R: Sun Tzu
 
 Questão 260
+??????????????????
 Por que o escorbuto já foi um problema comum dos marinheiros?
 R: Pro falta de frutas e vegetais frescos em longas viagens
+??????????????????
 
 Questão 261
 Em que o Comandante Hermann é bom?
@@ -1098,8 +1102,8 @@ Qual é a relação entre os famosos generais Tolui e Gengis Khan?
 R: Pai e filho
 
 Questão 273
-Qual dos seguintes foi elogiado pelos seus conterrâneos como melhor e mais honesto da Grécia Antiga dos representantes democráticos?
-R: Péricles
+Qual unidade se beneficia da habilidade "Mestre Estrategista" de Sun Tzu?
+R: Infantaria
 
 Questão 274
 Qual dos seguintes animais NÃO coloca ovos?
@@ -1134,7 +1138,7 @@ Qual dos seguintes é uma construção econômica?
 R: Centro de Alianças
 
 Questão 282
-Além de "Vezes que você pode ser ajudado" e "Poder", qual que seguintes parâmetros do Centro de Alianças também pode ser atualizado?
+Além de "Vezes que você pode ser ajudado" e "Poder", qual dos seguintes parâmetros do Centro de Alianças também pode ser atualizado?
 R: Capacidade de reforços da cidade
 
 Questão 283
@@ -1331,5 +1335,261 @@ R: Varíola
 Questão 331
 Em que ano Einstein publicou seus quatro Annus Mirabilis ("Artigos Miraculosos")?
 R: 1905
+
+Questão 332
+Qual o benefício de pesquisar "Matemática" na Academia?
+R: Velocidade de pesquisa aumentada
+
+Questão 333
+QUal dos seguintes foi escrito por Mary Shelley?
+R: Frankenstein
+
+Questão 334
+Em que ano o Código Napoleônico foi estabelecido?
+R: 1804
+
+Questão 335
+O atleta afro-americano Jesse Owens ganhou quantas medalhas de ouro olímpicas em 1936?
+R: 4
+
+Questão 336
+Qual dos seguintes comandantes foi de fato governante do seu reino, mas nunca foi oficialmente chefe de estado?
+R: Carlos Martel
+
+Questão 337
+Quem foi a primeira mulher a ganhar o Prêmio Nobel?
+R: Marie Curie
+
+Questão 338
+O Dia do Elba foi a reunião de quais exércitos durante a Segunda Guerra Mundial?
+R: EUA e URSS
+
+Questão 339
+Por que a enfermeira britânica Florence Nightingale era conhecida como "A Dama da Lâmpada"?
+R: Porque precisava examinar os pacientes à noite
+
+Questão 340
+Na mitologia nórdica, qual era a Àrvore do Mundo?
+R: Freixo
+
+Questão 341
+O último livro de Darwin discutia primariamente a influência de qual espécie no solo?
+R: Minhocas
+
+Questão 342
+Quantos baús de recompensa são concedidos ao atingir 60 pontos de atividades diária?
+R: 3
+
+Questão 343
+Qual era o título Pierre de Coubertin, fundador do Comitê Olímpico International?
+R: Barão
+
+Questão 344
+Em quantos canatos ou impérios foi dividido o império Mongol na época da morte de Kublai em 1294?
+R: 4
+
+Questão 345
+Na Dinastia Han da China, quem abriu a Estrada da Seda sob ordens do Imperador Wu?
+R: Zhang Qian
+
+Questão 346
+O que causou a morte do destacado estadista e estrategista militar, Péricles?
+R: Uma praga
+
+Questão 347
+Que instrumento musical é um emblema nacional da Irlanda?
+R: Arpa
+
+Questão 348
+Qual das seguintes invenções NÃO surgiu durante a primeira Revolução Industrial?
+R: Telefone
+
+Questão 349
+Na mitologia grega, como a Deusa Eos é conhecida?
+R: A deusa da aurora
+
+Questão 350
+Que escola de pensamento foi fundada pelo filósofo chinês Lao Tzu?
+R: Taoismo
+
+Questão 351
+Em qual ano ocorreu o primeiro Campeonato de Tênis de Wimbledon?
+R: 1877
+
+Questão 352
+O que significa a palavra "Fórmula" em "Corrida de Fórmula 1"?
+R: As regras que os carros participantes devem seguir
+
+Questão 353
+Qual dos seguintes doutores foi o primeiro a descrever completamente, e em detalhes, a circulação sistêmica e a função do coração?
+R: William Harvey
+
+Questão 354
+O "Nó de Gravata Windsor" foi popularizado por que rei da Inglaterra?
+R: Eduardo VIII
+
+Questão 355
+Qual desses itens NÃO pode ser comprado dentro da Boutique do Mercador Misterioso?
+R: Página de Passaporte
+
+Questão 356
+Que contribuição extraordinária à ciência deu ao biólogo Carl Landsteiner o Prêmio Nobel?
+R: Descobrir os grupos sanguíneos humanos
+
+Questão 357
+Em RoK, Hwarang é a unidade especial de qual civilização?
+R: Coréia
+
+Questão 358
+Qual dessas civilizações pode aumentar a Capacidade Hospitalar?
+R: Bizâncio
+
+Questão 359
+Qual comandante é comumente considerado o exemplo ideal do "Espírito Bushido"?
+R: Kusunoki Masashige
+
+Questão 360
+Quantos itens da mesma qualidade devo equipar para completar o "Pronto para a batalha"?
+R: 6
+
+Questão 361
+Qual desses campos NÃO está incluindo na lista dos Prêmios Nobel?
+R: Matématica
+
+Questão 362
+A "Batalha de Navas de Tolosa" foi uma grande reviravolta em qual conflito?
+R: A Reconquista
+
+Questão 363
+Qual tumba de um faraó do antigo Egito o arqueólogo britânico Howard Carter descobriu em 1922?
+R: Tutankhamun (Tutancâmon)
+
+Questão 364
+Os espinhos de cacto são na verdade uma forma modificada de qual outra parte da planta?
+R: Folhas
+
+Questão 367
+Dos comandantes abaixo, qual se adequa melhor a liderar tropas ao coletar recursos?
+R: Seondeok
+
+Questão 368
+Charles Macintosh fabricou uma versão primitiva da capa de chuva a partir de qual material?
+R: Borracha
+
+Questão 367
+Contra qual país a Inglaterra estava lutando na Batalha de Agincourt?
+R: França
+
+Questão 368
+Qual imperador foi nomeado o "Khan do Céu" por vários nômades turcos durante as dinastias Sui e Tang?
+R: Imperador Taizong de Tang
+
+Questão 369
+Quais das seguintes cidades foi a primeira a ter um sistema de metrô expresso?
+R: Londres
+
+Questão 370
+Em que ano foi publicada a primeira edição de "O diário de Anne Frank"?
+R: 1947
+
+Questão 371
+Qual é a parte mais dura do corpo humano?
+R: Esmalte dos dentes
+
+Questão 372
+Qual é o único cometa de curto período que pode ser visto regularmente a olho nu da Terra?
+R: Cometa Halley
+
+Questão 373
+Na página VISUALIZAÇÃO DO COMANDANTE, que bônus os comandantes que atuam como "Guarda Punho de Sangue" recebem?
+R: Saúde de Tropa +1%
+
+Questão 374
+Uma diminuição em qual das seguintes métricas pode indicar uma proximidade crescente de um estado de vácuo?
+R: Pressão do ar
+
+Questão 375
+Em qual era da história chinesa ocorreu a "Batalha do Rio Fei", quando um pequeno grupo de soldados dominou uma tropa vastamente superior?
+R: Na Dinastia Jin?
+
+Questão 376
+Quantos Pontos de Atividade diários são necessários para resgatar a recompensa da pista do Presente Diário em "Pergaminhos de Lucerna"?
+R: 50
+
+Questão 377
+Quem conquistou o "Reino dos Vândalos e Alanos" na Guerra Vândala?
+R: Belisário
+
+Questão 378
+Qual desses países NÃO participou da Guerra Nórdica dos Sete Anos (1563-1570)?
+R: Reino Unido
+
+Questão 379
+Qual comandante supostamente disse: "Vim, vi, venci"?
+R: Júlio César
+
+Questão 380
+Em que ano a União Soviética foi formalmente fundada?
+R: 1922
+
+Questão 381
+Onde surgiu o reggae?
+R: Jamaica
+
+Questão 382
+Quem foi o primeiro italiano a receber o "Prêmio de Arquitetura Pritzker"?
+R: Aldo Rossi
+
+Questão 383
+Por que o Mar Morto recebeu este nome?
+R: A água altamente salina evita que plantas e animais prosperem perto dele
+
+Questão 384
+Quem foi o primeiro alpinista ou dupla de alpinistas a alcançar o topo do Monte Everest de acordo com os registros?
+R: Tenzing Norgay e Edmund Hilary
+
+Questão 385
+Quem foi o último Imperador de toda a Rússia?
+R: Nicholas II
+
+Questão 386
+Qual compositor escreveu a ópera "O Anel dos Nibelungos"?
+R: Wagner
+
+Questão 387
+Qual desses oficiais da aliança concede um aumento na Velocidade de Pesquisa?
+R: Conselheiro
+
+Questão 388
+Com que frequência ocorre a Copa do Mundo FIFA?
+R: A cada 4 anos
+
+Questão 389
+Qual desses campos NÃO está incluso na lista dos Prêmios Nobel?
+R: Matématica
+
+Questão 390
+Os hieróglifos eram parte do sistema de escrita formal de qual país?
+R: Egito Antigo
+
+Questão 391
+Qual desses itens NÃO pode ser obtido derrotando bárbaros?
+R: Pontos VIP
+
+Questão 392
+Qual raça de criaturas, míticas ou de outra natureza, viveu em Asgard de acordo com o mito nórdico?
+R: Aesir
+
+Questão 393
+Qual dos seguintes NÃO é um "país baixo" da Europa?
+R: Reino Unido
+
+Questão 394
+Quando as bicicletas foram introduzidas na Europa?
+R: Século 19
+
+Questão 395
+Quantas letras são usadas na versão atual do inglês?
+R: 26
 
 .
