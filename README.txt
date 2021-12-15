@@ -1,5 +1,5 @@
 Email: contato@sandroalvares.com.br
-Referências:
+Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
 https://rok.guide/buildings/lyceum-of-wisdom/
 
@@ -1592,5 +1592,13 @@ R: Século 19
 Questão 395
 Quantas letras são usadas na versão atual do inglês?
 R: 26
+
+Questão 396
+Quantas tropas os governadores podem enviar com Prefeitura de nível 17 ou superior?
+R: 4
+
+Questão 397
+Qual das seguintes civilizações não pode fortalecer sua cavalaria?
+R: Os Otomanos
 
 .
