@@ -600,7 +600,8 @@ R: Preta
 
 Questão 149
 Qual dos seguintes foi um Cavaleiro da Távola Redonda?
-R: Lancelotee
+A Rainha Genebra se apaixonou por qual Cavaleiro da Távola Redonda, segundo a lenda arturiana?
+R: Lancelote
 
 Questão 150
 "O fim justifica os meios" foi uma crença central do autor de "O Príncipe". Qual era o seu nome?
@@ -1600,5 +1601,29 @@ R: 4
 Questão 397
 Qual das seguintes civilizações não pode fortalecer sua cavalaria?
 R: Os Otomanos
+
+Questão 398
+Qual desses países NÃO foi membro fundador da OTAN (em 1949)?
+R: Peru
+
+Questão 399
+O brócolis é rico em que vitamina?
+R: Vitamina C
+
+Questão 400
+Na maioria dos casos, que tipo de leão tem uma juba?
+R: Macho adulto
+
+Questão 401
+Equipamentos com bônus de talento especial ampliarão seus atributos por qual porcentagem quando equipados por um comandante com o talento correspondente?
+R: 30%
+
+Questão 401
+A habilidade "Lorde Viking" do comandante Björn Ironside beneficia qual dos seguintes tipos de unidade?
+R: Infantaria
+
+Questão 401
+Eu sua trágica viagem, qual era o destino planejado do Titanic?
+R: Nova York
 
 .
