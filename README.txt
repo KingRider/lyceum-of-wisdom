@@ -1626,4 +1626,28 @@ Questão 401
 Eu sua trágica viagem, qual era o destino planejado do Titanic?
 R: Nova York
 
+Questão 402
+Em que estado fica a Walt Disney Company?
+R: Califórnia
+
+Questão 403
+Quem fundou o Primeiro Império Persa?
+R: Ciro, o Grande
+
+Questão 404
+Quem projetou o "Canhão Otomano"?
+R: Urbano
+
+Questão 405
+Quem fundou o Sultanato de Malaca?
+R: Parameswara
+
+Questão 406
+Na mitologia antiga, quem era o pai de Hermes?
+R: Zeus
+
+Questão 407
+Qual das alternativas a seguir é medida em "ano-luz"?
+R: Distância
+
 .
