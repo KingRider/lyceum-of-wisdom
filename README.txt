@@ -1650,4 +1650,28 @@ Questão 407
 Qual das alternativas a seguir é medida em "ano-luz"?
 R: Distância
 
+Questão 408
+Qual é o nome do estreito turco que divide a Europa da Ásia?
+R: (Estreito de) Bósforo
+
+Questão 409
+Quem foi a primeira mulher criada por Hefesto na mitologia grega?
+R: Pandora
+
+Questão 410
+Quem inventou a imprensa?
+R: Johann Gutenberg
+
+Questão 411
+Em RoK, o Catafractário é a unidade especial de qual civilização?
+R: Bizâncio
+
+Questão 412
+Qual dos seguintes é uma construção decorativa?
+R: Tambor de pedra
+
+Questão 413
+O que faz a habilidade de aliança "Presente da Natureza" quando é usada?
+R: Invoque pontos de recurso numa área selecionada
+
 .
