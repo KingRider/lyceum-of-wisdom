@@ -1618,59 +1618,59 @@ Questão 401
 Equipamentos com bônus de talento especial ampliarão seus atributos por qual porcentagem quando equipados por um comandante com o talento correspondente?
 R: 30%
 
-Questão 401
+Questão 402
 A habilidade "Lorde Viking" do comandante Björn Ironside beneficia qual dos seguintes tipos de unidade?
 R: Infantaria
 
-Questão 401
+Questão 403
 Eu sua trágica viagem, qual era o destino planejado do Titanic?
 R: Nova York
 
-Questão 402
+Questão 404
 Em que estado fica a Walt Disney Company?
 R: Califórnia
 
-Questão 403
+Questão 405
 Quem fundou o Primeiro Império Persa?
 R: Ciro, o Grande
 
-Questão 404
+Questão 406
 Quem projetou o "Canhão Otomano"?
 R: Urbano
 
-Questão 405
+Questão 407
 Quem fundou o Sultanato de Malaca?
 R: Parameswara
 
-Questão 406
+Questão 408
 Na mitologia antiga, quem era o pai de Hermes?
 R: Zeus
 
-Questão 407
+Questão 409
 Qual das alternativas a seguir é medida em "ano-luz"?
 R: Distância
 
-Questão 408
+Questão 410
 Qual é o nome do estreito turco que divide a Europa da Ásia?
 R: (Estreito de) Bósforo
 
-Questão 409
+Questão 411
 Quem foi a primeira mulher criada por Hefesto na mitologia grega?
 R: Pandora
 
-Questão 410
+Questão 412
 Quem inventou a imprensa?
 R: Johann Gutenberg
 
-Questão 411
+Questão 413
 Em RoK, o Catafractário é a unidade especial de qual civilização?
 R: Bizâncio
 
-Questão 412
+Questão 414
 Qual dos seguintes é uma construção decorativa?
 R: Tambor de pedra
 
-Questão 413
+Questão 415
 O que faz a habilidade de aliança "Presente da Natureza" quando é usada?
 R: Invoque pontos de recurso numa área selecionada
 
