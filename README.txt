@@ -1050,10 +1050,8 @@ Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos d
 R: Sun Tzu
 
 Questão 260
-??????????????????
 Por que o escorbuto já foi um problema comum dos marinheiros?
 R: Pro falta de frutas e vegetais frescos em longas viagens
-??????????????????
 
 Questão 261
 Em que o Comandante Hermann é bom?
@@ -1673,5 +1671,34 @@ R: Tambor de pedra
 Questão 415
 O que faz a habilidade de aliança "Presente da Natureza" quando é usada?
 R: Invoque pontos de recurso numa área selecionada
+
+Questão 416
+Qual comandante militar era conhecido como o "Libertador de Teutoburgo"?
+R: Hermann
+
+Questão 417
+Onde nasceu Pablo Picasso?
+R: Ibéria?
+Obs: Biografia disse Pablo Picasso nasceu em Málaga, Espanha
+
+Questão 418
+Quem escreveu "O Simpósio"?
+R: Platão
+
+Questão 419
+Qual dessas obras de literatura Monogatari japonesa descreve a lenda "Kaguya-hime"?
+R: A Lenda do Cortador de Bambus
+
+Questão 420
+Qual dos seguintes foi um general durante a Guerra Genpei do Japão?
+R: Tomoe Gozen
+
+Questão 421
+Em qual país o microscópio foi inventado?
+R: Países Baixos
+
+Questão 422
+Qual dos seguintes é o primeiro parque nacional do mundo?
+R: Yellowstone National Park
 
 .
