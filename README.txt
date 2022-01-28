@@ -1701,4 +1701,16 @@ Questão 422
 Qual dos seguintes é o primeiro parque nacional do mundo?
 R: Yellowstone National Park
 
+Questão 423
+O líder militar Carlos Martel NÃO era conhecido por qual dos seguintes feitos?
+R: Liderança de unidades de cavalaria
+
+Questão 424
+Qual comandante é conhecido como "O Martelo Imortal"?
+R: Carlos Martel
+
+Questão 425
+Qual das seguintes tecnologias precede a "Equitação"?
+R: Disciplina Militar
+
 .
