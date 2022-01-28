@@ -1701,4 +1701,8 @@ Questão 422
 Qual dos seguintes é o primeiro parque nacional do mundo?
 R: Yellowstone National Park
 
+Questão 422
+Quem funcou a "Armada Espanhola"?
+R: Felipe II
+
 .
