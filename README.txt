@@ -1713,4 +1713,8 @@ Questão 425
 Qual das seguintes tecnologias precede a "Equitação"?
 R: Disciplina Militar
 
+Questão 426
+Qual é o principal ingrediente do sal?
+R: Cloreto de Sódio
+
 .
