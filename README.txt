@@ -1717,4 +1717,8 @@ Questão 426
 Qual é o principal ingrediente do sal?
 R: Cloreto de Sódio
 
+Questão 427
+Que ferramenta útil foi inventada pelo famoso carpicador Lu Ban?
+R: A serra
+
 .
