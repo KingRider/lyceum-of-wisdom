@@ -1713,4 +1713,7 @@ Questão 425
 Qual das seguintes tecnologias precede a "Equitação"?
 R: Disciplina Militar
 
+Questão 426
+Qual destes NÃO é considerado um dos "Cinco Bons Imperadores" da dinastia Nerva-Antonina da ROma Antiga?
+R: Cômodo
 .
