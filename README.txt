@@ -1716,4 +1716,14 @@ R: Disciplina Militar
 Questão 426
 Qual destes NÃO é considerado um dos "Cinco Bons Imperadores" da dinastia Nerva-Antonina da ROma Antiga?
 R: Cômodo
+
+Questão 427
+Quem fundou a armada espanhola
+R: Filipe II
+
+Questão 428
+Qual é o elemento mais abundante na crosta terrestre?
+R: Oxigênio
+
+
 .
