@@ -1,3 +1,4 @@
+Última atualização: 08 de Fevereiro de 2022
 Email: contato@sandroalvares.com.br
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -1233,7 +1234,7 @@ Questão 305
 R: Marie Curie
 
 Questão 306
-Quais oceanos são conectados pelo Canal de Panamá?
+Quais oceanos são conectados pelo Canal do Panamá?
 R: Pacífico e Atlântico
 
 Questão 307
@@ -1510,7 +1511,7 @@ R: Pressão do ar
 
 Questão 375
 Em qual era da história chinesa ocorreu a "Batalha do Rio Fei", quando um pequeno grupo de soldados dominou uma tropa vastamente superior?
-R: Na Dinastia Jin?
+R: Na Dinastia Jin
 
 Questão 376
 Quantos Pontos de Atividade diários são necessários para resgatar a recompensa da pista do Presente Diário em "Pergaminhos de Lucerna"?
@@ -1712,5 +1713,25 @@ R: Carlos Martel
 Questão 425
 Qual das seguintes tecnologias precede a "Equitação"?
 R: Disciplina Militar
+
+Questão 426
+Que ferramenta útil foi inventada pelo famoso carpinteiro Lu Ban?
+R: A Serra
+
+Questão 427
+Qual é o elemento mais abundante na crosta terrestre?
+R: Oxigênio
+
+Questão 428
+Qual é a menor espécie de cobra conhecida?
+R: Leptotyphlops carlae
+
+Questão 429
+Quem escreveu o conhecido livro "Sapiens: Uma Breve História da Humanidade"?
+R: Yuval Noah Harari
+
+Questão 430
+Ingestão insuficiente de que elemento pode causar tiromegalia?
+R: Iodo
 
 .
