@@ -1,4 +1,4 @@
-Última atualização: 08 de Fevereiro de 2022
+Última atualização: 16 de Fevereiro de 2022
 Email: contato@sandroalvares.com.br
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -1679,7 +1679,7 @@ R: Hermann
 
 Questão 417
 Onde nasceu Pablo Picasso?
-R: Ibéria?
+R: Ibéria
 Obs: Biografia disse Pablo Picasso nasceu em Málaga, Espanha
 
 Questão 418
@@ -1733,5 +1733,33 @@ R: Yuval Noah Harari
 Questão 430
 Ingestão insuficiente de que elemento pode causar tiromegalia?
 R: Iodo
+
+Questão 431
+Yi Seong-Gye é especialista em qual dos seguintes?
+R: Guarnição
+
+Questão 432
+Quantos Batedores o Acampamento dos Batedores pode comportar ao mesmo tempo?
+R: 3
+
+Questão 433
+Qual das alternativas a seguir é a descrição correta da estratosfera?
+R: Quente em cima e fria embaixo
+
+Questão 434
+Qual animal inspirou o nome do "Rio Tigre" no grego antigo?
+R: Tigre
+
+Questão 435
+Qual é o principal ingrediente do sal?
+R: Cloreto de sódio
+
+Questão 436
+O que a tecnologia da "Maçonaria" pode ajudar a melhorar?
+R: A velocidade de construção de construções em sua cidade
+
+Questão 437
+Quem fundou a "Armada Espanhola"?
+R: Filipe II
 
 .
