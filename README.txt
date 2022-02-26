@@ -1,5 +1,6 @@
-Última atualização: 16 de Fevereiro de 2022
+Última atualização: 26 de Fevereiro de 2022
 Email: contato@sandroalvares.com.br
+
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
 https://rok.guide/buildings/lyceum-of-wisdom/
@@ -1761,5 +1762,33 @@ R: A velocidade de construção de construções em sua cidade
 Questão 437
 Quem fundou a "Armada Espanhola"?
 R: Filipe II
+
+Questão 438
+A civilização fenícia se originou em que parte do mundo?
+R: No Mediterrâneo Oriental
+
+Questão 439
+Qual é a nacionalidade de Pierre de Fermat, que propôs o Último Teorema de Fermat?
+R: França
+
+Questão 440
+O baú de conquistas de 1.000 pontos inclui:
+R: Escultura de Comandante Épico
+
+Questão 441
+Quem iniciou a primeira Marcha do Sal?
+R: Mahatma Gandhi
+
+Questão 442
+A "Cortadora de Libélula" foi arma escolhida por qual herói lendário?
+R: Honda Tadakatsu
+
+Questão 443
+Qual destes eventos NÃO faz parte de um triatlo?
+R: Asa delta
+
+Questão 444
+Em código Morse, qual é a duração em pontos entre duas palavras?
+R: 7 pontos
 
 .
