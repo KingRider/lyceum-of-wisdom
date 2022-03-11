@@ -1815,8 +1815,4 @@ Questão 450
 Quando ocorreu a Guerra da Sucessão Austríaca?
 R: 1740-1748
 
-Questão 451
-Na Arca de Osíris, que Aceleração você pode usar?
-R: Aceleração de Cura
-
 .
