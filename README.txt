@@ -1,4 +1,4 @@
-Última atualização: 26 de Fevereiro de 2022
+Última atualização: 11 de Março de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1717,7 +1717,7 @@ R: Disciplina Militar
 
 Questão 426
 Que ferramenta útil foi inventada pelo famoso carpinteiro Lu Ban?
-R: A Serra
+R: A serra
 
 Questão 427
 Qual é o elemento mais abundante na crosta terrestre?
@@ -1790,5 +1790,33 @@ R: Asa delta
 Questão 444
 Em código Morse, qual é a duração em pontos entre duas palavras?
 R: 7 pontos
+
+Questão 445
+O alfabeto grego se originou de qual outro sistema de escrita?
+R: Fenício
+
+Questão 446
+Qual é o maior animal do planeta?
+R: Baleia azul
+
+Questão 447
+Qual destas é uma descrição incorreta do "Mare Imbrium" na lua?
+R: Ele contém uma certa quantidade de água sedimentar
+
+Questão 448
+Quem fundou o "Sultanato de Malaca"?
+R: Parameswara
+
+Questão 449
+Qual dos seguintes NÃO é um naipe no pôquer?
+R: Ventos
+
+Questão 450
+Quando ocorreu a Guerra da Sucessão Austríaca?
+R: 1740-1748
+
+Questão 451
+Na Arca de Osíris, que Aceleração você pode usar?
+R: Aceleração de Cura
 
 .
