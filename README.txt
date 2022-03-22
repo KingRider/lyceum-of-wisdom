@@ -1,4 +1,4 @@
-Última atualização: 11 de Março de 2022
+Última atualização: 22 de Março de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -43,7 +43,7 @@ R: Júlio César
 
 Questão 10
 Quem elaborou a ideia do Cavalo de Troia? Quem venceu a Guerra de Troia?
-R: Odisseu, Os gregos
+R: Odisseu; Os gregos
 
 Questão 11
 Que parte do cérebro o álcool afetará?
@@ -102,7 +102,7 @@ Que civilização foi a primeira a ter banheiros públicos?
 R: Roma Antiga
 
 Questão 25
-Qual dos seguintes não dá créditos individuais?
+Qual dos seguintes NÃO dá Créditos Individuais?
 R: Dar recursos aos aliados
 
 Questão 26
@@ -1639,7 +1639,7 @@ Quem projetou o "Canhão Otomano"?
 R: Urbano
 
 Questão 407
-Quem fundou o Sultanato de Malaca?
+Quem fundou o "Sultanato de Malaca"?
 R: Parameswara
 
 Questão 408
@@ -1814,5 +1814,49 @@ R: Ventos
 Questão 450
 Quando ocorreu a Guerra da Sucessão Austríaca?
 R: 1740-1748
+
+Questão 451
+Qual desses artistas da era renascentista não era da Itália?
+R: Shakespeare
+
+Questão 452
+Quem foi o primeiro cônsul da República Romana?
+R: Lucius Junius Brutus
+
+Questão 453
+Os governadores não podem ganhar Pontos de Atividade por meio de qual das opções a seguir?
+R: Expedições
+
+Questão 454
+Que gás compõe mais de 90% da atmosfera de Marte?
+R: Dióxido de carbono
+
+Questão 455
+A habilidade ativa de qual Comandante pode infligir Silêncio?
+R: Hermann
+
+Questão 456
+Na mitologia grega antiga, quem era a esposa de Hades, o rei do submundo?
+R: Perséfone
+
+Questão 457
+Quem derrotou a Esfinge de acordo com a lenda grega?
+R: Édipo (Oidípous)
+
+Questão 458
+Qual das seguintes opções NÃO aumenta o limite de membros de uma Aliança?
+R: Indicar oficiais
+
+Questão 459 (idem 25)
+Qual das opções seguir NÃO concede Créditos Individuais?
+R: Atacar bárbaros
+
+Questão 460
+Os pandas têm 5 dedos em garras e um sexto dígito. Para que os pandas usam seu sexto dígito?
+R: Para segurar o bambu enquanto comem
+
+Questão 461
+A Tecnologia de Aliança "Guardião de Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
+R: Ataque
 
 .
