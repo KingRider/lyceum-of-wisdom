@@ -1879,4 +1879,8 @@ Questão 468
 Quem foi o professor de Platão?
 R: Socrates
 
+Questão 469
+Qual dessas civilizações pode aumentar sua velocidade de cura?
+R: França
+
 .
