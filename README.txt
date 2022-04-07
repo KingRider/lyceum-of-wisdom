@@ -534,7 +534,7 @@ R: Talco
 
 Questão 132
 Quem fundou a Dinastia de Joseon?
-R: Yi Seon-Gye
+R: Yi Seong-Gye
 
 Questão 133
 Pintores de Renascença em Flanders, assim como na Itália, tendiam a produzir que tipo de trabalho artístico?
