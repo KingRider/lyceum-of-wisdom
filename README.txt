@@ -1,4 +1,4 @@
-Última atualização: 22 de Março de 2022
+Última atualização: 07 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1858,5 +1858,25 @@ R: Para segurar o bambu enquanto comem
 Questão 461
 A Tecnologia de Aliança "Guardião de Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
 R: Ataque
+
+Questão 462
+A Torre Jin Mao de Xangai tem quantos andares?
+R: 88
+
+Questão 463
+A sua Prefeitura precisa estar em que nível para entrar na Idade do Ferro?
+R: Nivel 10
+
+Questão 464
+Se um homem com sangue tipo AB e uma mulher com sangue tipo B tiverem um bebê, qual das seguintes afirmações estaria incorreta?
+R: Poderia ter sangue tipo O
+
+Questão 467
+Qual é o apelido de Cleópatra VII no jogo?
+R: Rainha do Egito
+
+Questão 468
+Quem foi o professor de Platão?
+R: Socrates
 
 .
