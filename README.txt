@@ -1,4 +1,4 @@
-Última atualização: 07 de Abril de 2022
+Última atualização: 11 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1882,5 +1882,17 @@ R: Socrates
 Questão 469
 Qual dessas civilizações pode aumentar sua velocidade de cura?
 R: França
+
+Questão 470
+Qual desses efeitos NÃO é causado pelas habilidades de AEthelflaed?
+R: Curar unidades ligeiramente feridas
+
+Questão 471
+Qual destes NÃO é considerado um dos "Cinco Bons Imperadores" da dinastia Nerva-Antonina da Roma Antiga?
+R: Cômodo
+
+Questão 472
+Que informação o item Tropas Enganosas falsifica para Batedores inimigos?
+R: Contagem de unidades da sua cidade
 
 .
