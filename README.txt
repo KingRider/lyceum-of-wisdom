@@ -1,4 +1,4 @@
-Última atualização: 11 de Abril de 2022
+Última atualização: 12 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1894,5 +1894,9 @@ R: Cômodo
 Questão 472
 Que informação o item Tropas Enganosas falsifica para Batedores inimigos?
 R: Contagem de unidades da sua cidade
+
+Questão 473
+Qual é a maior cidade do Reino Unido?
+R: Londres
 
 .
