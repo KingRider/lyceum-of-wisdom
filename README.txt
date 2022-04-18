@@ -1,4 +1,4 @@
-Última atualização: 12 de Abril de 2022
+Última atualização: 17 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1898,5 +1898,17 @@ R: Contagem de unidades da sua cidade
 Questão 473
 Qual é a maior cidade do Reino Unido?
 R: Londres
+
+Questão 474
+A obra orquestral "Abertura 1812" foi composta para comemorar a vitória de quem?
+R: Império Russo
+
+Questão 475
+Qual desses comandantes tem a capacidade de converter algumas unidades mortas em unidades gravemente feridas ao atacar uma cidade?
+R: Carlos Magno
+
+Questão 476
+A Tecnologia de Aliança "Guardião do Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
+R: Ataque
 
 .
