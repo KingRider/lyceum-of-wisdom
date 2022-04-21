@@ -1,4 +1,4 @@
-Última atualização: 17 de Abril de 2022
+Última atualização: 21 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -283,8 +283,8 @@ Que comandante é conhecido como o Conquistador do Caos?
 R: Cao Cao
 
 Questão 70
-Qual nível mais alto da prefeitura da RoK?
-R: 25
+O famoso arqueólogo dinamarquês Christian Jurgensen Thomsen propôs o sistema de "Três idades" para categorizar a história antiga. Qual é a primeira etapa?
+R: Idade da Pedra
 
 Questão 71
 A França e a Alemanha eram ambas partes de que reino feudal?
@@ -1865,7 +1865,7 @@ R: 88
 
 Questão 463
 A sua Prefeitura precisa estar em que nível para entrar na Idade do Ferro?
-R: Nivel 10
+R: Nível 10
 
 Questão 464
 Se um homem com sangue tipo AB e uma mulher com sangue tipo B tiverem um bebê, qual das seguintes afirmações estaria incorreta?
@@ -1910,5 +1910,21 @@ R: Carlos Magno
 Questão 476
 A Tecnologia de Aliança "Guardião do Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
 R: Ataque
+
+Questão 477
+Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a Lenda Arturiana?
+R: Camlann
+
+Questão 478
+Quantas vezes você pode receber uma ajuda da aliança se o seu centro de aliança estiver no nível 25?
+R: 30
+
+Questão 479
+Qual destes eventos NÁO faz parte dos Jogos Olímpicos?
+R: Automobilismo
+
+Questão 480
+Um "dia" no planeta Vênus é aproximadamente igual a quantos dias na Terra?
+R: 243 dias
 
 .
