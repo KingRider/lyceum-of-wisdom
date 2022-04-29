@@ -1,4 +1,4 @@
-Última atualização: 21 de Abril de 2022
+Última atualização: 28 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1926,5 +1926,17 @@ R: Automobilismo
 Questão 480
 Um "dia" no planeta Vênus é aproximadamente igual a quantos dias na Terra?
 R: 243 dias
+
+Questão 481
+No Livro do Êxodo, quem conduz o povo judeu à Terra Prometida?
+R: Moisés
+
+Questão 482
+Qual destas é uma fala de Tomoe Gozen?
+R: Meu poder assusta até mesmo os fantasmas
+
+Questão 483
+Qual destas NÃO é uma das habilidades de Cao Cao?
+R: Batalha da tristeza
 
 .
