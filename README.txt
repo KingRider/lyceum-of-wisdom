@@ -1,4 +1,4 @@
-Última atualização: 28 de Abril de 2022
+Última atualização: 29 de Abril de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -1938,5 +1938,21 @@ R: Meu poder assusta até mesmo os fantasmas
 Questão 483
 Qual destas NÃO é uma das habilidades de Cao Cao?
 R: Batalha da tristeza
+
+Questão 484
+O galo gaulês é um símbolo nacional oficial de qual país?
+R: França
+
+Questão 485
+Quem mata Odin, o rei dos deuses, durante o Ragnarok na mitologia nórdica?
+R: Fenrir
+
+Questão 486
+A que famosa e influente família da Renascença o patrono da arte Duque Lorenzo pertenceu?
+R: A Casa dos Medici
+
+Questão 487
+Qual as histórias a seguir não faz parte dos Contos de Fadas dos irmãos Grimm?
+R: A pequena sereia
 
 .
