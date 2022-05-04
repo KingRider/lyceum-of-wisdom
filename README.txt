@@ -1,4 +1,4 @@
-Última atualização: 29 de Abril de 2022
+Última atualização: 03 de Maio de 2022
 Email: contato@sandroalvares.com.br
 
 Referências com inglês:
@@ -602,7 +602,6 @@ R: Preta
 
 Questão 149
 Qual dos seguintes foi um Cavaleiro da Távola Redonda?
-A Rainha Genebra se apaixonou por qual Cavaleiro da Távola Redonda, segundo a lenda arturiana?
 R: Lancelote
 
 Questão 150
@@ -1954,5 +1953,33 @@ R: A Casa dos Medici
 Questão 487
 Qual as histórias a seguir não faz parte dos Contos de Fadas dos irmãos Grimm?
 R: A pequena sereia
+
+Questão 488
+Quanto tempo durou a Guerra dos Cem Anos entre a Inglaterra e a França?
+R: 116 anos
+
+Questão 489
+Qual continente tem as temperaturas médias mais baixas?
+R: Antártida
+
+Questão 490
+Qual desses filmes animados NÃO foi dirigido por Hayao Miyazaki?
+R: Paprika
+
+Questão 491
+A Rainha Genebra se apaixonou por qual Cavaleiro da Távola Redonda, segundo a lenda arturiana?
+R: Lancelote
+
+Questão 492
+Qual dos seguintes NÃO é um pré-requisito para a Cartografia de Tecnologia Militar?
+R: Balística
+
+Questão 493
+Qual artista pintou a mundialmente famosa "Moça com o Brinco de Pérola"?
+R: Johannes Vermeer
+
+Questão 494
+Qual dos seguintes é considerado um dos discípulos de Confúcio?
+R: Yan Hui
 
 .
