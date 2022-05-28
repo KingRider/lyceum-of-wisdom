@@ -1,5 +1,5 @@
-Última atualização: 03 de Maio de 2022
-Email: contato@sandroalvares.com.br
+Última atualização: 27 de Maio de 2022
+Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -1123,7 +1123,7 @@ Qual tecnologia vem logo antes do Espadachim?
 R: Trabalho de Ferro
 
 Questão 278
-Em que o Comandante Lancelotee é bom?
+Em que o Comandante Lancelote é bom?
 R: Liderar unidades de cavalaria
 
 Questão 279
@@ -1370,7 +1370,7 @@ Por que a enfermeira britânica Florence Nightingale era conhecida como "A Dama 
 R: Porque precisava examinar os pacientes à noite
 
 Questão 340
-Na mitologia nórdica, qual era a Àrvore do Mundo?
+Na mitologia nórdica, qual era a Árvore do Mundo?
 R: Freixo
 
 Questão 341
@@ -1907,8 +1907,8 @@ Qual desses comandantes tem a capacidade de converter algumas unidades mortas em
 R: Carlos Magno
 
 Questão 476
-A Tecnologia de Aliança "Guardião do Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
-R: Ataque
+Como se faz para ganhar Pontos de Tecnologia de Aliança?
+R: Doando para a tecnologia da aliança de pesquisa
 
 Questão 477
 Onde ocorreu a batalha final entre o Rei Arthur e Mordred, de acordo com a Lenda Arturiana?
@@ -1981,5 +1981,62 @@ R: Johannes Vermeer
 Questão 494
 Qual dos seguintes é considerado um dos discípulos de Confúcio?
 R: Yan Hui
+
+Questão 495
+Qual órgão da planta da batata costumamos comer?
+R: Caule
+
+Questão 496
+O Prêmio Urso de Ouro é concedido em qual festival de cinema?
+R: Festival de Cinema de Berlim
+
+Questão 497
+Qual das seguintes obras foi escrita pelo dramaturgo francês Pierre Corneille?
+R: Le Cid
+
+Questão 498
+Em qual palácio inglês está a "Câmara Estrelada"?
+R: Palácio de Westminster
+
+Questão 499
+Supondo a ausência de quaisquer outros buffs especiais, qual desses comandantes tem a maior velocidade de marcha?
+R: Belisário
+
+Questão 500
+Qual é a causa raiz da doença da altitude?
+R: Exposição rápida a pequenas quantidades de oxigênio em altura elevada
+
+Questão 501
+Quantos anos há entre cada edição dos Jogos Olímpicos de Inverno?
+R: 4 anos
+
+Questão 502
+Nos quadrinhos da DC, qual é o nome verdadeiro do Batman?
+R: Bruce Wayne
+
+Questão 503
+Qual Chefe no evento Crise Ceroli planejou um gole bem-sucedido?
+R: Torgny
+
+Questão 504
+Em que país está localizado o Farol de Alexandria, uma das Sete Maravilhas do Mundo Antigo?
+R: Egito
+
+Questão 505
+Qual semideus captura o Cérbero, o "cão de três cabeças de Hades", de acordo com a mitologia grega?
+R: Hércules
+
+Questão 506
+O épico "Poema de El Cid" é originário de que país?
+R: Espanha
+
+Questão 507
+Quando Napoleão Bonaparte nasceu?
+R: 1769
+
+Questão 508
+Qual dos estados abaixo não fazia parte do período dos Três Reinos?
+R: Jin
+
 
 .
