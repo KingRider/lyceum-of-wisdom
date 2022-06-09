@@ -1,5 +1,5 @@
-Última atualização: 27 de Maio de 2022
-Pix/Contato Email: sandro.rider@gmail.com
+Última atualização: 09 de Junho de 2022
+Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -2038,5 +2038,20 @@ Questão 508
 Qual dos estados abaixo não fazia parte do período dos Três Reinos?
 R: Jin
 
+Questão 509
+O jogador de futebol Lionel Messi jogou por mais tempo em qual clube?
+R: Barcelona
+
+Questão 510
+Em que animal é baseado o mascote dos Jogos Olímpicos de Inverno de 2022?
+R: Panda
+
+Questão 511
+Qual destas NÃO é considerada uma tragédia shakespeariana?
+R: Noite de Reis
+
+Questão 512
+Você pode ajudar seus aliados a construir/aprimorar construções, pesquisar tecnologias e curar tropas. Mas quanto cada ação de ajuda preenche a barra de progresso?
+R: 0,01
 
 .
