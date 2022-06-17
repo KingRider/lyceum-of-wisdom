@@ -1,4 +1,4 @@
-Última atualização: 09 de Junho de 2022
+Última atualização: 17 de Junho de 2022
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -114,7 +114,7 @@ Qual dos seguintes NÃO dá EXP dos Comandantes?
 R: Atacar outros jogadores
 
 Questão 28
-Quanto mais variação genética uma população tiver, mais provável é que alguns indivíduos farão o quê?
+Quanto mais variação genética uma população tiver, mais provável é que alguns indivíduos faraó o quê?
 R: Sobreviver
 
 Questão 29
@@ -891,6 +891,7 @@ R: A Guerra de Troia
 
 Questão 221
 Qual destas é uma das "habilidades ativas" de Minamoto no Yoshitsune?
+Qual é a habilidade ativa de Minamoto no Yoshitsune?
 R: Kyohachiryu
 
 Questão 222
@@ -2053,5 +2054,209 @@ R: Noite de Reis
 Questão 512
 Você pode ajudar seus aliados a construir/aprimorar construções, pesquisar tecnologias e curar tropas. Mas quanto cada ação de ajuda preenche a barra de progresso?
 R: 0,01
+
+Questão 513
+Qual desses locais sagrados concede um bônus de velocidade de marcha?
+R: Santuário da Ventania
+
+Questão 514
+Qual estado criou a primeira forma de papel-moeda?
+R: China Antiga
+
+Questão 515
+Intolerância à lactose é causada pela falta de quê?
+R: Lactase
+
+Questão 516
+Qual dos seguintes países ou regiões NÃO faz parte do Norte da Europa?
+R: Argentina
+
+Questão 517
+Qual destas é uma descrião incorreta da energia eólica?
+R: Não é uma forma de energia renovável
+
+Questão 518
+Qual escultura já foi descrita por Mark Twain como a "mais lúgubre e tocante em pedra no mundo"?
+R: O Leão de Lucerna
+
+Questão 519
+Quais destes temas de cidades apresentam balões?
+R: Cabana da Colheita
+
+Questão 520
+Qual é o número máximo de edifícios decorativos da Estrada do Rei que um governador pode construir?
+R: 400
+
+Questão 521
+Quantos soldados de patrulha vagam pelas muralhas de um governador?
+R: 7
+
+Questão 522
+Qual desses comandantes tem a habilidade ativa Encantamento?
+R: Sárka
+
+Questão 523
+Quais desses boosts funcionam em Expedições em Rise of Kingdoms?
+R: Todos
+
+Questão 524
+Quando surgiu o gênero literário de ficção "hard-boiled" ou "noir"?
+R: Década de 1920
+
+Questão 525
+Em qual dessas campanhas Tutemés III participou?
+R: A Batalha de Megido
+
+Questão 526
+Quantas rosas aparecem no quadro de avatar Pétalas de Rosa?
+R: 4
+
+Questão 527
+Qual comandante pode ser considerado detentor das sobrancelhas mais grossas em Rise of Kingdoms?
+R: Cao Cao
+
+Questão 528
+Qual nação foi a primeira a inventar e usar o papiro como material de escrita?
+R: Egito
+
+Questão 529
+Qual item evoca Lohar Destemido?
+R: Escudo de Lohar
+
+Questão 530
+Qual desses romances é a primeira obra japonesa de ficção literária baseada na lenda do Rei Arthur?
+R: Kairo-kõ
+
+Questão 531
+Qual desses itens contém um registro útil de como um antigo egípcio podia passar para o outro mundo após a morte?
+R: O Livro dos Mortos
+
+Questão 532
+Que tipo de bênção de combate os Arqueiros recebem em Campeões de Olímpia?
+R: A Bênção de Ares
+
+Questão 533
+Em que cidade se encontra atualmente os Obelisco de Tutemés III?
+R: Istambul
+
+Questão 534
+Quantas flechas estão presas no escudo do comandante Lohar?
+R: 4
+
+Questão 535
+Qual desses comandantes tem um ramo de Ataque em sua árvore de Talentos?
+R: Centurião
+
+Questão 536
+Qual desses comandantes NÃO carrega uma espada?
+R: Theodora
+
+Questão 537
+Quais foram os dois materiais de construção mais usados pela antiga indústria de construção egípcia?
+R: Tijolos de barro e pedras
+
+Questão 538
+Que recompensa pode ser dada aos governadores que NÃO se qualificam para a Arca de Osíris, mas cujos colegas membros da aliança se qualificam e são derrotados?
+R: Gemas
+
+Questão 539
+Qual destes aeroportos tem pistas na praia?
+R: Aeroporto de Barra
+
+Questão 540
+Qual dessas comandantes femininas tem flores no cabelo?
+R: Boudica
+
+Questão 541
+Qual cidade egípcia marcou a fronteira entre o Alto Egito e o Baixo Egito durante o período pré-dinástico?
+R: Mênfis
+
+Questão 542
+Qual foi o primeiro filme do ator Charles Chaplin?
+R: Carlitos Repórter
+
+Questão 543
+Por qual outro nome os Chefes Ceroli Ak e Hok também são conhecidos?
+R: Os Gêmeos Astrais
+
+Questão 544
+Qual dessas espécies de tubarão também é conhecida como "tubarão Godzilla"?
+R: Dracopristis hoffmanorum
+
+Questão 545
+Qual faraó emitiu o decreto que aparece na Pedra de Roseta?
+R: Ptolemeu V
+
+Questão 546
+Qual destas opções NÃO seria uma penalidade por não extrair totalmente todos os recursos de um ponto de recurso?
+R: Sofrer um ataque bárbaro
+
+Questão 547
+Qual divinidade egípcia antiga é apresentada com a cabeça de um leão?
+R: Téfnis
+
+Questão 548
+Que tipo de bênção de combate a Cavalaria recebe em Campeões de Olímpia?
+R: A Bênção de Hades
+
+Questão 549
+Qual dessas áreas contém uma roda d'água?
+R: Terra de Cultivo da Aliança
+
+Questão 550
+Que antiga ruína romana localizada na Argélia recebeu formalmente o status de Patrimônio Mundial em 1982?
+R: As ruínas de Djémila
+
+Questão 551
+Em que cidade faleceu Henrique I de Bourbon, Príncipe de Condé?
+R: Saint-Jean-d'Angély
+
+Questão 552
+Que figura da história se disfarçou de capitão prussiano e fugiu com mais de 4.000 marcos de ouro apenas para ser posteriormente considerado um herói popular e chamado de "Capitão de Köpenick"?
+R: Wilhelm Voight
+
+Questão 553
+Que comandante diz: "Certifique-se de que nenhum deles escape!"
+R: Carlos Magno
+
+Questão 554
+Qual Chefe Ceroli vem da Baía do Chifre?
+R: Keira
+
+Questão 555
+Qual destes NÃO era um tipo comum de jardim no antigo Egito?
+R: Jardins públicos
+
+Questão 556
+Qual país adotou o quetzal como sua ave nacional?
+R: Guatemala
+
+Questão 557
+Quantas barracas pequenas você pode ver em um FOrte Bárbaro de nível 3?
+R: 6
+
+Questão 558
+Qual comandante apresenta um navio em seu plano de fundo?
+R: Pelágio
+
+Questão 559
+Quantos furacões foram registrados na região do Oceano Pacífico no ano de 1977?
+R: 4
+
+Questão 560
+Que tipo de bênção de combate a Infantaria recebe em Campeões de Olímpia?
+R: A Bênção de Atena
+
+Questão 561
+Qual Chefe Ceroli passou mais de 20 anos guarnecendo o Norte Distante?
+R: Torgny
+
+Questão 562
+Quais das seguintes divindades NÃO deveriam receber oferendas nos Templos de Abu Simbel?
+R: Anúbis
+
+Questão 563
+Quantos alunos assistem às palestras dos estudiosos do Liceu da Sabedoria?
+R: 6
 
 .
