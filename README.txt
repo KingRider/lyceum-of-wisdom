@@ -1,4 +1,4 @@
-Última atualização: 17 de Junho de 2022
+Última atualização: 17 de Junho de 2022 - 23:50
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2258,5 +2258,29 @@ R: Anúbis
 Questão 563
 Quantos alunos assistem às palestras dos estudiosos do Liceu da Sabedoria?
 R: 6
+
+Questão 564
+Por que a proa e popa de um escaler Viking é projetada para ser simétrica?
+R: Reverter a direção rapidamente sem precisar girar
+
+Questão 565
+Quem escreveu o famoso livro "Uma Breve História do Tempo"?
+R: Stephen Hawking
+
+Questão 566
+Durante qual estação as noites são relativamente curtas e os dias relativamente longos?
+R: Verão
+
+Questão 567
+Qual das seguintes obras NÃO foi escrita pelo maestro musical Andrew Lloyd Webber?
+R: Os Miseráveis
+
+Questão 568
+Depois que uma planta carnívora pega um inseto, como ela digere e absorve a presa?
+R: As abas internas das folhas secretam um fluido digestivo
+
+Questão 569
+Quem é o deus do trovão na mitologia nórdica?
+R: Thor
 
 .
