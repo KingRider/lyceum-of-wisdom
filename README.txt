@@ -1,4 +1,4 @@
-Última atualização: 17 de Junho de 2022 - 23:50
+Última atualização: 21 de Junho de 2022 - 21:12
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2282,5 +2282,149 @@ R: As abas internas das folhas secretam um fluido digestivo
 Questão 569
 Quem é o deus do trovão na mitologia nórdica?
 R: Thor
+
+Questão 570
+Qual é a unidade especial da civilização viking?
+R: Berserker
+
+Questão 571
+O que o nome do antigo Templo de Luxor do Egito também significava?
+R: O santuário do sul
+
+Questão 572
+Qual Chefe Ceroli empunha duas armas ao mesmo tempo?
+R: Astrid
+
+Questão 573
+Quantas Torres de Vigia estão incluídas em uma cidade de nível 25?
+R: 8
+
+Questão 574
+Que conquista é desbloqueada por gastar mais de 200 Chaves de Ouro na Taberna em uma única transação?
+R: Tudo incluso
+
+Questão 575
+Quem é o inimigo mortal do comandante Saladino?
+R: Ricardo I
+
+Questão 576
+Qual das seguintes foi a medalha de maior patente no Império Coreano?
+R: Ordem do Cheok Dourado
+
+Questão 577
+Por qual outro nome o Chefe Ceroli Wafura também é conhecido?
+R: Sombra do Lobo
+
+Questão 578
+Em que época foi construída a primeira pirâmide do antigo Egito?
+R: A Terceira Dinastia do Egito
+
+Questão 579
+Qual Chefe Ceroli vem do Vale dos Dentes-de-sabre?
+R: Ak e Hok
+
+Questão 580
+O que você precisa fazer para ganhar a conquista Proteção de Testemunhas?
+R: Mudar o seu apelido 10 vezes
+
+Questão 581
+Qual destas NÃO é uma Habilidade de Aliança?
+R: Marcha Rápida
+
+Questão 582
+Que tipo de pedra os antigos egípcios extraíam principalmente do delta do Nilo?
+R: Calcário
+
+Questão 583
+Como você obtém a conquista Amigo do Reino?
+R: Visitar 100 aldeias tribais
+
+Questão 584
+Qual era a língua nativa de Cleópatra VII, também conhecida como Cleópatra, a Rainha do Egito?
+R: Grego
+
+Questão 585
+Qual dos seguintes NÃO é considerado um organismo unicelular?
+R: Ácaro
+
+Questão 586
+Qual destes é encontrado no Baú de Ouro da aliança?
+R: 1.000 créditos individuais
+
+Questão 587
+Qual comandante diz: "Meu destino é determinado pela fé e pela oportunidade"?
+R: Matilda de Flanders
+
+Questão 588
+Qual é a capacidade de tropas de reforço que uma cidade recebe no Centro de Alianças de nível 20?
+R: 575.000
+
+Questão 589
+Qual desses comandantes NÃO é mostrado vestindo uma capa?
+R: Mehmed II
+
+Questão 590
+QUal é a cor do cocar floral usado pelo comandante Sárka em Rise of Kingdoms?
+R: Vermelho
+
+Questão 591
+A habilidade ativa em forma de leque do comandante Yi Seong-Gye assume que forma depois de ganhar uma Perícia?
+R: Um círculo
+
+Questão 592
+Você precisa estar em qual posição na classificação diária do Desfiladeiro do Pôr do Sol para receber as recompensas diárias de Chaves de Ouro?
+R: No top 5
+
+Questão 593
+Qual buff de ocupação é fornecido pelo Altar da Chama?
+R: Ataque de Tropas +3%
+
+Questão 594
+Por quantos francos Carlos V resgatou Bertrand du Guesclin durante o conflito pela Bretanha?
+R: 100.000
+
+Questão 595
+Qual entomologista e astrônomo da Nova Zelândia propôs pela primeira vez a adoção de um método de horário de verão?
+R: George Hudson
+
+Questão 596
+Quantos arqueiros são mostrados praticando no Centro de Artilharia ao treinar arqueiros compostos?
+R: 3
+
+Questão 597
+Quantas feras você espera ver lutando ao lado de tropas bárbaras de nível 20 em Rise of Kingdoms?
+R: 1 urso e 2 lobos
+
+Questão 598
+O que o caractere ankh representa nos antigos hierógrlifos egípcios?
+R: Vida
+
+Questão 599
+Que material os artesãos do antigo Egito usava para esculpir estátuas e murais?
+R: Pedra
+
+Questão 600
+Qual é o custo de Gema da decoração Escultura Humana?
+R: 2.000
+
+Questão 601
+No plano de fundo de qual comandante você pode ver um cachorro?
+R: Ricardo I
+
+Questão 602
+Qual comandante NÃO recebe um aumento de nível de habilidade de uma Escultura de Comandante Lendário?
+R: Hannibal Barca
+
+Questão 603
+Onde fica a capital da Alemanha?
+R: Berlim
+
+Questão 604
+Cao Cao se destaca na liderança de que tipo de unidade?
+R: Cavalaria
+
+Questão 605
+Em que região ficava o império de Srivijaya?
+R: Sudeste Asiático
 
 .
