@@ -1,4 +1,4 @@
-Última atualização: 21 de Junho de 2022 - 21:12
+Última atualização: 11 de Julho de 2022 - 11:25am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -1856,7 +1856,7 @@ Os pandas têm 5 dedos em garras e um sexto dígito. Para que os pandas usam seu
 R: Para segurar o bambu enquanto comem
 
 Questão 461
-A Tecnologia de Aliança "Guardião de Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
+A Tecnologia de Aliança "Guardião do Território" aumenta qual atributo das tropas ao lutar no território da Aliança?
 R: Ataque
 
 Questão 462
@@ -2426,5 +2426,41 @@ R: Cavalaria
 Questão 605
 Em que região ficava o império de Srivijaya?
 R: Sudeste Asiático
+
+Questão 606
+Qual é o planalto mais alto do mundo?
+R: Planalto do Tibete
+
+Questão 607
+Quem é a deusa da terra na mitologia grega antiga?
+R: Gaia
+
+Questão 608
+Qual dos seguintes animais NÃO são mamíferos?
+R: Tartaruga
+
+Questão 609
+Qual país sediou os primeiros Jogos Olímpicos de Inverno em 25 de janeiro de 1924?
+R: França
+
+Questão 610
+Quanto o item Ataque Aprimorado de 12 Horas aumenta o Ataque de suas tropas?
+R: 5%
+
+Questão 611
+Em que idade a Grécia antiga entrou depois que a civilização micênica foi destruída?
+R: Idade das Trevas
+
+Questão 612
+Qual chefe do evento Crise Ceroli é bem versado em magia de veneno?
+R: Dekar
+
+Questão 613
+Quem escreveu "As Aventuras de Alice no País das Maravilhas"?
+R: Lewis Carroll
+
+Questão 614
+De que país veio Zaratustra, do poema sinfônico "Assim falou Zaratustra"?
+R: Pérsia
 
 .
