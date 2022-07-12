@@ -1,4 +1,4 @@
-Última atualização: 11 de Julho de 2022 - 11:25am
+Última atualização: 11 de Julho de 2022 - 11:21pm
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2462,5 +2462,17 @@ R: Lewis Carroll
 Questão 614
 De que país veio Zaratustra, do poema sinfônico "Assim falou Zaratustra"?
 R: Pérsia
+
+Questão 615
+Os humanos pré-historicos conhecidos como "homo floresiensis" também são comumente referidos como?
+R: Hobbits
+
+Questão 616
+O conceito de "separação de poderes" vem de qual obra de Montesquieu?
+R: O Espírito da Lei
+
+Questão 617
+Uma unha humana é feita de qual material?
+R: Alfa-queratina
 
 .
