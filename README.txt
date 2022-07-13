@@ -1,4 +1,4 @@
-Última atualização: 11 de Julho de 2022 - 11:21pm
+Última atualização: 13 de Julho de 2022 - 11:49am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2474,5 +2474,13 @@ R: O Espírito da Lei
 Questão 617
 Uma unha humana é feita de qual material?
 R: Alfa-queratina
+
+Questão 618
+As fronteiras de qual desses países se estendem por dois continentes?
+R: Egito
+
+Questão 619
+Em que data se celebra anualmente o Dia Mundial do Meio Ambiente?
+R: 5 de junho
 
 .
