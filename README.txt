@@ -1,4 +1,4 @@
-Última atualização: 13 de Julho de 2022 - 11:49am
+Última atualização: 20 de Julho de 2022 - 10:21am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2482,5 +2482,17 @@ R: Egito
 Questão 619
 Em que data se celebra anualmente o Dia Mundial do Meio Ambiente?
 R: 5 de junho
+
+Questão 620
+Quem projetou o Djoser, a primeira pirâmide antiga com um design escalonado?
+R: Imhotep
+
+Questão 621
+Quem criou a famosa escultura "O Pensador"?
+R: Auguste Rodin
+
+Questão 622
+Quantas vezes você pode receber uma ajuda da aliança se o seu Centro de Alianças estiver no nível 14?
+R: 18
 
 .
