@@ -1,4 +1,4 @@
-Última atualização: 20 de Julho de 2022 - 10:21am
+Última atualização: 06 de Agosto de 2022 - 09:43am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2494,5 +2494,45 @@ R: Auguste Rodin
 Questão 622
 Quantas vezes você pode receber uma ajuda da aliança se o seu Centro de Alianças estiver no nível 14?
 R: 18
+
+Questão 623
+Onde fica localizada a Cidade do Vaticano na Itália?
+R: Roma
+
+Questão 624
+Em que ano estreou o Late Show com David Letterman?
+R: 1993
+
+Questão 625
+Em Arca de Osíris, qual é o requisito para uma aliança participar do Campo de Batalha de Ouro?
+R: Classificada entre as 20 melhores em poder da aliança em seu reino
+
+Questão 626
+A hera japonesa cresce para cima em muralhas e árvores para capturar energia de qual fonte?
+R: Luz solar
+
+Questão 627
+Qual dessas circunstâncias impediria você de mudar a civilização?
+R: Treinamento de tropas em andamento na sua cidade
+
+Questão 628
+Qual desses artistas NÃO foi um pintor Barroco?
+R: Vincent vag Gogh
+
+Questão 629
+Quem escreveu "Humano, demasiado humano"?
+R: Nietzche
+
+Questão 630
+Qual é a capital da República do Chile?
+R: Santiago
+
+Questão 631
+Qual famoso samurai japonês foi chamado de "Ushiwakamaru" quando criança?
+R: Minamoto no Yoshitsune
+
+Questão 632
+O que Che Guevara estudou na faculdade?
+R: Farmácia
 
 .
