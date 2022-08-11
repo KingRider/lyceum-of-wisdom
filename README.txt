@@ -1,4 +1,4 @@
-Última atualização: 06 de Agosto de 2022 - 09:43am
+Última atualização: 11 de Agosto de 2022 - 10:37am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -1864,7 +1864,7 @@ A Torre Jin Mao de Xangai tem quantos andares?
 R: 88
 
 Questão 463
-A sua Prefeitura precisa estar em que nível para entrar na Idade do Ferro?
+A sua Prefeitura precisa estar em que nível para entrar na Idade do Aço (Ferro)?
 R: Nível 10
 
 Questão 464
@@ -2534,5 +2534,13 @@ R: Minamoto no Yoshitsune
 Questão 632
 O que Che Guevara estudou na faculdade?
 R: Farmácia
+
+Questão 633
+O Cometa Halley pode ser observado da Terra a cada...
+R: 75-76 anos
+
+Questão 634
+Qual aeroporto civil é o mais alto acima do nível do mar?
+R: Aeroporto Daocheng Yading
 
 .
