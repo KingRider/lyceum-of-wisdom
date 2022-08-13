@@ -1,4 +1,4 @@
-Última atualização: 11 de Agosto de 2022 - 10:37am
+Última atualização: 13 de Agosto de 2022 - 09:44am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -1877,7 +1877,7 @@ R: Rainha do Egito
 
 Questão 468
 Quem foi o professor de Platão?
-R: Socrates
+R: Sócrates
 
 Questão 469
 Qual dessas civilizações pode aumentar sua velocidade de cura?
@@ -2542,5 +2542,25 @@ R: 75-76 anos
 Questão 634
 Qual aeroporto civil é o mais alto acima do nível do mar?
 R: Aeroporto Daocheng Yading
+
+Questão 635
+Em que país estava localizado o Somme, o campo de batalha mais famoso da Primeira Guerra Mundial?
+R: França
+
+Questão 636
+Na Grécia antiga, a Liga de Delos era liderada por qual cidade-estado?
+R: Atenas
+
+Questão 637
+"O último dos romanos" é um epíteto usado para descrever alguém com um modo de pensar romano clássico. Quem NÃO seria um exemplo disso?
+R: Attila
+
+Questão 638
+Quem é o "deus da morte" na mitologia grega antiga?
+R: Tânato
+
+Questão 639
+Qual destes não faz parte da Santíssima Trindade no cristianismo?
+R: A Mãe
 
 .
