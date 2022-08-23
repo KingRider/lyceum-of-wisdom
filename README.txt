@@ -1,4 +1,4 @@
-Última atualização: 13 de Agosto de 2022 - 09:44am
+Última atualização: 23 de Agosto de 2022 - 09:55am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2562,5 +2562,9 @@ R: Tânato
 Questão 639
 Qual destes não faz parte da Santíssima Trindade no cristianismo?
 R: A Mãe
+
+Questão 640
+A Habilidade de Especialidade de qual desses comandantes é a versão aprimorada de uma habilidade pré-existente?
+R: Björn Ironside
 
 .
