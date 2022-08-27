@@ -1,4 +1,4 @@
-Última atualização: 23 de Agosto de 2022 - 09:55am
+Última atualização: 27 de Agosto de 2022 - 09:45am
 Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2566,5 +2566,37 @@ R: A Mãe
 Questão 640
 A Habilidade de Especialidade de qual desses comandantes é a versão aprimorada de uma habilidade pré-existente?
 R: Björn Ironside
+
+Questão 641
+Por qual outro nome outubro também é conhecido no antigo calendário do Japão?
+R: Kannazuki
+
+Questão 642
+Qual destas é a Flor Nacional da Índia?
+R: Lótus
+
+Questão 643
+Qual era a ocupação de Theodorus Van Gosh, o irmão mais novo do famoso pintor holandês Vincent Van Gosh?
+R: Negociante de artes
+
+Questão 644
+De onde veio Hipócrates, o "Pai da Medicina"?
+R: Grécia Antiga
+
+Questão 645
+Em qual país ocorreu a "Batalha de Marengo"?
+R: Itália
+
+Questão 646
+A teoria geral da relatividade foi publicada por qual físico?
+R: Einstein
+
+Questão 647
+Como a Bíblia de Gutemberg foi colocada em produção em massa?
+R: Prensa de impressão de caracteres móveis
+
+Questão 648
+Onde estão localizadas as maiores reservas comprovadas de petróleo do mundo?
+R: Campo Ghawar
 
 .
