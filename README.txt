@@ -1,5 +1,6 @@
-Última atualização: 27 de Agosto de 2022 - 09:45am
-Doação PayPal/Pix/Contato Email: sandro.rider@gmail.com
+Última atualização: 07 de Setembro de 2022 - 12:54am
+Colabore: PayPal/Pix/Contato Email: sandro.rider@gmail.com
+Obrigado: Raul e Gabriel
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -2598,5 +2599,9 @@ R: Prensa de impressão de caracteres móveis
 Questão 648
 Onde estão localizadas as maiores reservas comprovadas de petróleo do mundo?
 R: Campo Ghawar
+
+Questão 649
+Quem foi o autor da tragédia "Medeia"?
+R: Eurípedes
 
 .
