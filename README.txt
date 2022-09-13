@@ -1,6 +1,6 @@
-Última atualização: 07 de Setembro de 2022 - 12:54am
-Colabore: PayPal/Pix/Contato Email: sandro.rider@gmail.com
-Obrigado: Raul e Gabriel
+Última atualização: 13 de Setembro de 2022 - 03:50pm
+Colabore Pix: PayPal/Pix/Contato Email: sandro.rider@gmail.com
+Obrigado Doação por (sem nome), Raul e Gabriel
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -2603,5 +2603,97 @@ R: Campo Ghawar
 Questão 649
 Quem foi o autor da tragédia "Medeia"?
 R: Eurípedes
+
+Questão 650
+Quantas tendas são exibidas no ícone da Tecnologia Militar?
+R: 3
+
+Questão 651
+Em que reino o comandante Boudica?
+R: Iceni
+
+Questão 652
+Qual das seguintes opções NÃO impedirá você de entrar em um campo de batalha da Arca de Osíris?
+R: Ativar um Aprimoramento de Ataque
+
+Questão 653
+Quanto espaço uma Prefeitura ocupa na cidade?
+R: 9x9
+
+Questão 654
+Os fragmentos da planta de qual dos seguintes acessórios NÃO PODE ser resgatado na Loja Temporada de Conquista?
+R: Pingente da noite eterna
+
+Questão 655
+O chá de assam, conhecido pelo seu rico aroma, surgiu em qual país?
+R: Índia
+
+Questão 656
+Em qual país o queijo muçarela, amplamente associado às pizzas e culinária italiana, foi produzido pela primeira vez?
+R: Itália
+
+Questão 657
+Qual das seguintes penalidades podem ser aplicadas em resposta ao uso de softwares de terceiros?
+R: Restrições de batalha
+
+Questão 658
+Qual dessas figuras históricas NÃO era um botânico?
+R: Dmitry Mendeleev
+
+Questão 659
+Onde está a mão direita da famosa escultura conhecida como "O Pensador"?
+R: Debaixo do queixo
+
+Questão 660
+Qual Chefe Ceroli cercou a Cidadela dos Bravos com suas forças?
+R: Torgny
+
+Questão 661
+Qual dessas Habilidades da Aliança aumenta o dano contra bárbaros e outras unidades neutras?
+R: Progresso desenfreado
+
+Questão 662
+Quais são as armas usadas pelo comandante Guardião da Cidade?
+R: Um machado e um escudo
+
+Questão 663
+Quais dessas Bênçãos inflige imediatamente uma perda de 10% de poder de tropa ao seu inimigo no início da batalha no evento "Reino Dourado"?
+R: Âncora
+
+Questão 664
+Quais dessas habilidades pertencentes ao Comandante Sun Tzu é aumentada ao Despertar?
+R: Arte da Guerra
+
+Questão 665
+Que tipo de boost a habilidade ativa da comandante Joana D'Arc concede às forças aliadas?
+R: Raiva
+
+Questão 666
+Que tipo de bênção de combate as unidades mistas recebem em Campeões de Olímpia?
+R: A Bênção de Apolo
+
+Questão 667
+Quantos Pontos Chave são necessários para desbloquear o Tesouro de Cristal Azul nos Presentes da Aliança?
+R: 3.000.000
+
+Questão 668
+Onde nasceu o famoso músico Beethoven?
+R: Bonn
+
+Questão 669
+Quais desses itens NÃO PODEM ser obtidos num Baú de Equipamentos de Taberna?
+R: Aceleração de treinamento de 60 Minutos
+
+Questão 670
+O peixe com fritas se originou em qual país?
+R: Inglaterra
+
+Questão 671
+Quantas cartas no total são mostradas nas mãos do Mercador Misterioso?
+R: 5
+
+Questão 672
+Que tipo de comandante se torna o Comandante da Guarnição temporarário caso um Governador não tenha nomeado um comandante ou um comandante nomeado não esteja presente?
+R: O comandante de nível mais alto presente no momento
 
 .
