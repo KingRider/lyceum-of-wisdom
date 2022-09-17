@@ -1,5 +1,5 @@
-Última atualização: 13 de Setembro de 2022 - 03:50pm
-Colabore Pix: PayPal/Pix/Contato Email: sandro.rider@gmail.com
+Última atualização: 17 de Setembro de 2022 - 01:16pm
+Colabore: PayPal/Pix/Contato Email: sandro.rider@gmail.com
 Obrigado Doação por (sem nome), Raul e Gabriel
 
 Referências com inglês:
@@ -2695,5 +2695,29 @@ R: 5
 Questão 672
 Que tipo de comandante se torna o Comandante da Guarnição temporarário caso um Governador não tenha nomeado um comandante ou um comandante nomeado não esteja presente?
 R: O comandante de nível mais alto presente no momento
+
+Questão 673
+Qual das seguintes opções NÃO é um componente usado para forjar a arma Épica "Era Dourada"?
+R: Osso animal
+
+Questão 674
+Em qual país o microscópio foi inventado?
+R: Países Baixos
+
+Questão 675
+Em que país foram travadas as Guerras das Rosas?
+R: Inglaterra
+
+Questão 676
+Qual é a maior pirâmide do mundo?
+R: A Grande Pirâmide de Cholula
+
+Questão 677
+Em qual região da Itália fica a Catedral de Santa Maria del Fiore?
+R: Toscana
+
+Questão 678
+Um "dia" no Planeta Vênus é aproximadamente igual a quantos dias na Terra?
+R: 243 dias
 
 .
