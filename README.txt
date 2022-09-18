@@ -1,4 +1,4 @@
-Última atualização: 17 de Setembro de 2022 - 01:16pm
+Última atualização: 18 de Setembro de 2022 - 20:37
 Colabore: PayPal/Pix/Contato Email: sandro.rider@gmail.com
 Obrigado Doação por (sem nome), Raul e Gabriel
 
@@ -2719,5 +2719,25 @@ R: Toscana
 Questão 678
 Um "dia" no Planeta Vênus é aproximadamente igual a quantos dias na Terra?
 R: 243 dias
+
+Questão 679
+Qual desses alimentos o estadista Han Oriental Cao Cao poderia não ter comido?
+R: Milho
+
+Questão 680
+"Tongwancheng" foi a capital de qual grupo étnico da China antiga?
+R: Xiongnu
+
+Questão 681
+Em que país nasceu Marco Polo, o famoso explorador e comerciante?
+R: República de Veneza
+
+Questão 682
+Quem é a mãe de Cupido, o deus do amor com cara de bebê na mitologia romana?
+R: Vênus
+
+Questão 683
+Qual líder militar era conhecido como o "Reformador das Legiões"?
+R: Gaius Marius
 
 .
