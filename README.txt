@@ -1,6 +1,6 @@
-Última atualização: 18 de Setembro de 2022 - 20:37
+Última atualização: 24 de Setembro de 2022 - 12:27
 Colabore: PayPal/Pix/Contato Email: sandro.rider@gmail.com
-Obrigado Doação por (sem nome), Raul e Gabriel
+Obrigado Doação por raphael, (sem nome), Raul e Gabriel
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -2397,7 +2397,7 @@ Quantas feras você espera ver lutando ao lado de tropas bárbaras de nível 20 
 R: 1 urso e 2 lobos
 
 Questão 598
-O que o caractere ankh representa nos antigos hierógrlifos egípcios?
+O que o caractere ankh representa nos antigos hieróglifos egípcios?
 R: Vida
 
 Questão 599
@@ -2739,5 +2739,17 @@ R: Vênus
 Questão 683
 Qual líder militar era conhecido como o "Reformador das Legiões"?
 R: Gaius Marius
+
+Questão 684
+Quem "possui" a ilha de Páscoa?
+R: Chile
+
+Questão 685
+Realizada em 1929, quanto tempo durou o primeiro Prêmio da Academia ("Oscar") durou?
+R: 15 minutos
+
+Questão 686
+Qual músico compôs "As Bodas de Fígaro"?
+R: Mozart
 
 .
