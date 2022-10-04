@@ -1,5 +1,5 @@
-Última atualização: 24 de Setembro de 2022 - 12:27
-Colabore: PayPal/Pix/Contato Email: sandro.rider@gmail.com
+Última atualização: 04 de Outubro de 2022 - 16:02
+Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 Obrigado Doação por raphael, (sem nome), Raul e Gabriel
 
 Referências com inglês:
@@ -2751,5 +2751,9 @@ R: 15 minutos
 Questão 686
 Qual músico compôs "As Bodas de Fígaro"?
 R: Mozart
+
+Questão 687
+No evento Desejo de Vitória, como os jogadores podem ganhar recompensas?
+R: Treinando tropas
 
 .
