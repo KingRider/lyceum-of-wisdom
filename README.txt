@@ -1,6 +1,5 @@
-Última atualização: 04 de Outubro de 2022 - 16:02
+Última atualização: 06 de Outubro de 2022 - 12:44
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
-Obrigado Doação por raphael, (sem nome), Raul e Gabriel
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/
@@ -2755,5 +2754,13 @@ R: Mozart
 Questão 687
 No evento Desejo de Vitória, como os jogadores podem ganhar recompensas?
 R: Treinando tropas
+
+Questão 688
+A pistola Luger, fabricada para o exército alemão durante a Segunda Guerra Mundial, usa qual tipo de munição?
+R: 9mm Parabellum
+
+Questão 689
+Qual desses romances NÃO foi escrito por Margaret Atwood?
+R: Flores para Algernon
 
 .
