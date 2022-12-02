@@ -1,4 +1,4 @@
-Última atualização: 06 de Outubro de 2022 - 12:44
+Última atualização: 02 de Dezembro de 2022 - 20:12
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2324,7 +2324,7 @@ Qual Chefe Ceroli vem do Vale dos Dentes-de-sabre?
 R: Ak e Hok
 
 Questão 580
-O que você precisa fazer para ganhar a conquista Proteção de Testemunhas?
+O que você precisa fazer para ganhar a conquista PROTEÇÃO DE TESTEMUNHAS?
 R: Mudar o seu apelido 10 vezes
 
 Questão 581
@@ -2716,8 +2716,8 @@ Em qual região da Itália fica a Catedral de Santa Maria del Fiore?
 R: Toscana
 
 Questão 678
-Um "dia" no Planeta Vênus é aproximadamente igual a quantos dias na Terra?
-R: 243 dias
+Boudica liderou as tribos da Grã-Bretanha em uma revolta contra quem?
+R: O Império Romano
 
 Questão 679
 Qual desses alimentos o estadista Han Oriental Cao Cao poderia não ter comido?
@@ -2762,5 +2762,37 @@ R: 9mm Parabellum
 Questão 689
 Qual desses romances NÃO foi escrito por Margaret Atwood?
 R: Flores para Algernon
+
+Questão 690
+Páginas de Passaporte são usadas ao imigrar para outros reinos. De que depende o número de Páginas de Passaporte usadas?
+R: Poder Individual do Governandor
+
+Questão 691
+Que grupo étnico fundou a primeira civilização da Mesopotâmia?
+R: Os sumérios
+
+Questão 692
+No Reino Dourado, quantas passagens você precisa liberar para obter um Baú de Ouro?
+R: 4 Passagens
+
+Questão 693
+A palavra "maratona" originalmente se referia a quê?
+R: O nome de um lugar
+
+Questão 694
+Durante o período de Alto e Baixo Egito, qual era a cor do faraó do Alto Egito?
+R: Branca
+
+Questão 695
+O que faz a habilidade de aliança "Completamente Carregado" quando é usada?
+R: Aumenta a velocidade de reunião dos membros da aliança para um tipo de recurso
+
+Questão 696
+Em que continente o serval viveu primeiro?
+R: África
+
+Questão 697
+Qual dessas estações de pesquisa está na latitude mais alta?
+R: Estação Polo Sul Amundsen-Scott
 
 .
