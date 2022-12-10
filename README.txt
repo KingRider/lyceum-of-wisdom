@@ -1,4 +1,4 @@
-Última atualização: 02 de Dezembro de 2022 - 20:12
+Última atualização: 09 de Dezembro de 2022 - 23:45
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2794,5 +2794,29 @@ R: África
 Questão 697
 Qual dessas estações de pesquisa está na latitude mais alta?
 R: Estação Polo Sul Amundsen-Scott
+
+Questão 698
+Qual das seguintes civilizações oferece um bônus de velocidade de cura de 20% para hospitais?
+R: França
+
+Questão 699
+Quantas peças de minério de ferro normal devem ser combinadas para criar uma peça de minério de ferro avançado?
+R: 4
+
+Questão 700
+O que faz a habilidade de aliança "Artesão Hábil" quando é usada?
+R: Aumenta grandemente a velocidade de construção de bandeira de aliança
+
+Questão 701
+Quais dessas habilidades da aliança aumentarão sua velocidade de coleta de recursos?
+R: Complementamente carregado
+
+Questão 702
+Qual comandate é apelidado de "Arco da Revolução"?
+R: Yi Seong-Gye
+
+Questão 703
+Qual dos seguintes estreitos está localizado entre a Eurásia e a América do Norte?
+R: Estreito de Bering
 
 .
