@@ -1,9 +1,10 @@
-Última atualização: 09 de Dezembro de 2022 - 23:45
+Última atualização: 15 de Dezembro de 2022 - 10:54
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
-https://www.appgamer.com/rise-of-kingdoms/answers/
-https://rok.guide/buildings/lyceum-of-wisdom/
+https://www.appgamer.com/rise-of-kingdoms/answers/ (mais populares / inglês)
+https://rok.guide/buildings/lyceum-of-wisdom/ (página está desatualizado)
+https://kangfumaster.com/rok-peerless-scholar-qa/
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -686,7 +687,7 @@ Quantas vezes o caractere "1" é usado quando você escreve do número 1 ao 99?
 R: 20
 
 Questão 170
-Quem implementou o Calendário Juliano em Roma?
+Quem (primeiro) implementou o Calendário Juliano em Roma?
 R: Júlio César
 
 Questão 171
@@ -718,8 +719,8 @@ Qual dos seguintes foi inimigo de Ricardo, Coração de Leão?
 R: Saladin
 
 Questão 178
-Quem primeiro implementou o Calendário Juliano em Roma?
-R: Júlio César
+Qual das seguintes NÃO é uma das habilidades de Júlio César?
+R: Vida Militar
 
 Questão 179
 Qual dos seguintes NÃO é parte da bandeira do México?
@@ -2818,5 +2819,9 @@ R: Yi Seong-Gye
 Questão 703
 Qual dos seguintes estreitos está localizado entre a Eurásia e a América do Norte?
 R: Estreito de Bering
+
+Questão 704
+Na mitologia chinesa, que tipo de criatura é Jingwei?
+R: Um pássaro
 
 .
