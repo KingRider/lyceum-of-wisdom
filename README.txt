@@ -1,4 +1,4 @@
-Última atualização: 15 de Dezembro de 2022 - 10:54
+Última atualização: 16 de Dezembro de 2022 - 23:41
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -519,6 +519,7 @@ R: Sócrates
 
 Questão 128
 Quem instituiu o Calendário Juliano?
+Quem (primeiro) implementou o Calendário Juliano em Roma?
 R: Júlio Cesar
 
 Questão 129
@@ -687,8 +688,8 @@ Quantas vezes o caractere "1" é usado quando você escreve do número 1 ao 99?
 R: 20
 
 Questão 170
-Quem (primeiro) implementou o Calendário Juliano em Roma?
-R: Júlio César
+Quem foi o líder do Exército Ocidental durante a Batalha de Sekigahara, que ocorreu durante o período Sengoku do Japão?
+R: Ishida Mitsunari
 
 Questão 171
 Que psicólogo alemão descobriu a curva de esquecimento do cérebro humano?
@@ -2823,5 +2824,9 @@ R: Estreito de Bering
 Questão 704
 Na mitologia chinesa, que tipo de criatura é Jingwei?
 R: Um pássaro
+
+Questão 705
+Qual desses escritores é considerado representativo do absurdismo?
+R: Albert Camus
 
 .
