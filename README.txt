@@ -1,4 +1,4 @@
-Última atualização: 16 de Dezembro de 2022 - 23:41
+Última atualização: 21 de Dezembro de 2022 - 10:28
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2828,5 +2828,29 @@ R: Um pássaro
 Questão 705
 Qual desses escritores é considerado representativo do absurdismo?
 R: Albert Camus
+
+Questão 706
+Qual destes NÃO é um dos estratagemas vencedores listados no antigo livro militar chinês, os "Trinta e seis estratagemas"?
+R: A estratégia de "forte vazio"
+
+Questão 707
+Quais destes Quadros do Avatar podem ser obtidos no evento Crise Ceroli?
+R: Reino Submarino
+
+Questão 708
+Qual é o pico mais alto do mundo?
+R: Monte Everest
+
+Questão 709
+Os 24 "termos solares" são um sistema de calendário tradicional chinês usado para que propósito?
+R: Agricultura
+
+Questão 710
+Seondeok era a Rainha de Silla (parte da atual Coreia). Qual era o nome de nascimento dela?
+R: Kim Deokman
+
+Questão 711
+A famosa escultura renascentista Pietà foi obra de qual artista?
+R: Michelangelo
 
 .
