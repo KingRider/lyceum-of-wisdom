@@ -1,4 +1,4 @@
-Última atualização: 21 de Dezembro de 2022 - 10:28
+Última atualização: 21 de Dezembro de 2022 - 21:46
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2852,5 +2852,9 @@ R: Kim Deokman
 Questão 711
 A famosa escultura renascentista Pietà foi obra de qual artista?
 R: Michelangelo
+
+Questão 712
+Qual dos seguintes comandantes é ruim colentado recursos?
+R: Atiradora
 
 .
