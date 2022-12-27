@@ -2857,4 +2857,8 @@ Questão 712
 Qual dos seguintes comandantes é ruim colentado recursos?
 R: Atiradora
 
+Questão 713
+Qual é a segunda maior nação constituinte do Reino Unido?
+R: Escócia
+
 .
