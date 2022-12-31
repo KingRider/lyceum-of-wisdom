@@ -1,4 +1,4 @@
-Última atualização: 30 de Dezembro de 2022 - 23:40
+Última atualização: 31 de Dezembro de 2022 - 12:07
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -2877,5 +2877,29 @@ R: Bao Si
 Questão 717
 Qual desses navegadores foi o primeiro europeu a chegar no Brasil?
 R: Pedro Álvares Cabral
+
+Questão 718
+Na mitologia grega, quem tirou a carruagem do sol de seu caminho, incendiando a terra?
+R: Faetonte
+
+Questão 719
+Que monarca construiu o Santa Sofia?
+R: Justiniano I
+
+Questão 720
+A feijoada é considerada um prato nacional de qual país?
+R: Brasil
+
+Questão 721
+"Ferimentos de Perfuração" é a habilidade de qual personagem na Crise Ceroli?
+R: Astrid
+
+Questão 722
+"Homem da Paz" é o apelido de qual comandante?
+R: Imhotep
+
+Questão 723
+Johannes Vermeer, o pintor de Moça com Brinco de Pérola, era de qual país?
+R: Países Baixos
 
 .
