@@ -1,4 +1,4 @@
-Última atualização: 21 de Dezembro de 2022 - 21:46
+Última atualização: 30 de Dezembro de 2022 - 23:40
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
@@ -140,6 +140,7 @@ R: Sárka
 
 Questão 34
 Que físico grego antigo descobriu famosamente o conceito de empuxo enquanto tomava um banho?
+Que físico grego antigo descobriu o conceito de flutuabilidade enquanto tomava um banho?
 R: Arquimedes
 
 Questão 35
@@ -1055,7 +1056,7 @@ R: Sun Tzu
 
 Questão 260
 Por que o escorbuto já foi um problema comum dos marinheiros?
-R: Pro falta de frutas e vegetais frescos em longas viagens
+R: Por falta de frutas e vegetais frescos em longas viagens
 
 Questão 261
 Em que o Comandante Hermann é bom?
@@ -2856,5 +2857,25 @@ R: Michelangelo
 Questão 712
 Qual dos seguintes comandantes é ruim colentado recursos?
 R: Atiradora
+
+Questão 713
+A deficiência de qual vitamina pode causar cegueira noturna?
+R: Vitamina A
+
+Questão 714
+Zhu Geliang não teve envolvimento em qual dos seguintes incidentes relatados no Romance dos Três Reinos?
+R: Revolta dos Turbantes Amarelos
+
+Questão 715
+A Bastilha, uma prisão que já foi localizada no centro de Paris, França, originalmente serviu para que propósito?
+R: Fortaleza defensiva
+
+Questão 716
+Qual dessas mulheres NÃO é considerada uma das "Quanto Belezas" da China antiga?
+R: Bao Si
+
+Questão 717
+Qual desses navegadores foi o primeiro europeu a chegar no Brasil?
+R: Pedro Álvares Cabral
 
 .
