@@ -1,10 +1,10 @@
-Última atualização: 31 de Dezembro de 2022 - 12:07
+Última atualização: 07 de Janeiro de 2023 - 00:23
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/ (mais populares / inglês)
-https://rok.guide/buildings/lyceum-of-wisdom/ (página está desatualizado)
-https://kangfumaster.com/rok-peerless-scholar-qa/
+https://rok.guide/buildings/lyceum-of-wisdom/ (atualização por 2 meses)
+https://kangfumaster.com/rok-peerless-scholar-qa/ (página está desatualizado em 2022)
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -2901,5 +2901,21 @@ R: Imhotep
 Questão 723
 Johannes Vermeer, o pintor de Moça com Brinco de Pérola, era de qual país?
 R: Países Baixos
+
+Questão 724
+Qual é o maior lago de água doce do mundo por área?
+R: Lago Superior
+
+Questão 725
+Qual é a capacidade padrão de transporte se sueu posto comercial estiver no nível 25?
+R: 5 milhões
+
+Questão 726
+De que país veio o infame pirata Barba Negra?
+R: Inglaterra
+
+Questão 727
+Quem formou o Primeiro Triunvirato com César e Pompeu?
+R: Crasso
 
 .
