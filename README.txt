@@ -1,10 +1,14 @@
-Última atualização: 07 de Janeiro de 2023 - 00:23
+Última atualização: 13 de Janeiro de 2023 - 14:56
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
-Referências com inglês:
-https://www.appgamer.com/rise-of-kingdoms/answers/ (mais populares / inglês)
-https://rok.guide/buildings/lyceum-of-wisdom/ (atualização por 2 meses)
-https://kangfumaster.com/rok-peerless-scholar-qa/ (página está desatualizado em 2022)
+Referências com Português:
+https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
+
+Referências com Inglês:
+https://www.appgamer.com/rise-of-kingdoms/answers/ ?(mais populares)
+https://rok.guide/buildings/lyceum-of-wisdom/ ?(atualização por 40 dias)
+https://kangfumaster.com/rok-peerless-scholar-qa/ ?(página está desatualizado em 2022)
+https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html ?(página está desatualizado em 2020)
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
@@ -2917,5 +2921,13 @@ R: Inglaterra
 Questão 727
 Quem formou o Primeiro Triunvirato com César e Pompeu?
 R: Crasso
+
+Questão 728
+Quantos dias tem um ano bissexto?
+R: 366 dias
+
+Questão 729
+As táticas de combate são uma importante tecnologia militar - que efeito elas têm?
+R: Aumentam o Ataque de todas as unidades
 
 .
