@@ -1,4 +1,4 @@
-Última atualização: 13 de Janeiro de 2023 - 14:56
+Última atualização: 21 de Janeiro de 2023 - 20:58
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com Português:
@@ -1855,8 +1855,9 @@ Qual das seguintes opções NÃO aumenta o limite de membros de uma Aliança?
 R: Indicar oficiais
 
 Questão 459 (idem 25)
-Qual das opções seguir NÃO concede Créditos Individuais?
+Qual das opções a seguir NÃO concede Créditos Individuais?
 R: Atacar bárbaros
+R: Dar recursos aos aliados
 
 Questão 460
 Os pandas têm 5 dedos em garras e um sexto dígito. Para que os pandas usam seu sexto dígito?
@@ -2199,7 +2200,7 @@ Qual destas opções NÃO seria uma penalidade por não extrair totalmente todos
 R: Sofrer um ataque bárbaro
 
 Questão 547
-Qual divinidade egípcia antiga é apresentada com a cabeça de um leão?
+Qual divindade egípcia antiga é representada com a cabeça de um leão?
 R: Téfnis
 
 Questão 548
@@ -2239,7 +2240,7 @@ Qual país adotou o quetzal como sua ave nacional?
 R: Guatemala
 
 Questão 557
-Quantas barracas pequenas você pode ver em um FOrte Bárbaro de nível 3?
+Quantas barracas pequenas você pode ver em um Forte Bárbaro de nível 3?
 R: 6
 
 Questão 558
@@ -2611,11 +2612,11 @@ Quem foi o autor da tragédia "Medeia"?
 R: Eurípedes
 
 Questão 650
-Quantas tendas são exibidas no ícone da Tecnologia Militar?
+Quantas tendas são exibidas no ícone da Tecnologia Militar (Acampamento)?
 R: 3
 
 Questão 651
-Em que reino o comandante Boudica?
+Em que reino (reinou) o comandante Boudica?
 R: Iceni
 
 Questão 652
@@ -2929,5 +2930,576 @@ R: 366 dias
 Questão 729
 As táticas de combate são uma importante tecnologia militar - que efeito elas têm?
 R: Aumentam o Ataque de todas as unidades
+
+Questão 730
+Qual é a maior espécie de ave viva do mundo?
+R: Avestruz
+
+Questão 731
+Champanhe é uma província de qual país?
+R: França
+
+Questão 732
+Quais dessas frutas aparece no plano de fundo do Comandante Imhotep?
+R: Banana
+
+Questão 733
+Qual é a unidade especial da civilização chinesa?
+R: Chu-Ko-Nu
+
+Questão 734
+Quais desses boots funcionam em Expedições em Rise of Kingdoms?
+R: Todos
+
+Questão 735
+Qual destes países teve a maior influência no desenvolvimento da Comida Cubana?
+R: Espanha
+
+Questão 734
+Qual sabor de sopa NÃO aparece na famosa obra de Andy Warhol intitulada "Latas de Sopa Campbell"?
+R: Milho
+
+Questão 735
+Qual é o nome da conquista obtida ao adquirir 3 temas permamentes da cidade?
+R: Temas de tecnicolor
+
+Questão 736
+Qual tipo de tesouro de cristal é encontrado no Presente de Aliança de nível 26?
+R: Tesouro de cristal azul
+
+Questão 737
+Quantos pontos são ganhos por 1 ponto de Poder aprimorado no segmento "Estágio 4: Aprimoramento de Poder" do evento "O Governador Mais Poderoso"?
+R: 2
+
+Questão 738
+Qual Chefe Ceroli cercou a Cidadela dos Bravos com suas forças?
+R: Torghy
+
+Questão 739
+Qual desses tipos de terreno exerce uma pequena penalidade na defesa de tropas no mapa Colina do Tesouro nos "Campeões de Olímpia"?
+R: Furacão
+
+Questão 740
+Qual desses itens NÃO PODE ser obtido no Baú de Pedra da Aliança?
+R: Chaves de prata
+
+Questão 741
+Quando a Coca-Cola foi inventada?
+R: Século 19
+
+Questão 742
+O que causou as mortes dos pais do Chefe Ceroli Dekar?
+R: A descoberta dos estudos de bruxaria
+
+Questão 743
+Quantas esmeraldas aparecem nas roupas da comandante Matilda de Flanders?
+R: 5
+
+Questão 744
+Quais das seguintes acelerações NÃO estão disponíveis em Rise of Kingdoms?
+R: Aceleração de 6 horas
+
+Questão 745
+Quanto custa uma única edição do Jornal do Reino?
+R: 1.000
+
+Questão 746
+Quantos créditos individuais podem ser obtidos com a venda de plantas de equipamentos normais por meio do recurso de recuperação da Loja da Aliança?
+R: 400
+
+Questão 747
+Quando não está afetado por buffs, qual é a capacidade de recursos de um Armazém de Nível 25 para cada tipo de recurso?
+R: 2.500.000
+
+Questão 748
+Qual destes ingredientes é usado para preparar molho de soja?
+R: Soja
+
+Questão 749
+Qual dessas figuras do Império Selêucida foi feita refém por Roma para, posteriormente, fugir de Roma e voltar para tomar o trono de seus país de origem?
+R: Demétrio I
+
+Questão 750
+Que cor é usada nos telhados dos edifícios da civilização japonesa?
+R: Preto
+
+Questão 751
+Qual dessas recompensas NÃO será recebida pelo primeiro colado na temporada do Desfiladeiro do Pôr do Sol?
+R: Escutura Luz estelar deslumbrante
+
+Questão 752
+Qual destes NÃO é considerado um dos 8 estilos principais de culinária contemporânea chinesa?
+R: Cozinha de Huaiyang
+
+Questão 753
+Qual é a condição de desbloqueio da dificuldade Pesadelo no evento "Baladas de Ian"?
+R: Atingir o Nv. 23 da Prefeitura e 20 milhões de Poder
+
+Questão 754
+Quantas "Coleções de Equipamentos do Reino Dourado" existem no Baú de Ouro ganho na fase 16 do evento "Reino Dourado"?
+R: 3
+
+Questão 755
+Qual escutura famosa apresenta uma criança urinando?
+R: Manneken Pis
+
+Questão 756
+Em que nível VIP você pode comprar um baú especial VIP que contém esculturas de Hannibal Barca suficientes para despertá-lo?
+R: 14
+
+Questão 757
+Qual destas Molduras de Avatar estão acessíveis para compra?
+R: Pétalas de Rosa
+
+Questão 758
+Qual é o nome do vigarista que também pode aparecer ao mesmo tempo que o Chefe Ceroli Bargha Punho de Sangue?
+R: Dhalruk
+
+Questão 759
+Quantos oficiais uma aliança pode ter, sem contar o líder da aliança?
+R: 8
+
+Questão 760
+O foie gras é um alimento muito rico em nutrientes. Qual país produz mais foie gras?
+R: França
+
+Questão 761
+Quantas seções são apresentadas no Jornal do Reino fora dos eventos de calendário?
+R: 5
+
+Questão 762
+Qual é o nome da quarta chave do evento "Campeões de Olímpia"?
+R: Prata Brilhante
+
+Questão 763
+Qual é a cor das asas da decorações de Pégaso?
+R: Douradas
+
+Questão 764
+Quais dois animais simbolicamente decorava a coroa dupla pschent usada pelos faraós?
+R: Cobra e abustre
+
+Questão 765
+Quantas atualizações estão disponíveis por visita ao Mercador Misterioso?
+R: 5
+
+Questão 766
+Qual é a cor das pedras preciosas cravejadas na coroa do comandante El Cid?
+R: Vermelho
+
+Questão 767
+Um dos benefícios dos alimentos enlatados é sua longa validade. Onde foram feitos os primeiros arenques enlatados?
+R: Europa Setentrional
+
+Questão 768
+Qual país é notoriamente associado ao frango tandoori, um prato de frango marinado com iogurte e especiarias?
+R: Índias
+
+Questão 769
+Qual dessas estruturas permite que batedores e defensores da cidade fiquem de olho nos arredores?
+R: Torre de Vigia
+
+Questão 770
+Qual desses Chefes Ceroli também é chamado de Portador da Tempestade?
+R: Torgny
+
+Questão 771
+Qual dessas decorações NÃO custa Gemas?
+R: Árvore de Sakura
+
+Questão 772
+Qual dos nomes científicos de pássaros também foi usado para homenagear a esposa de Napoleão III, a Imperatriz da França, Eugénie de Montijo?
+R: Ptilinopus eugeniae
+
+Questão 773
+Qual é o número máximo de tropas que você pode formar no evento Campeões de Olímpia?
+R: 9
+
+Questão 774
+Qual é o número máximo de Leões Guardiães que podem ser construídos numa cidade?
+R: 6
+
+Questão 775
+Qual Chefe Ceroli usa um arco como arma?
+R: Keira
+
+Questão 776
+Quais dessas esculturas de comandantes podem ser obtidas abrindo um baú na Taberna em Rise of Kingdoms?
+R: Carlos Martel
+
+Questão 777
+Quem foi a primeira mulher a se tornar piloto militar no mundo?
+R: Sabiha Gökçen
+
+Questão 778
+Qual dessas tecnologias pode ser pesquisada na Academia para acelerar a coleta de comida no mapa?
+R: Foice
+
+Questão 779
+Qual foi o país de origem do arquiteto que projetou o Museu de Antiguidades Egípcias, localizado no Cairo?
+R: França
+
+Questão 780
+Qual é a capacidade de rali da aliança fornecida por um Forte de Nv. 15?
+R: 775.000
+
+Questão 781
+Que atributo de batedor NÃO PODE ser aumentado ao aprimorar um Acampamento dos Batedores ne Nv. 11?
+R: Número de batedores
+
+Questão 782
+O que um Lanceiro Dragão carrega na mão esquerda?
+R: Um cachimbo
+
+Questão 783
+Quantas bandeiras são apresentadas na frente do Centro de Alianças da civilização francesa?
+R: 6
+
+Questão 784
+Quantas pedras uma Pedreira de Nv. 17 produz por hora (sem boosts)?
+R: 2.775
+
+Questão 785
+No plano de fundo de qual comandate você pode ver uma Árvore de Sakura?
+R: Minamoto no Yoshitsune
+
+Questão 786
+Quantos minutos de acelerações no total podem ser obtidos ao comprar o "Suprimento de Aceleração de 7 dias", além da recompensa imediata de 1.050 Gemas?
+R: 3.150 minutos
+
+Questão 787
+Qual é a Capacidade Hospitalar total de Nv. 25 para tropas gravemente feridas (sem boosts)?
+R: 300.000
+
+Questão 788
+Qual arma o comandante Richard I empunha?
+R: Um machado e um escudo
+
+Questão 789
+Quantas rodas há em um aríete?
+R: 6
+
+Questão 790
+Qual desses Temas de Cidade oferece um bônus de atributo especial de +5% para Ataque de Cavalaria e -5% para Saúde de Arqueria?
+R: Canção do Semeador
+
+Questão 791
+Em que clima o manjericão, conhecido na Europa como o "Rei das Ervas", cresce vastamente?
+R: Áreas Tropicais
+
+Questão 792
+Qual dessas civilizações pode aumentar a Defesa de Arqueria?
+R: Coreia
+
+Questão 793
+Qual desses comandantes porta um arco e flechas, além de uma espada?
+R: AEthelflaed
+
+Questão 794
+Qual das seguintes recompensas NÃO PODE ser obtida de um Forte Bárbaro em Rise of Kingdoms?
+R: Esculturas de Comandante
+
+Questão 795
+Qual Chefe Ceroli foi encarregado de proteger os Desfiladeiros Iravento?
+R: Astrid
+
+Questão 796
+Quantas missões individuais uma Expedição envolve?
+R: 90
+
+Questão 797
+Quantas chaves estão incluídas no Presente da Aliança recebido pela destruição de um Forte Bárbaro de nível 5?
+R: 60
+
+Questão 798
+Qual desses infelizes indivíduos foi a única pessoa já registrada a sofrer tanto de nanismo quanto de gigantismo?
+R: Adam Rainer
+
+Questão 799
+Qual desses comandantes também foi chamado de "Santo Senhor"?
+R: El Cid
+
+Questão 800
+Qual país é responsável pela invenção do queijo gorgonzola, famoso pelo seu sabor pungente?
+R: França
+
+Questão 801
+Qual dessas opções NÃO é uma categoria de relatório enviado por mensagem?
+R: Coleta
+
+Questão 802
+Qual das seguintes plantas é visível no plano de fundo de Mulan e Cao Cao na tela do comandante?
+R: Bambu
+
+Questão 803
+Quais desses boosts funcionam em Desfiladeiro do Pôr do Sol?
+R: Capacidade de tropas de nível VIP
+
+Questão 804
+O Bolo Floresta Negra é uma famosa sobremesa europeia. Em que país fica a Floresta Negra de onde deriva o nome?
+R: Alemanha
+
+Questão 805
+Qual Chefe Ceroli tem poder sobre o gelo?
+R: Frida
+
+Questão 806
+No Desfiladeiro do Pôr do Sol, quantas tropas você pode enviar por vez?
+R: 5
+
+Questão 807
+Qual dessas opções NÃO é uma das habilidades da Chefe Ceroli Astrid?
+R: Beijo da Língua Flamejante
+
+Questão 808
+Qual das seguintes condições NÃO era essencial para um Vizir, o funcionário público mais importante do faraó, no antigo Egito?
+R: Ter sangue real
+
+Questão 809
+Qual desses comandantes é careca?
+R: Ragnar Lodbrok
+
+Questão 810
+Qual decoração de criatura da mitologia grega os governandores podem construir em suas cidades?
+R: Pégaso
+
+Questão 811
+Qual das seguintes ações NÃO está disponível para um líder de aliança em Rise of Kingdoms?
+R: Sair da Aliança
+
+Questão 812
+Onde nasceu o Chefe Ceroli Torgny?
+R: Cidadela dos Bravos
+
+Questão 813
+Qual pirâmide é amplamente considerada a única maravilha sobrevivente do mundo antigo, preservada até hoje?
+R: Pirâmide de Quéops
+
+Questão 814
+Quantas tropas são recomendadas para destruir um Forte Bárbaro de Nv. 3?
+R: 480.000 unidades de Nv. 3
+
+Questão 815
+Qual desses termos também foi usado pelos antigos egípcios para se referir a si mesmos?
+R: O rebanho de Rá
+
+Questão 816
+Como se chama o Xamã do Fogo de Karaku?
+R: Denko
+
+Questão 817
+Quantas experiência um comandante ganha com um Tomo do Conhecimento de nível 7?
+R: 50.000
+
+Questão 818
+Quantas chaves estão incluídas no presente da aliança do Baú de Madeira?
+R: 10
+
+Questão 819
+Qual desses comandantes usa um anel na mão?
+R: Rainha Tamar da Geórgia
+
+Questão 820
+Qual comandante tem a habilidade Beleza e sabedoria?
+R: Cleópatra VII
+
+Questão 821
+Qual tipo de tropa recebe um boost da decoração Lótus Oculto?
+R: Cavalaria
+
+Questão 822
+Qual é o maior lago do continente sul-americano?
+R: Lago Maracaibo
+
+Questão 823
+Que imagem está gravada na arma Martelo do Sol e da Lua?
+R: O sol
+
+Questão 824
+Qual oficial da aliança recebe +1% de boost de saúde para tropas?
+R: Enviado
+Questão 825
+Qual destes comandantes NÃO tem bigode ou outros pelos faciais?
+R: Alexandre, o Grande
+
+Questão 826
+Quando surgiu a clássica sobremesa inglesa pudim de caramelo?
+R: Meados do século 20
+
+Questão 827
+Em RoK, o Janízaro é uma unidade especial de qual civilização?
+R: Império Otomano
+
+Questão 828
+Qual destas NÃO é uma habilidade passiva do Comandante Minamoto no Yoshitsune?
+R: O Homem Digno
+
+Questão 829
+Qual tribo reivindica a posse da Floresta Takra, que deve ser atravessada para chegar ao Reino de Karaku?
+R: O clã Fúria de Sangue
+
+Questão 830
+Quantas Chaves de Ouro são concedidas ao Governandor com melhor classificação em cada temporada do Desfiladeiro do Pôr do Sol?
+R: 5
+
+Questão 831
+Qual é a cor das flores frescas do Liceu da Sabedoria da civilização francesa?
+R: Vermelhas
+
+Questão 832
+Em que parte do Egito está localizada a Esfinge?
+R: O Planalto de Gizé
+
+Questão 833
+Qual comandante diz: "Meu destino é determinado pela fé e pela oportunidade"?
+R: Matilda de Flanders
+
+Questão 834
+Qual Chefe Ceroli mora em um lugar conhecido como Floresta da Morte?
+R: Dekar
+
+Questão 835
+As pimentas são cultivadas há milênios. Elas surgiram em qual continente?
+R: As Américas
+
+Questão 836
+Qual é o número mínimo de Chaves de Prata que pode ser obtido em um pacote "Tesouro da Sabedoria"?
+R: 2
+
+Questão 837
+Qual tribo de Chefe Ceroli viveu nos ermos congelados por várias gerações?
+R: Wafura
+
+Questão 838
+Quantos pontos são ganhos por unidade de Nv. 3 gravemente ferida/morta no segmento "Estágio 5: Eliminação do Inimigo" do evento "O Governador Mais Poderoso"?
+R: 4
+
+Questão 839
+Qual desses deuses do antigo Egito também era um símbolo da autoridade real?
+R: Hórus
+
+Questão 840
+Qual comandante tem uma coroa com pedras preciosas de cor diferente dos demais?
+R: Rainha Tamar da Geórgia
+
+Questão 841
+Qual Chefe Ceroli trabalha ao lado de uma cobra?
+R: Dekar
+
+Questão 842
+Que tipo de terreno no mapa pode ser atravessado livremente por nossas tropas?
+R: Floresta
+
+Questão 843
+Qual faraó construiu a Pirâmide Curvada?
+R: Seneferu
+
+Questão 844
+O trabalho em qual dessas catedrais começou em Copenhague, no ano de 1877?
+R: Igreja de São Paulo
+
+Questão 845
+Qual conquista é desbloqueada ao aprimorar 2 hospitais para o Nv. 25?
+R: Disposto e Caloroso
+
+Questão 846
+Que letra é mostrada na decoração da Moeda da Sorte de Scolas?
+R: L
+
+Questão 847
+Qual destes NÃO é um tipo de wagyu japonês?
+R: Ronguhon Wagyu
+
+Questão 848
+Refeições prontas, como o macarrão instantâneo são muito populares. Onde os primeiros macarrões instantâneos apareceram?
+R: Japão
+
+Questão 849
+Qual privilégio é reservado para oficiais titulados (não oficiais normais)?
+R: A habilidade de verificar o status on-line de membros da aliança
+
+Questão 850
+Quais das seguintes construções da cidade PODEM ser atualizadas?
+R: Posto Comercial
+
+Questão 851
+Qual dessas recompensas NÃO será recebida pelo primeiro colocado na temporada do Desfiladeiro do Pôr do Sol?
+R: Escultura Luz estelar deslumbrante
+
+Questão 852
+Qual Chefe Ceroli protege a Torre ... ?
+R: Wafura
+
+Questão 853
+Qual Chefe Ceroli empunha uma adaga e um arco?
+R: Wafura
+
+Questão 854
+Quais tipos de tropas receberão um boost do tema de cidade Festa de Páscoa?
+R: Arqueria
+
+Questão 855
+De onde é o comandante Gaius Marius?
+R: Roma Antiga
+
+Questão 856
+Qual divindade da mitologia epípcia antiga era representada pelo obelisco?
+R: Rá
+
+Questão 857
+A escala de Scoville geramente é usada para avaliar a intensidade das pimentas, em que um valor maior denota mais ardor. Qual dessas pimentas é avaliada acima de 1 milhão na escala de Scoville?
+R: Pimenta da Alma
+
+Questão 858
+Qual destas é uma habilidade passiva do Comandante Tutemés III?
+R: Conquista de Mitani
+
+Questão 859
+Qual função de comandante fornece um boost de carga para as tropas?
+R: Capitão dos Suprmimentos
+
+Questão 860
+O estrategista militar Belisário serviu como guarda-costas pessoal de qual imperador em sua juventude?
+R: Justiniano I
+
+Questão 861
+Qual é o nível VIP necessário para comprar uma Escultura de Comandante Lendário com um desconto semanal na Loja VIP?
+R: Nv. 13
+
+Questão 862
+Qual a cor de tinta preferida pelas antigas famílias egípcias para as muralhas de suas casa?
+R: Branco
+
+Questão 863
+Quantos ursos polares aparecem no quadro de avatar Coração do Norte?
+R: 3
+
+Questão 864
+Qual a capacidade de um Hospital de Nv. 15 (sem boosts)?
+R: 29.000
+
+Questão 865
+Quais desses itens podem ser selecionados do Baú de Recurso Nível 3 "Escolha um"?
+R: 150.000 de comida
+
+Questão 866
+Quais dessas plantas NÃO está disponível como construção decorativa?
+R: Árvore de Pêssego
+
+Questão 867
+Qual destas construções decorativas também é considerada um presságio de boa sorte na cultura chinesa?
+R: Dragão chinês
+
+Questão 868
+Adquirir o Comandante Guilherme I desbloqueia qual destas conquistas?
+R: Caminho da Glória
+
+Questão 869
+Qual a quantidade total de contribuições diárias necessária para entrar na classificação de contribuições diárias da aliança?
+R: 10.000
+
+Questão 870
+Que ingedientes são usados para fazer "zongzi", um prato tradicional consumido na China durante o Festival do Barco do Dragão?
+R: Arroz glutinoso
 
 .
