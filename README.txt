@@ -1,5 +1,6 @@
-Última atualização: 21 de Janeiro de 2023 - 20:58
+Última atualização: 27 de Janeiro de 2023 - 13:31
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
+Obrigado Doação por leornad, leticia e lucas
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
@@ -2708,8 +2709,8 @@ Qual das seguintes opções NÃO é um componente usado para forjar a arma Épic
 R: Osso animal
 
 Questão 674
-Em qual país o microscópio foi inventado?
-R: Países Baixos
+Qual das seguintes descrições sobre microscópios é falsa?
+R: Pode ser usado para observar estrelas
 
 Questão 675
 Em que país foram travadas as Guerras das Rosas?
@@ -3501,5 +3502,13 @@ R: 10.000
 Questão 870
 Que ingedientes são usados para fazer "zongzi", um prato tradicional consumido na China durante o Festival do Barco do Dragão?
 R: Arroz glutinoso
+
+Questão 871
+Qual é a segunda maior nação constituinte do Reino Unido?
+R: Escócia
+
+Questão 872
+Após a abertura do Reino Perdido, que item você precisa gastar para se teletransportar de e para o Reino Perdido?
+R: Teletransporte Aleatório
 
 .
