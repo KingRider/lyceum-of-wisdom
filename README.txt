@@ -3511,4 +3511,7 @@ Questão 872
 Após a abertura do Reino Perdido, que item você precisa gastar para se teletransportar de e para o Reino Perdido?
 R: Teletransporte Aleatório
 
+Questão 873 
+Quais das esculturas de comandantes a seguir não podem ser doadas para o evento "Glória Passada" após a abertura do Reino Perido?
+R: AEthelflaed
 .
