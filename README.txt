@@ -1,14 +1,16 @@
-Última atualização: 27 de Janeiro de 2023 - 13:31
+Última atualização: 17 de Fevereiro de 2023 - 14:11
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
-Obrigado Doação por leornad, leticia e lucas
+
+• Corrigido sem repetido as questões
+• Bom carnaval e diga não às drogas é disque 100
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
 
 Referências com Inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/ ?(mais populares)
-https://rok.guide/buildings/lyceum-of-wisdom/ ?(atualização por 40 dias)
-https://kangfumaster.com/rok-peerless-scholar-qa/ ?(página está desatualizado em 2022)
+https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 11 de fevereiro de 2023)
+https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização por 19 dias)
 https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html ?(página está desatualizado em 2020)
 
 Questão 1
@@ -100,7 +102,7 @@ Qual é reconhecido pelo Livro Guinness de Recordes como tendo a maior circulaç
 R: One Piece
 
 Questão 23
-Qual é o apelido de Júlio Cesar?
+Qual é o apelido de Júlio César?
 R: O Rei sem coroa
 
 Questão 24
@@ -278,8 +280,8 @@ Quem escreveu a arte da guerra?
 R: Sun tzu
 
 Questão 67
-Quem fundou o reino de Astúrias?
-R: Pelágio
+Quem planejou o assassinato de Júlio César?
+R: Marcus Junius Brutus
 
 Questão 68
 Quem é o Rei do Reino?
@@ -526,7 +528,7 @@ R: Sócrates
 Questão 128
 Quem instituiu o Calendário Juliano?
 Quem (primeiro) implementou o Calendário Juliano em Roma?
-R: Júlio Cesar
+R: Júlio César
 
 Questão 129
 Que monarca francês foi conhecido como "São Luis"?
@@ -778,8 +780,8 @@ Na Grécia antiga, que filósofo gostava de discutir ideias numa rua que depois 
 R: Aristóteles
 
 Questão 191
-Que psicólogo alemão descobriu a curva de esquecimento do cérebro humano?
-R: Hermann Ebbinghaus
+Qual dos seguintes NÃO é um dos principais gases de efeito estufa na atmosfera terrestre?
+R: Nitrogênio
 
 Questão 192
 Qual das seguintes civilizações oferece um bônus de 5% para unidades de cavalaria?
@@ -967,8 +969,8 @@ Quem foi o primeiro filho de Henrique VIII a governar a Inglaterra?
 R: Eduardo VI
 
 Questão 238
-Qual dos seguintes físicos nasceu no aniversário de morte de Galileu Galilei, e morreu no aniversário de nascimento de Albert Einstein?
-R: Stephen Hawking
+Qual das seguintes civilizações aumenta o dano das habilidades de comandante ativas em 5%?
+R: Otomanos
 
 Questão 239
 Quantos ossos um humano adulto normalmente tem?
@@ -1042,10 +1044,6 @@ R: Nenhuma dessas respostas está correta
 Questão 256
 Qual dos seguintes NÃO é uma habilidade de rei?
 R: Alívio
-
-Questão 256
-Qual das seguintes NÃO é uma das habilidades de Keira?
-R: Sangue Indisciplinado
 
 Questão 257
 Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de arquearia?
@@ -1478,11 +1476,11 @@ Questão 364
 Os espinhos de cacto são na verdade uma forma modificada de qual outra parte da planta?
 R: Folhas
 
-Questão 367
+Questão 365
 Dos comandantes abaixo, qual se adequa melhor a liderar tropas ao coletar recursos?
 R: Seondeok
 
-Questão 368
+Questão 366
 Charles Macintosh fabricou uma versão primitiva da capa de chuva a partir de qual material?
 R: Borracha
 
@@ -1740,8 +1738,8 @@ Quem escreveu o conhecido livro "Sapiens: Uma Breve História da Humanidade"?
 R: Yuval Noah Harari
 
 Questão 430
-Ingestão insuficiente de que elemento pode causar tiromegalia?
-R: Iodo
+Quais das esculturas de comandantes a seguir não podem ser doadas para o evento "Glória Passada" após a abertura do Reino Perdido?
+R: AEthelflaed
 
 Questão 431
 Yi Seong-Gye é especialista em qual dos seguintes?
@@ -1812,8 +1810,8 @@ Qual destas é uma descrição incorreta do "Mare Imbrium" na lua?
 R: Ele contém uma certa quantidade de água sedimentar
 
 Questão 448
-Quem fundou o "Sultanato de Malaca"?
-R: Parameswara
+O Big Ben está localizado em qual dos seguintes países?
+R: Reino Unido
 
 Questão 449
 Qual dos seguintes NÃO é um naipe no pôquer?
@@ -1879,6 +1877,14 @@ R: Nível 10
 Questão 464
 Se um homem com sangue tipo AB e uma mulher com sangue tipo B tiverem um bebê, qual das seguintes afirmações estaria incorreta?
 R: Poderia ter sangue tipo O
+
+Questão 465
+Qual sabor de sopa NÃO aparece na famosa obra de Andy Warhol intitulada "Latas de Sopa Campbell"?
+R: Milho
+
+Questão 466
+Qual destes países teve a maior influência no desenvolvimento da Comida Cubana?
+R: Espanha
 
 Questão 467
 Qual é o apelido de Cleópatra VII no jogo?
@@ -2877,7 +2883,7 @@ A Bastilha, uma prisão que já foi localizada no centro de Paris, França, orig
 R: Fortaleza defensiva
 
 Questão 716
-Qual dessas mulheres NÃO é considerada uma das "Quanto Belezas" da China antiga?
+Qual dessas mulheres NÃO é considerada uma das "Quatro Belezas" da China antiga?
 R: Bao Si
 
 Questão 717
@@ -2953,14 +2959,6 @@ Quais desses boots funcionam em Expedições em Rise of Kingdoms?
 R: Todos
 
 Questão 735
-Qual destes países teve a maior influência no desenvolvimento da Comida Cubana?
-R: Espanha
-
-Questão 734
-Qual sabor de sopa NÃO aparece na famosa obra de Andy Warhol intitulada "Latas de Sopa Campbell"?
-R: Milho
-
-Questão 735
 Qual é o nome da conquista obtida ao adquirir 3 temas permamentes da cidade?
 R: Temas de tecnicolor
 
@@ -2973,8 +2971,8 @@ Quantos pontos são ganhos por 1 ponto de Poder aprimorado no segmento "Estágio
 R: 2
 
 Questão 738
-Qual Chefe Ceroli cercou a Cidadela dos Bravos com suas forças?
-R: Torghy
+Em qual dessas obras Sherlock Holmes faz sua primeira aparição?
+R: Um Estudo em Vermelho
 
 Questão 739
 Qual desses tipos de terreno exerce uma pequena penalidade na defesa de tropas no mapa Colina do Tesouro nos "Campeões de Olímpia"?
@@ -3319,6 +3317,7 @@ R: O sol
 Questão 824
 Qual oficial da aliança recebe +1% de boost de saúde para tropas?
 R: Enviado
+
 Questão 825
 Qual destes comandantes NÃO tem bigode ou outros pelos faciais?
 R: Alexandre, o Grande
@@ -3352,8 +3351,8 @@ Em que parte do Egito está localizada a Esfinge?
 R: O Planalto de Gizé
 
 Questão 833
-Qual comandante diz: "Meu destino é determinado pela fé e pela oportunidade"?
-R: Matilda de Flanders
+Na hierarquia de necessidades simplificada de Maslow, qual necessidade está no topo da pirâmide?
+R: Autorrealização
 
 Questão 834
 Qual Chefe Ceroli mora em um lugar conhecido como Floresta da Morte?
@@ -3510,5 +3509,13 @@ R: Escócia
 Questão 872
 Após a abertura do Reino Perdido, que item você precisa gastar para se teletransportar de e para o Reino Perdido?
 R: Teletransporte Aleatório
+
+Questão 873
+A catedral de Notre-Dame de Paris foi construída em que estilo?
+R: Gótico
+
+Questão 874
+Qual das seguintes NÃO é uma das habilidades de Keira?
+R: Sangue Indisciplinado
 
 .
