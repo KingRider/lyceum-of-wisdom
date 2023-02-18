@@ -1,8 +1,8 @@
-Última atualização: 17 de Fevereiro de 2023 - 14:11
+Última atualização: 18 de Fevereiro de 2023 - 09:52
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 • Corrigido sem repetido as questões
-• Bom carnaval e diga não às drogas é disque 100
+• Bom carnaval para você e diga não às drogas é disque 100
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
@@ -3517,5 +3517,25 @@ R: Gótico
 Questão 874
 Qual das seguintes NÃO é uma das habilidades de Keira?
 R: Sangue Indisciplinado
+
+Questão 875
+Qual dos seguintes tipos de bônus NÃO tem efeito na Arca de Osíris?
+R: Buffs de Runas
+
+Questão 876
+O ditado "O Império no qual o Sol nunca se põe" foi usado originalmente em referência ao império de qual país?
+R: Espanha
+
+Questão 877
+Qual das seguintes personalidades nasceu no mesmo ano que o cantor Luciano Pavarotti?
+R: Elvis Presley
+
+Questão 878
+Qual é o menor país insular do mundo?
+R: Nauru
+
+Questão 879
+Qual das seguintes afirmações sobre a Batalha de Baideng é falsa?
+R: Foi uma batalha entre a dinastia Tang e os Xiongnu
 
 .
