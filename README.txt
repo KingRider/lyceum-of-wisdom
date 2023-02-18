@@ -2,7 +2,7 @@
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 • Corrigido sem repetido as questões
-• Bom carnaval para você e diga não às drogas é disque 100
+• Bom carnaval para você e diga não às drogas é disque 181
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
