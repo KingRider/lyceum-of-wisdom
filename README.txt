@@ -1,4 +1,4 @@
-Última atualização: 18 de Fevereiro de 2023 - 09:52
+Última atualização: 20 de Fevereiro de 2023 - 09:29
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 • Corrigido sem repetido as questões
@@ -3537,5 +3537,13 @@ R: Nauru
 Questão 879
 Qual das seguintes afirmações sobre a Batalha de Baideng é falsa?
 R: Foi uma batalha entre a dinastia Tang e os Xiongnu
+
+Questão 880
+Em RoK, qual construção você pode usar para ver a história do seu reino?
+R: Monumento
+
+Questão 881
+Em RoK, qual dos itens a seguir é considerado um item de Boost?
+R: Escudo da Paz
 
 .
