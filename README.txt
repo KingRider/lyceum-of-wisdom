@@ -1,8 +1,5 @@
-Última atualização: 20 de Fevereiro de 2023 - 09:29
+Última atualização: 25 de Fevereiro de 2023 - 11:39
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
-
-• Corrigido sem repetido as questões
-• Bom carnaval para você e diga não às drogas é disque 181
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
@@ -3545,5 +3542,25 @@ R: Monumento
 Questão 881
 Em RoK, qual dos itens a seguir é considerado um item de Boost?
 R: Escudo da Paz
+
+Questão 882
+Em RoK, qual desses comandantes NÃO é bom em liderar a arquearia?
+R: Saladino
+
+Questão 883
+Qual foi a primeira das três grandes batalhas travadas entre Alexandre, o Grande, e o Império Aquemênida?
+R: Batalha do Grânico
+
+Questão 884
+Qual das seguintes montanhas tem menos de 8.000 metros de altura?
+R: Chomo Lonzo
+
+Questão 885
+No Japão, qual fruta é conhecida como "fruta da imortalidade"?
+R: Tachibana
+
+Questão 886
+Qual era o nome do primeiro chimpanzé a ir para o espaço?
+R: Ham
 
 .
