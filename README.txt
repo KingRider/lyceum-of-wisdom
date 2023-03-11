@@ -1,4 +1,4 @@
-Última atualização: 10 de Março de 2023 - 23:45
+Última atualização: 11 de Março de 2023 - 09:52
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com Português:
@@ -609,7 +609,7 @@ R: Preta
 
 Questão 149
 Qual dos seguintes foi um Cavaleiro da Távola Redonda?
-R: Lancelote
+R: Lancelotee
 
 Questão 150
 "O fim justifica os meios" foi uma crença central do autor de "O Príncipe". Qual era o seu nome?
@@ -3582,5 +3582,21 @@ R: Atenas
 Questão 891
 Bangkok é a capital de qual país?
 R: Tailândia
+
+Questão 892
+Na mitologia, quem foi atingido pela flecha de chumbo de Eros?
+R: Dafne
+
+Questão 893
+Qual desses rios corre pela África?
+R: O Nilo
+
+Questão 894
+Qual dos seguintes buffs são recebidos ao evoluir a estrutura necessária até o nível 25?
+R: Bônus de velocidade de marcha de transporte
+
+Questão 895
+Qual é o maior país da América do Sul?
+R: Brasil
 
 .
