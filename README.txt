@@ -1,13 +1,13 @@
-Última atualização: 25 de Fevereiro de 2023 - 11:39
+Última atualização: 10 de Março de 2023 - 23:45
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com Português:
-https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e Ultima Atualização JSON [lista] em Maio/2022)
+https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em Maio/2022)
 
 Referências com Inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/ ?(mais populares)
-https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 11 de fevereiro de 2023)
-https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização por 19 dias)
+https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 11/Fevereiro/2023)
+https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização Fevereiro/2023)
 https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html ?(página está desatualizado em 2020)
 
 Questão 1
@@ -3517,7 +3517,7 @@ R: Sangue Indisciplinado
 
 Questão 875
 Qual dos seguintes tipos de bônus NÃO tem efeito na Arca de Osíris?
-R: Buffs de Runas
+R: Buffs de Runa
 
 Questão 876
 O ditado "O Império no qual o Sol nunca se põe" foi usado originalmente em referência ao império de qual país?
@@ -3544,7 +3544,7 @@ Em RoK, qual dos itens a seguir é considerado um item de Boost?
 R: Escudo da Paz
 
 Questão 882
-Em RoK, qual desses comandantes NÃO é bom em liderar a arquearia?
+Em RoK, qual desses comandantes NÃO é bom em liderar unidades de arqueiros?
 R: Saladino
 
 Questão 883
@@ -3562,5 +3562,25 @@ R: Tachibana
 Questão 886
 Qual era o nome do primeiro chimpanzé a ir para o espaço?
 R: Ham
+
+Questão 887
+Depois que os alunos do Liceu da Sabedoria terminam suas aulas, para qual prédio em sua cidade eles retornam?
+R: Academia
+
+Questão 888
+Atualmente, em qual galeria está a Mona Lisa?
+R: Louvre
+
+Questão 889
+Qual das alternativas a seguir NÃO é uma descrição precisa do antigo Reino de Kush?
+R: Não tinha linguagem e nem escrita próprios
+
+Questão 890
+Qual dos seguintes deuses é o patrono e protetor de Atenas na mitologia grega antiga?
+R: Atenas
+
+Questão 891
+Bangkok é a capital de qual país?
+R: Tailândia
 
 .
