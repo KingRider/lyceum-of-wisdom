@@ -1,12 +1,16 @@
 # Lyceum of Wisdom
 
-
-## Atualizações
 >Última atualização: 11 de Março de 2023 - 09:52
->>**Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com**
 
->[Referências com Português](https://www.dramaqueengames.com/liceu-da-sabedoria-1)
->>página está desatualzado em 2021 e ultima atualização JSON *lista* em Maio/2022
+## Colabore
+
+PayPal/Pix/Contato para sandro.rider@gmail.com
+
+
+## Referencias
+
+>[Referências com Português](https://www.dramaqueengames.com/liceu-da-sabedoria-1)\
+*página está desatualzado em 2021 e ultima atualização JSON lista em Maio/2022*
 
 >Referências com Inglês:
 >- [Mais populares](https://www.appgamer.com/rise-of-kingdoms/answers/)
