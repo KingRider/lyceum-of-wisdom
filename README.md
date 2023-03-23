@@ -1,14 +1,20 @@
-Última atualização: 11 de Março de 2023 - 09:52
-Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
+# Lyceum of Wisdom
 
-Referências com Português:
-https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em Maio/2022)
 
-Referências com Inglês:
-https://www.appgamer.com/rise-of-kingdoms/answers/ ?(mais populares)
-https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 11/Fevereiro/2023)
-https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização Fevereiro/2023)
-https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html ?(página está desatualizado em 2020)
+## Atualizações
+>Última atualização: 11 de Março de 2023 - 09:52
+>>**Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com**
+
+>[Referências com Português](https://www.dramaqueengames.com/liceu-da-sabedoria-1)
+>>página está desatualzado em 2021 e ultima atualização JSON *lista* em Maio/2022
+
+>Referências com Inglês:
+>- [Mais populares](https://www.appgamer.com/rise-of-kingdoms/answers/)
+>- [Ultima atualização 11/Fevereiro/2023](https://kangfumaster.com/rok-peerless-scholar-qa/)
+>- [Ultima atualização Fevereiro/2023](https://rok.guide/buildings/lyceum-of-wisdom/)
+>- [página está desatualizado em 2020](https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html)
+
+## Questões:
 
 Questão 1
 Antes de liderar a maior rebelião de escravos da Roma Antiga, o que foi Espártaco?
