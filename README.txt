@@ -1,4 +1,4 @@
-Última atualização: 11 de Março de 2023 - 09:52
+Última atualização: 24 de Março de 2023 - 23:42
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com Português:
@@ -56,7 +56,7 @@ R: O cerebelo
 
 Questão 12
 Qual dos seguintes descreve um monoteísta?
-R: Alguém que adora 1 deus
+R: Alguém que adora um deus
 
 Questão 13
 Qual dos seguintes não é um objetivo da mitologia grega?
@@ -3598,5 +3598,25 @@ R: Bônus de velocidade de marcha de transporte
 Questão 895
 Qual é o maior país da América do Sul?
 R: Brasil
+
+Questão 896
+Qual das seguintes cidades é a capital da França?
+R: Paris
+
+Questão 897
+No estágio "Coletar recursos" do evento O Governador Mais Poderoso, quantos pontos você ganha por coletar 1 Gema?
+R: 150
+
+Questão 898
+Qual das seguintes opções costuma ser disputada como fruta ou vegetal?
+R: Tomate
+
+Questão 899
+Que medida oficial tornou um crime dar a Martinho Lutero comida e abrigo?
+R: Édito de Worms
+
+Questão 900 (idem 232)
+"Machu Picchu" é uma relíquia notável de qual civilização?
+R: Os Incas
 
 .
