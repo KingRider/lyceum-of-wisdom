@@ -1,4 +1,4 @@
-Última atualização: 24 de Março de 2023 - 23:42
+Última atualização: 25 de Março de 2023 - 11:41
 Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
 
 Referências com Português:
@@ -3618,5 +3618,49 @@ R: Édito de Worms
 Questão 900 (idem 232)
 "Machu Picchu" é uma relíquia notável de qual civilização?
 R: Os Incas
+
+Questão 901
+Qual das seguintes raças de gato é conhecida por não ter pelo?
+R: Sphynx
+
+Questão 902
+O lendário comandante da Dinastia Joseon, Yi Sun-sin, sacrificou a vida em que batalha famosa?
+R: Batalha de Noryang
+
+Questão 903
+Quantas teclas tem um piano moderno típico?
+R: 88
+
+Questão 904
+Onde Napoleão Bonaparte foi exiliado após sua derrota em Waterloo?
+R: Santa Helena
+
+Questão 905
+Em RoK, qual desses comandantes NÃO carrega arco e flecha?
+R: Kusunoki Masashige
+
+Questão 906
+Em "Crime e Castigo", qual é o trabalho da primeira pessoa que Raskolnikov assassinou?
+R: Penhorista
+
+Questão 907
+Leonardo da Vinci foi aprendiz na oficina de quem?
+R: Andrea del Verrocchio
+
+Questão 908
+Quantos pontos existem em um tabuleiro Go padrão?
+R: 19x19
+
+Questão 909
+Junto com Henri Matisse, qual desses artistas é considerado um dos fundadores do movimento fauvismo?
+R: André Derain
+
+Questão 910
+Qual é o número da camisa de Luka Modric no Real Madrid?
+R: 10
+
+Questão 911
+R: Qual é o suposto local de nascimento da dança do ventre?
+R: Egito
 
 .
