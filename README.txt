@@ -1,5 +1,8 @@
-Última atualização: 25 de Março de 2023 - 11:41
-Colabore: PayPal/Pix/Contato para sandro.rider@gmail.com
+🆕 Última atualização: 07 de Abril de 2023 - 23:48
+👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
+📧 Contato e 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
+
+🍬🐰 Feliz Páscoa 2023 🥚🐇
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em Maio/2022)
@@ -3505,7 +3508,7 @@ R: Escócia
 
 Questão 872
 Após a abertura do Reino Perdido, que item você precisa gastar para se teletransportar de e para o Reino Perdido?
-R: Teletransporte Aleatório
+R: Teleporte Aleatório
 
 Questão 873
 A catedral de Notre-Dame de Paris foi construída em que estilo?
@@ -3662,5 +3665,21 @@ R: 10
 Questão 911
 R: Qual é o suposto local de nascimento da dança do ventre?
 R: Egito
+
+Questão 912
+Qual desses prêmios Nobel foi concedido a Marie Curie em 1903?
+R: Prêmio Nobel de Física
+
+Questão 913
+Durante o reinado de que imperador foi concluído o Coliseu Romano?
+R: Tito
+
+Questão 914
+Albert Einstein recebeu o Prêmio Nobel de Física de 1921 por qual descoberta?
+R: O efeito fotoelétrico
+
+Questão 915
+A "Jornada das Telhas" é considerada por alguns historiadores o marco do início da Revolução Francesa. Em qual cidade isso ocorreu?
+R: Grenoble
 
 .
