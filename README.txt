@@ -1,8 +1,9 @@
-🆕 Última atualização: 07 de Abril de 2023 - 23:48
+🆕 Última atualização: 19 de Abril de 2023 - 12:20
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato e 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
-🍬🐰 Feliz Páscoa 2023 🥚🐇
+Site Rápida:
+https://bit.ly/roklyceum
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em Maio/2022)
@@ -151,7 +152,7 @@ Que físico grego antigo descobriu o conceito de flutuabilidade enquanto tomava 
 R: Arquimedes
 
 Questão 35
-Quando Aquiles se recursou a lutar, Pátroclo coloca a armadura de Aquiles, luta contra os troianos, e morre. Quem matou Pátroclo?
+Quando Aquiles se recusou a lutar, Pátroclo coloca a armadura de Aquiles, luta contra os troianos, e morre. Quem matou Pátroclo?
 R: Heitor
 
 Questão 36
@@ -1485,7 +1486,7 @@ Charles Macintosh fabricou uma versão primitiva da capa de chuva a partir de qu
 R: Borracha
 
 Questão 367
-Contra qual país a Inglaterra estava lutando na Batalha de Agincourt?
+Contra qual país a Inglaterra estava lutando na Batalha de Agincourt? (erro tradução por correto é Azincourt)
 R: França
 
 Questão 368
@@ -3681,5 +3682,37 @@ R: O efeito fotoelétrico
 Questão 915
 A "Jornada das Telhas" é considerada por alguns historiadores o marco do início da Revolução Francesa. Em qual cidade isso ocorreu?
 R: Grenoble
+
+Questão 916
+Quem fundou o xogunato Kamakura?
+R: Minamoto no Yoritomo
+
+Questão 917
+Em que nível a alíquota do imposto de transporte do Posto Comercial se torna 10%?
+R: 24
+
+Questão 918
+Na guerra civil romana de 49 AEC, quem era o principal oponente de Júlio César?
+R: Cneu Pompeu Magno
+
+Questão 919
+Qual é o símbolo químico do antimônio?
+R: Sb
+
+Questão 920
+Qual desses personagem é de "Vinte Mil Léguas Submarinas"?
+R: Capitão Nemo
+
+Questão 921
+Qual é o apelido de Júlio César no Rise of Kingdoms?
+R: O Imperador Sem Coroa
+
+Questão 922
+Quem foi o primeiro astrônomo a calcular o limite de Roche?
+R: Édouard Roche
+
+Questão 923
+Quantos envios você precisa concluir no Fórum Estadual para abrir uma Comenda de Envio?
+R: 15
 
 .
