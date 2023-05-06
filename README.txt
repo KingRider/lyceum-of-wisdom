@@ -1,4 +1,4 @@
-🆕 Última atualização: 19 de Abril de 2023 - 12:20
+🆕 Última atualização: 06 de Maio de 2023 - 09:48
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato e 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
@@ -407,6 +407,7 @@ R: Cérbero
 
 Questão 98
 Que imperador emitiu a Proclamação de Milão?
+Que imperador emitiu o Decreto de Milão?
 R: Constantino I
 
 Questão 99
@@ -3509,7 +3510,7 @@ R: Escócia
 
 Questão 872
 Após a abertura do Reino Perdido, que item você precisa gastar para se teletransportar de e para o Reino Perdido?
-R: Teleporte Aleatório
+R: Teletransporte Aleatório
 
 Questão 873
 A catedral de Notre-Dame de Paris foi construída em que estilo?
@@ -3714,5 +3715,49 @@ R: Édouard Roche
 Questão 923
 Quantos envios você precisa concluir no Fórum Estadual para abrir uma Comenda de Envio?
 R: 15
+
+Questão 924
+Em RoK, qual é o apelido da comandante Constance?
+R: Rainha da Sicília
+
+Questão 925
+Quem foi o pai de Aníbal?
+R: Hanilcar Barca
+
+Questão 926
+Quais sãos os dois corpos de água que o Canal de Suez conecta?
+R: Mar Mediterrâneo, Mar Vermelho
+
+Questão 927
+Qual é o bônus fornecido pelo tema da cidade lendária Fortaleza Congelada?
+R: Defesa de Infantaria +10%
+
+Questão 928
+Em qual país está Çatalhöyük?
+R: Turquia
+
+Questão 929
+Qual destas não é uma antiga civilização das Américas?
+R: Os sumérios
+
+Questão 930
+No evento Acadêmico Incomparável, quantas respostas você precisa acertar na Preliminar para se qualificar para o Intermediário?
+R: 6
+
+Questão 931
+Que bônus é concedido a uma aliança que captura o Local Sagrado de Nível 2 "Altar da Chama"?
+R: Ataque de Tropas +3%
+
+Questão 932
+Em que ano o hipismo foi incluído pela primeira vez como esporte olímpico?
+R: Jogos Olímpicos de Paris, 1900
+
+Questão 933
+Qual escola de pintura é representada por Georges Seurat?
+R: Pontilhismo
+
+Questão 934
+Que civilização se desenvolveu entre os rios Tigre e Eufrates?
+R: Os Mesopotâmios
 
 .
