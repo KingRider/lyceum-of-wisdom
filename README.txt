@@ -1,4 +1,4 @@
-🆕 Última atualização: 06 de Maio de 2023 - 09:48
+🆕 Última atualização: 26 de Maio de 2023 - 23:40
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato e 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
@@ -3722,7 +3722,7 @@ R: Rainha da Sicília
 
 Questão 925
 Quem foi o pai de Aníbal?
-R: Hanilcar Barca
+R: Hamilcar Barca
 
 Questão 926
 Quais sãos os dois corpos de água que o Canal de Suez conecta?
@@ -3759,5 +3759,25 @@ R: Pontilhismo
 Questão 934
 Que civilização se desenvolveu entre os rios Tigre e Eufrates?
 R: Os Mesopotâmios
+
+Questão 935
+Quais dessas ações podem ser executadas por líderes de alianças e oficiais titulados, mas NÃO por oficiais não titulados?
+R: Inscrever-se na Arca de Osíris
+
+Questão 936
+Em que ano Alexandre Fleming descobriu a penicilina?
+R: 1928
+
+Questão 937
+Quais dos seguintes personagens NÃO estão presentes na história "Jornada ao Oeste"?
+R: Terceira Irmã Hu
+
+Questão 938
+Em qual país o Grupo Carlsberg, fabricante de cervejas, foi fundado em 1847?
+R: Dinamarca
+
+Questão 939
+Quais são as dimensões da névoa removida por um item do Mapa do Reino?
+R: 10x10
 
 .
