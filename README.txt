@@ -1,6 +1,6 @@
-🆕 Última atualização: 26 de Maio de 2023 - 23:40
+🆕 Última atualização: 15 de Junho de 2023 - 14:04
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
-📧 Contato e 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
+📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -3779,5 +3779,45 @@ R: Dinamarca
 Questão 939
 Quais são as dimensões da névoa removida por um item do Mapa do Reino?
 R: 10x10
+
+Questão 940
+Na mitologia nórdica, os corvos Huginn e Muninn eram companheiros de qual deus?
+R: Odin
+
+Questão 941
+Com qual figura da mitologia grega Mary Shelley associou o monstro de Frankenstein?
+R: Prometeu
+
+Questão 942
+Qual é o nome real da sinfonia "Leningrado" de Dmitri Shostakovich?
+R: Sinfonia nº7 em dó maior
+
+Questão 943
+O poeta Fernando Pessoa ficou conhecido por escrever seus poemas como diferentes "personagens", que ele chamou de "heterônimos". Qual destes NÃO é um dos heterônimos que Pessoa utilizou?
+R: Francisco Norman
+
+Questão 944
+Quem é a consorte da divindade hindu Vishnu?
+R: Lakshmi
+
+Questão 945
+Qual é o maior planeta conhecido em nosso sistema solar?
+R: Júpiter
+
+Questão 946
+Para desbloquear a conquista "Trilha de Huarong", você deve usar Guan Yu para derrotar uma tropa liderada por qual dos seguintes comandantes?
+R: Cao Cao
+
+Questão 947
+Qual dos seguintes comandantes da RoK foi o único governante na história a derrotar Ciro, o Grande, em uma grande batalha?
+R: Tomyris
+
+Questão 948
+Qual dessas cidades está localizada na América do Sul?
+R: Buenos Aires
+
+Questão 949
+Em 1970, uma missão Apolo tentou pousar na lua. Devido a um problema técnico, só conseguiu orbitar a lua e retornar à Terra. Qual era o nome da missão?
+R: Apollo 13
 
 .
