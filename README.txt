@@ -1,4 +1,4 @@
-🆕 Última atualização: 15 de Junho de 2023 - 14:04
+🆕 Última atualização: 26 de Junho de 2023 - 09:56
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
@@ -3819,5 +3819,49 @@ R: Buenos Aires
 Questão 949
 Em 1970, uma missão Apolo tentou pousar na lua. Devido a um problema técnico, só conseguiu orbitar a lua e retornar à Terra. Qual era o nome da missão?
 R: Apollo 13
+
+Questão 950
+Qual destes comandantes do RoK é de Ceroli?
+R: Keira
+
+Questão 951
+Qual das seguintes constelações tem a forma de uma coroa?
+R: Coroa do Norte
+
+Questão 952
+Usando uma tropa liderada por Júlio César e Cleópatra VII, qual das seguintes ações desbloqueará a conquista "Desejos Imortais"?
+R: Atacar uma cidade
+
+Questão 953
+O Colosso de Rodes representa qual deus do sol?
+R: Hélio
+
+Questão 954
+A "Marcha da Independência" e o hino nacional de qual pais?
+R:Turquia
+
+Questão 955
+Diego Velázquez, o pintor da obra realista Retrato do Papa Inocêncio X, era de qual país?
+R: Espanha
+
+Questão 956
+O Lago General Carrera se origina nas geleiras dos Andes. Quais são os dois países que fazem fronteira com o lago?
+R: Argentina e Chile
+
+Questão 957
+Quem era o deus grego e trácio do vinho?
+R: Dioniso
+
+Questão 958
+Quem foi o pai do rei franco Pepino, o Breve?
+R: Carlos Martel
+
+Questão 959
+Onde nasceu o compositor Wolfgang Amadeus Mozart?
+R: Salzburgo (Áustria)
+
+Questão 960
+Qual continente foi o berço da civilização Maia?
+R: As Américas
 
 .
