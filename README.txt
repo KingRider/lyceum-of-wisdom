@@ -1,4 +1,4 @@
-🆕 Última atualização: 26 de Junho de 2023 - 09:56
+🆕 Última atualização: 04 de Julho de 2023 - 12:18
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
@@ -3863,5 +3863,13 @@ R: Salzburgo (Áustria)
 Questão 960
 Qual continente foi o berço da civilização Maia?
 R: As Américas
+
+Questão 961
+A pintura de Sandro Botticelli "Vênus e Marte" é famosa por suas cores vivas e belas figuras. Em qual galeria esta pintura está alojada no momento?
+R: Na National Gallery em Londres (Trafalgar Square)
+
+Questão 962
+Para qual formação é o armamento "Tambor de Guerra Imperial"?
+R: V (because of the tower)
 
 .
