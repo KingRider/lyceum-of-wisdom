@@ -1,9 +1,12 @@
-🆕 Última atualização: 04 de Julho de 2023 - 12:18
+🆕 Última atualização: 05 de Julho de 2023 - 11:45
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
 Site Rápida:
 https://bit.ly/roklyceum
+
+Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos:
+https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em Maio/2022)
@@ -1085,7 +1088,7 @@ R: Atacar cidades
 
 Questão 266
 Em qual desses países passa o primeiro meridiano?
-R: Mali -> (Espanha, França, Reino Unido, Gana, Burkina Faso, Mali  Argélia)
+R: Mali -> (Espanha, França, Reino Unido, Gana, Burkina Faso, Mali Argélia)
 
 Questão 267
 Qual das seguintes doenças pode ser causada pela falta de Vitamina D?
@@ -3871,5 +3874,9 @@ R: Na National Gallery em Londres (Trafalgar Square)
 Questão 962
 Para qual formação é o armamento "Tambor de Guerra Imperial"?
 R: V (because of the tower)
+
+Questão 963
+A decoração da cidade "Portão de Ishtar" é uma homenagem a qual das seguintes civilizações?
+R: Babilônia
 
 .
