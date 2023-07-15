@@ -1,19 +1,20 @@
-🆕 Última atualização: 05 de Julho de 2023 - 11:45
+🆕 Última atualização: 15 de Julho de 2023 - 09:55
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
 Site Rápida:
 https://bit.ly/roklyceum
 
-Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos:
+Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos
+(Troca cabeça épico para dourado):
 https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922
 
 Referências com Português:
-https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em Maio/2022)
+https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em 13/Abril/2022)
 
 Referências com Inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/ ?(mais populares)
-https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 11/Fevereiro/2023)
+https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 8/Julho/2023)
 https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização Fevereiro/2023)
 https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html ?(página está desatualizado em 2020)
 
@@ -1051,7 +1052,7 @@ Qual dos seguintes NÃO é uma habilidade de rei?
 R: Alívio
 
 Questão 257
-Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de arquearia?
+Dos comandantes abaixo, qual se adequa melhor a liderar tropas CONTRA inimigos de arquearia?
 R: Cao Cao
 
 Questão 258
@@ -3720,7 +3721,7 @@ Quantos envios você precisa concluir no Fórum Estadual para abrir uma Comenda 
 R: 15
 
 Questão 924
-Em RoK, qual é o apelido da comandante Constance?
+Em RoK, qual é o apelido da comandante Constânça?
 R: Rainha da Sicília
 
 Questão 925
@@ -3878,5 +3879,37 @@ R: V (because of the tower)
 Questão 963
 A decoração da cidade "Portão de Ishtar" é uma homenagem a qual das seguintes civilizações?
 R: Babilônia
+
+Questão 964
+Em RoK, qual comandante tem o apelido de "Rainha da Sicília"?
+R: Constânça
+
+Questão 965
+Qual é o efeito do acessório "Vingança"?
+R: Dano de Contra-ataque +8%
+
+Questão 966
+Na página VISUALIZAÇÃO DO COMANDANTE, que buffs os comandantes que atuam como "Guarda de Ferro" recebem?
+R: Saúde das Tropas +1%
+
+Questão 967
+Quem é o rei dos deuses na mitologia grega?
+R: Zeus
+
+Questão 968
+As Dunas de Areia Cantantes em Dunhuang, na China, são conhecidas por fazer um som alto de bateria sempre que o vento sopra. De que deserto elas fazem parte?
+R: Deserto de Kumtag
+
+Questão 969
+Qual é a maior cordilheira continental da Terra?
+R: Os Andes
+
+Questão 970
+Qual filme ganhou Melhor Filme no primeiro Oscar?
+R: Asas
+
+Questão 971
+A casa de leilões Sotheby's foi fundada em 1744 em qual cidade inglesa?
+R: Londres
 
 .
