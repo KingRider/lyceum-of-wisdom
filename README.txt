@@ -1,4 +1,4 @@
-🆕 Última atualização: 15 de Julho de 2023 - 09:55
+🆕 Última atualização: 17 de Julho de 2023 - 13:45
 👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 
@@ -6,7 +6,7 @@ Site Rápida:
 https://bit.ly/roklyceum
 
 Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos
-(Troca cabeça épico para dourado):
+(Troca cabeça épica para dourada):
 https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922
 
 Referências com Português:
@@ -1877,7 +1877,7 @@ A Torre Jin Mao de Xangai tem quantos andares?
 R: 88
 
 Questão 463
-A sua Prefeitura precisa estar em que nível para entrar na Idade do Aço (Ferro)?
+A sua Prefeitura precisa estar em que nível para entrar na Idade do Aço? (Ferro)
 R: Nível 10
 
 Questão 464
@@ -3838,6 +3838,7 @@ R: Atacar uma cidade
 
 Questão 953
 O Colosso de Rodes representa qual deus do sol?
+O Colosso de Rodes representa qual deus grego?
 R: Hélio
 
 Questão 954
@@ -3911,5 +3912,117 @@ R: Asas
 Questão 971
 A casa de leilões Sotheby's foi fundada em 1744 em qual cidade inglesa?
 R: Londres
+
+Questão 973
+Qual novo método de construção de colunas na Roma antiga foi baseado nos três principais estilos gregos?
+R: A coluna toscana
+
+Questão 974
+Qual dessas esculturas foi obra do antigo escultor grego Fídias?
+R: Estátua de Zeus em Olímpia
+
+Questão 975
+Qual destes deuses NÃO é filho de Zeus na mitologia grega?
+R: Hera
+
+Questão 976
+Qual é a capacidade de tropas reunidas padrão quando seu castelo está no nível 25?
+R: 2 milhões
+
+Questão 977
+A Porta dos Leões é a maior escultura pré-histórica sobrevivente no mar Egeu. Onde ela está localizada?
+R: Micenas
+
+Questão 978
+Qual dessas habilidades ativas pertence a Carlos Martel?
+R: Escudo de Francia
+
+Questão 979
+Qual o nível da sua Prefeitura para usar o Frenesi de Guerra?
+R: 10
+
+Questão 980
+Qual desses filósofos não era um defensor da escola de filosofia do cinismo?
+R: Sócrates
+
+Questão 981
+Qual desses eventos marca o início do domínio romano sobre a Grécia?
+R: Batalha de Corinto
+
+Questão 982
+Que antigo filosofo grego estabeleceu as primeiras ideias do atomismo?
+R: Demócrito
+
+Questão 983
+Os Jogos Olímpicos da Antiguidade era realizados a cada 4 anos em Olímpia, no sudoeste da Grécia. Em que ano se acredita que eles começaram?
+R: 776 AEC
+
+Questão 984
+Quem é o "Deus da Guerra" na mitologia grega antiga?
+R: Ares
+
+Questão 985
+Quem escreveu a "História da Guerra do Peloponeso", um relato histórico da guerra titular?
+R: Tucídides
+
+Questão 986
+Qual dessas peças NÃO foi escrita pelo antigo escritor de tragédias grego Eurípides?
+R: Antígona
+
+Questão 987
+Qual é o nome do santuário mais íntimo de um antigo templo grego, acessível apenas aos membros do sacerdócio?
+R: Ádito
+
+Questão 988
+Qual destas não é uma das Três Górgonas do mito grego?
+R: Perga
+
+Questão 989
+Quanto tempo dura o aumento de "Expansão Básica do Exército"?
+R: 4h
+
+Questão 990
+Na mitologia grega, quem é o herói conhecido por roubar o fogo dos deuses e entregá-lo à humanidade?
+R: Prometeu
+
+Questão 991
+Quem escreveu "História dos Animais"?
+R: Aristóteles
+
+Questão 992
+Qual das seguintes escolas de filosofia NÃO visa alcançar a "ataraxia"?
+R: Peripatética
+
+Questão 993
+Qual dessas cidades costuma ser considerada o berço da civilização ocidental e o berço da democracia?
+R: Atenas
+
+Questão 994
+Qual matemático grego antigo usou o método da exaustão para calcular a área de um círculo?
+R: Arquimedes
+
+Questão 995
+Segundo mitologia grega, quais dois deuses se transformaram no "peixe no signo de Peixes"?
+R: Afrodite e Eros
+
+Questão 996
+Que evento marcou o início do período helenístico?
+R: A morte de Alexandre, O Grande
+
+Questão 997
+Qual dos seguintes NÃO é um dos destinos da mitologia grega?
+R: Urd
+
+Questão 998
+Quem é o Deus do Sono da mitologia grega antiga?
+R: Hipnos
+
+Questão 999
+No épico homérico "A ilíada", qual das seguintes deusas NÃO fez parte da competição pelo Pomo da Discórdia?
+R: Artemis
+
+Questão 1000
+A ajuda da aliança NÃO pode acelerar quais das seguintes atividades?
+R: Treinamento da tropa
 
 .
