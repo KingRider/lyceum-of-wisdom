@@ -1,6 +1,7 @@
-🆕 Última atualização: 17 de Julho de 2023 - 13:45
-👩🏽‍💻 Editora: Sandro Alvares (KingRider) - Barueri/SP
+🆕 Última atualização: 29 de Julho de 2023 - 10:51
+👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
+🤗 Apoio: Francyne Yume
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -306,6 +307,7 @@ R: Francia
 
 Questão 72
 Que Imperador Romano foi nomeado de Augusto depois de terminar uma guerra civil?
+Que Imperador Romano foi nomeado Augusto após terminar a guerra civil?
 R: Gaius Octavius
 
 Questão 73
@@ -4024,5 +4026,109 @@ R: Artemis
 Questão 1000
 A ajuda da aliança NÃO pode acelerar quais das seguintes atividades?
 R: Treinamento da tropa
+
+Questão 1001
+Qual filósofo escreveu a "Utopia"?
+R: Platão
+
+Questão 1002
+Qual desses antigos dramaturgos gregos é considerado "o pai da tragédia"?
+R: Èsquilo
+
+Questão 1003
+Qual dessas opções NÃO é um detalhamento da tecnologia de aliança?
+R: Militar
+
+Questão 1004
+Qual dramaturgo grego antigo escreveu a famosa tragédia "Èdipo Rei"?
+R: Sófocles
+
+Questão 1005
+Qual destes NÃO foi um poeta grego?
+R: Adônis
+
+Questão 1006
+Qual filósofo criou o "paradoxo da flecha"?
+R: Zenão de Eleia
+
+Questão 1007
+Qual destas opções representa um dos quatro elementos fundamentais da natureza de acordo com muitos filósofos gregos antigos?
+R: Vento
+
+Questão 1008
+Na mitologia grega, qual herói montou o cavalo voador Pégaso?
+R: Belerofonte
+
+Questão 1009
+Qual desses antigos filósofos gregos NÃO participou da discussão sobre justiça na República de Platão?
+R: Protágonas
+
+Questão 1010
+A quem foi dedicado o Partenon?
+R: Atena
+
+Questão 1011
+"Conhece-te a ti mesmo" era um aforismo amplamente conhecido de qual país?
+R: Grécia Antiga
+
+Questão 1012
+Na "República", o que Platão identifica como a "forma mais elevada"?
+R: O Bom
+
+Questão 1013
+Qual a cor da vela que Teseu usou em seu navio para indicar a seu pai, Egeu, que havia matado com sucesso o Minotauro?
+R: Branco
+
+Questão 1014
+Qual era o nome da criatura que atraía os marinheiros com sua voz celestial na mitologia grega?
+R: Sereia
+
+Questão 1015
+Qual das seguintes opções NÃO foi incluída nas Olímpiadas de Verão, sediadas em Atenas, em 1896?
+R: Basquete
+
+Questão 1016
+Qual era o nome do antigo deu grego do vinho?
+R: Dioniso
+
+Questão 1017
+Quem é a deusa grega da noite?
+R: Nix
+
+Questão 1018
+Qual dessas não é uma habilidade do general Ceroli Keira?
+R: O Camaleão Vermelho
+
+Questão 1019
+Qual capítulo das Crônicas do Reino concede a conquista "Explorador Eterno" caso toda a névoa seja explorada antes do fim do capítulo?
+R: A Longa Paz
+
+Questão 1020
+O período após a queda da civilização micênica e antes do nascimento das cidades-estado gregas é conhecido como Idade das Trevas grega. Qual dessas obras foi escrita nessa época?
+R: A Odisseia
+
+Questão 1021
+Qual poeta escreveu "Teogonia", que descreve as origens e a genealogia dos deuses gregos?
+R: Hesíodo
+
+Questão 1022
+O épico grego "A Odisseia" narra o retorno do herói Ulisses da guerra. Onde era sua terra natal?
+R: Itaca
+
+Questão 1023
+Na Grécia antiga, quem era a alta sacerdotisa do Templo de Apolo em Delfos?
+R: a Pítia
+
+Questão 1024
+Qual desses antigos filósofos gregos NÃO participou da discussão sobre justiça na Republica de Platão?
+R: Polemarco
+
+Questão 1025
+Quem saiu vencedor da "Batalha de Hastings"?
+R: Guilherme, o Conquistador
+
+Questão 1026
+Qual a montanha mais alta da África?
+R: O Monte Kilimajaro
 
 .
