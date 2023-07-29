@@ -1,4 +1,4 @@
-🆕 Última atualização: 29 de Julho de 2023 - 10:51
+🆕 Última atualização: 29 de Julho de 2023 - 15:34
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 🤗 Apoio: Francyne Yume
@@ -4129,6 +4129,46 @@ R: Guilherme, o Conquistador
 
 Questão 1026
 Qual a montanha mais alta da África?
-R: O Monte Kilimajaro
+R: Monte Kilimajaro
+
+Questão 1027
+Em que ano foi lançada a sonda Tianwen-1 Mars?
+R: 2020
+
+Questão 1028
+Qual dos seguintes é o segundo maior delta de rio da Europa?
+R: Delta do Danúbio
+
+Questão 1029
+Na Tábua de Esmeralda, Hermes Trismegisto afirma possuir "três partes da sabedoria de todo o mundo". Qual destas NÃO é uma das três partes?
+R: Transfiguração
+
+Questão 1030
+Graças a grandes depósitos de bórax e pigmento de algas locais, a Laguna Colorada é uma paisagem fantástica de vermelho e branco. Em que país ela está localizada?
+R: Bolívia
+
+Questão 1031
+A roteirista Marguerite Duras é conhecida por escrever o filme "Hiroshima mon amour", Onde ela nasceu?
+R: Vietnã
+
+Questão 1032
+Qual dessas pessoas não ganhou um Prêmio Nobel de Física em 2022?
+R: Karl Barry Sharpless
+
+Questão 1033
+Em Macbeth de Shakespeare, o personagem principal mata o rei Duncan da Escócia. Qual é o nome do filho mais velho de Duncan?
+R: Malcolm
+
+Questão 1034
+De que nacionalidade era Miguel de Cervantes, autor de "Dom Quixote"?
+R: Espanhola
+
+Questão 1035
+"Ru" é um dos tipos mais famosos de cerâmica chinesa, conhecida por seu delicado esmalte azul claro. De qual dinastia ela se originou?
+R: Song
+
+Questão 1036
+Qual é o metal alcalino-terroso mais pesado?
+R: Rádio
 
 .
