@@ -1,4 +1,4 @@
-🆕 Última atualização: 29 de Julho de 2023 - 15:34
+🆕 Última atualização: 17 de Agosto de 2023 - 21:48
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 🤗 Apoio: Francyne Yume
@@ -8,7 +8,7 @@ https://bit.ly/roklyceum
 
 Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos
 (Troca cabeça épica para dourada):
-https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922
+https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922!
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em 13/Abril/2022)
@@ -4170,5 +4170,21 @@ R: Song
 Questão 1036
 Qual é o metal alcalino-terroso mais pesado?
 R: Rádio
+
+Questão 1037
+Para cada 1 unidade que você treina em sua cidade, quantas unidades de expedição você recebe no modo Expedição?
+R: 1
+
+Questão 1038
+Qual dos itens a seguir pode ser usado para aprimorar as habilidades de Comandante?
+R: Esculturas de Comandante
+
+Questão 1039
+No Japão, os portões "torii" costumam ser colocados na entrada de quais construções?
+R: Santuários
+
+Questão 1040
+Qual dos seguintes NÃO é uma dança típica?
+R: Sumô
 
 .
