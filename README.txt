@@ -1,4 +1,4 @@
-🆕 Última atualização: 17 de Agosto de 2023 - 21:48
+🆕 Última atualização: 27 de Agosto de 2023 - 17:22
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 🤗 Apoio: Francyne Yume
@@ -4186,5 +4186,33 @@ R: Santuários
 Questão 1040
 Qual dos seguintes NÃO é uma dança típica?
 R: Sumô
+
+Questão 1041
+Qual dos seguintes peixes atrai suas presas usando bioluminescência?
+R: Peixe-pescador
+
+Questão 1042
+Que planeta no sistema solar está mais perto do Sol?
+R: Mercúrio
+
+Questão 1043
+No RoK, qual capítulo das Crônicas do Reino exige a exploração completa de todos os blocos de névoa do reino?
+R: A Longa Paz
+
+Questão 1044
+Qual destas foi a primeira estação espacial do mundo?
+R: Salyut 1
+
+Questão 1045
+Muitas figuras históricas lutaram na terceira cruzada, Qual dos líderes abaixo morreu neste movimento militar?
+R: Frederico Barba Ruiva
+
+Questão 1046
+Qual dos métodos a seguir NÃO aumentara a velocidade de pesquisa da sua academia?
+R: Tornar-se a Justiça do seu reino
+
+Questão 1047
+No Rok, qual tecnologia e pré-requisito para a tecnologia militar fitoterapia?
+R: Camuflagem
 
 .
