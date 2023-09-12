@@ -1,7 +1,7 @@
-🆕 Última atualização: 27 de Agosto de 2023 - 17:22
+🆕 Última atualização: 12 de Setembro de 2023 - 07:53
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
-🤗 Apoio: Francyne Yume
+🤗 Apoio: Francyne Yume | vtr182
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -4214,5 +4214,61 @@ R: Tornar-se a Justiça do seu reino
 Questão 1047
 No Rok, qual tecnologia e pré-requisito para a tecnologia militar fitoterapia?
 R: Camuflagem
+
+Questão 1048
+Que recurso é necessário para viajar no Fórum Estadual?
+R: Pontos de Ação
+
+Questão 1049
+No RoK, qual comandante tem o título "Amado de Thoth"?
+R: Tutemés III
+
+Questão 1050
+Quem foi o diretor do jogo premiado como Jogo do Ano no Game Awards 2022?
+R: Hidetaka Miyazaki
+
+Questão 1051
+No RoK, qual das seguintes decorações precisa ser comprada com Gemas?
+R: Vaso
+
+Questão 1052
+Quem é o deus hindu da destruição, também conhecido como "dançarino cósmico"?
+R: Shiva
+
+Questão 1053
+O Panteão foi o local de sepultamento de muitos artistas importantes desde o Renascimento. Qual dos seguintes artistas foi enterrado lá?
+R: Raphael
+
+Questão 1054
+Qual destas é uma das Habilidades Ativas de Diaochan?
+R: Dança do Caos
+
+Questão 1055
+A bandeira de que país tem o recorde mundial de ser a bandeira nacional mais antiga usada?
+R: Dinamarca
+
+Questão 1056
+Qual dos seguintes impérios NÃO participou da Batalha dos Três Imperadores (também conhecida como Batalha de Austerlitz)?
+R: O Império Persa
+
+Questão 1057
+Em que país ocorreu nasce o famoso revolucionário e estrategista militar Simón Bolívar?
+R: Venezuela
+
+Questão 1058
+Em que ano Mark Zuckerberg criou o Facebook?
+R: 2004
+
+Questão 1059
+Qual desses comandantes é frequentemente descrito como tendo sobrevivido a 57 combates sem uma única derrota?
+R: Honda Tadakatsu
+
+Questão 1060
+Qual é a capital da Escócia?
+R: Edimburgo
+
+Questão 1061
+No evento "O Governador Mais Poderoso", qual é a classificação mínima que você precisa alcançar para receber 10 esculturas de comandante do evento?
+R: 15º
 
 .
