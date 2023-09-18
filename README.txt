@@ -2039,7 +2039,7 @@ Nos quadrinhos da DC, qual é o nome verdadeiro do Batman?
 R: Bruce Wayne
 
 Questão 503
-Qual Chefe no evento Crise Ceroli planejou um gole bem-sucedido?
+Qual Chefe no evento Crise Ceroli planejou um golpe bem-sucedido?
 R: Torgny
 
 Questão 504
