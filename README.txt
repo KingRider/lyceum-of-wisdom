@@ -1,4 +1,4 @@
-🆕 Última atualização: 12 de Setembro de 2023 - 07:53
+🆕 Última atualização: 23 de Setembro de 2023 - 11:10
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
 📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
 🤗 Apoio: Francyne Yume | vtr182
@@ -282,8 +282,8 @@ Que parte do corpo humano contém mais água?
 R: Globos oculares
 
 Questão 66
-Quem escreveu a arte da guerra?
-R: Sun tzu
+De que país era o compositor Franz Schubert?
+R: Áustria
 
 Questão 67
 Quem planejou o assassinato de Júlio César?
@@ -1062,7 +1062,7 @@ Qual das seguintes NÃO é uma das habilidades de Hermann?
 R: Irrestível
 
 Questão 259
-Dos comandantes abaixo, qual se adegua melhor a liderar tropas CONTRA inimigos de cavalaria?
+Dos comandantes abaixo, qual se adequa melhor a liderar tropas CONTRA inimigos de cavalaria?
 R: Sun Tzu
 
 Questão 260
@@ -4270,5 +4270,13 @@ R: Edimburgo
 Questão 1061
 No evento "O Governador Mais Poderoso", qual é a classificação mínima que você precisa alcançar para receber 10 esculturas de comandante do evento?
 R: 15º
+
+Questão 1062
+Em 1582, Oda Nobunaga foi traído e emboscado por seu general Akechi Mitsuhide. Onde isso ocorreu?
+R: Templo de Honnō-Ji em Kyoto
+
+Questão 1063
+Dos seguintes, qual é o mais provável de ter levado diretamente à Idade do Bronze?
+R: O bronze é mais duro e durável que outros metais disponíveis na época
 
 .
