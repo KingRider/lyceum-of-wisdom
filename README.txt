@@ -1,6 +1,6 @@
-🆕 Última atualização: 23 de Setembro de 2023 - 11:10
+🆕 Última atualização: 29 de Setembro de 2023 - 23:46
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
-📧 Contato & 💰 Colabore/PayPal/Pix: sandro.rider@gmail.com
+📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com
 🤗 Apoio: Francyne Yume | vtr182
 
 Site Rápida:
@@ -16,7 +16,7 @@ https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzad
 Referências com Inglês:
 https://www.appgamer.com/rise-of-kingdoms/answers/ ?(mais populares)
 https://kangfumaster.com/rok-peerless-scholar-qa/ ?(ultima atualização 8/Julho/2023)
-https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização Fevereiro/2023)
+https://rok.guide/buildings/lyceum-of-wisdom/ ?(ultima atualização Fevereiro/2023 - Site está lento)
 https://www.ar-rok.com/2020/05/all-questions-and-answers-lyceum-of_56.html ?(página está desatualizado em 2020)
 
 Questão 1
@@ -4278,5 +4278,45 @@ R: Templo de Honnō-Ji em Kyoto
 Questão 1063
 Dos seguintes, qual é o mais provável de ter levado diretamente à Idade do Bronze?
 R: O bronze é mais duro e durável que outros metais disponíveis na época
+
+Questão 1064
+Qual é a temperatura ideal para assar um frango no barril quente de um canhão otomano?
+R: 200 ºC
+
+Questão 1065
+Qual é a meia-vida do Iodo-129, um isótopo radiotivo produzido por reatores nucleares?
+R: 15,7 milhões de anos
+
+Questão 1066
+Durante um eclipse solar, o objeto celestial que fica entre o Sol e a Terra é:
+R: A Lua
+
+Questão 1067
+Quantos jogadores existem no jogo de tabuleiro Go?
+R: 2
+
+Questão 1068
+As pirâmides maias foram feitas de quê?
+R: Pedra
+
+Questão 1069
+As atividades físicas diárias do povo maia NÃO incluíam:
+R: Arremesso de pinguim
+
+Questão 1070
+Quem escreveu o romance "Declínio de um Homem"?
+R: Osamu Dazai
+
+Questão 1071
+Quais destes itens não podem ser obtidos num Baú de Equipamentos?
+R: Tomos de Conhecimento
+
+Questão 1072
+Quem foi o pai de Edward de Woodstock?
+R: Eduardo III
+
+Questão 1073
+Qual das seguintes não é um dos Destinos da mitologia nórdica?
+R: Karma
 
 .
