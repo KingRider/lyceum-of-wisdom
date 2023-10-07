@@ -1,6 +1,6 @@
 🆕 Última atualização: 07 de Outubro de 2023 - 15:43
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
-📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https:/bit.ly/kingrider
+📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: Francyne Yume | vtr182
 
 Site Rápida:
