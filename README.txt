@@ -1,6 +1,6 @@
-🆕 Última atualização: 29 de Setembro de 2023 - 23:46
+🆕 Última atualização: 07 de Outubro de 2023 - 15:43
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
-📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com
+📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https:/bit.ly/kingrider
 🤗 Apoio: Francyne Yume | vtr182
 
 Site Rápida:
@@ -4212,7 +4212,7 @@ Qual dos métodos a seguir NÃO aumentara a velocidade de pesquisa da sua academ
 R: Tornar-se a Justiça do seu reino
 
 Questão 1047
-No Rok, qual tecnologia e pré-requisito para a tecnologia militar fitoterapia?
+No Rok, qual tecnologia e pré-requisito para a tecnologia militar Fitoterapia?
 R: Camuflagem
 
 Questão 1048
@@ -4318,5 +4318,41 @@ R: Eduardo III
 Questão 1073
 Qual das seguintes não é um dos Destinos da mitologia nórdica?
 R: Karma
+
+Questão 1074
+Qual destas opções é o museu de arte mais visitado do mundo nos últimos anos?
+R: Louvre
+
+Questão 1075
+A Peste de Justiniano de 541-549 foi o primeiro surto da primeira pandemia de peste. Que outro grande estava ocorrendo no Império Romano do Oriente naquela época?
+R: A Guerra Gótica
+
+Questão 1076
+Em qual guerra norte-americana foi emitida a "Proclamação de Emancipação"?
+R: Guerra Civil
+
+Questão 1077
+Qual é o formato de um gol de futebol quando visto de frente?
+R: Um retângulo
+
+Questão 1078
+Em RoK, qual das habilidades de Sun Tzu é melhorada por sua habilidade de especialidade?
+R: Arte da Guerra
+
+Questão 1079
+Em RoK, há uma estrada pavimentada com tijolos dourados que pode ser adquirida por 100 Gemas. Como ela se chama?
+R: Estrada do Rei
+
+Questão 1080
+Os métodos de mitigação da desertificação NÃO incluem:
+R: Superexploração das águas subterrâneas
+
+Questão 1081
+Na mitologia nórdica, a quem pertence o martelo Mjölnir?
+R: Thor
+
+Questão 1082
+Qual desses grupos étnicos chineses é conhecido por beber kumis, uma bebida feita com leite de égua fermentado?
+R: Mongóis
 
 .
