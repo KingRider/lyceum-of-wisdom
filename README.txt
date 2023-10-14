@@ -1,5 +1,5 @@
-🆕 Última atualização: 07 de Outubro de 2023 - 15:43
-👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP
+🆕 Última atualização: 14 de Outubro de 2023 - 10:37
+👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: Francyne Yume | vtr182
 
@@ -4354,5 +4354,21 @@ R: Thor
 Questão 1082
 Qual desses grupos étnicos chineses é conhecido por beber kumis, uma bebida feita com leite de égua fermentado?
 R: Mongóis
+
+Questão 1083
+Em RoK, qual é o número máximo de minas de ouro que um jogador pode construir?
+R: 4
+
+Questão 1084
+Qual dessas obras não se passa durante a Guerra da Tróia?
+R: Antígona
+
+Questão 1085
+Em que continente está localizado Benin?
+R: África
+
+Questão 1086
+Quem era responsável por conduzir bravos guerreiros do Valhalla após a morte na mitologia nórdica?
+R: Valquírias
 
 .
