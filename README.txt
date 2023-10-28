@@ -1,4 +1,4 @@
-🆕 Última atualização: 14 de Outubro de 2023 - 10:37
+🆕 Última atualização: 28 de Outubro de 2023 - 11:55
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: Francyne Yume | vtr182
@@ -8,7 +8,7 @@ https://bit.ly/roklyceum
 
 Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos
 (Troca cabeça épica para dourada):
-https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922!
+https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922# (Postado por シPedro#0283)
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em 13/Abril/2022)
@@ -4370,5 +4370,85 @@ R: África
 Questão 1086
 Quem era responsável por conduzir bravos guerreiros do Valhalla após a morte na mitologia nórdica?
 R: Valquírias
+
+Questão 1087
+Qual destas NÃO é uma etapa típica do tratamento de esgoto?
+R: Descarga
+
+Questão 1088
+Quando alguém pisa em uma casca de banana calçando sapatos, o coeficiente de atrito entre o sapato e a casca de banana é de:
+R: 0,07
+
+Questão 1089
+Em RoK, qual das seguintes NÃO é uma das habilidades de Mulan?
+R: Coração Inteligente
+
+Questão 1090
+Quem mata Odin, o rei dos deuses, durante o Ragnarok na mitologia nórdica?
+R: Fenrir
+
+Questão 1091
+Em que país nasceu Botticelli, pintor de O Nascimento de Vênus?
+R: Itália
+
+Questão 1092
+Qual dessas cidades NÃO fica na Ásia?
+R: Melbourne
+
+Questão 1093
+Li Xin, o ancestral do "General Voador" Li Guang, era um general de qual estado durante o período dos Reinos Combatentes da história chinesa?
+R: Qin
+
+Questão 1094
+Dentre as fossas oceânicas conhecidas, qual é a mais profunda do mundo?
+R: A Fossa das Marianas
+
+Questão 1095
+Qual foi o único presidente dos Estados Unidos que serviu mais do que dois mandatos?
+R: Franklin D. Roosevelt
+
+Questão 1096
+De acordo com a cronologia Maia, o Período Pré-Clássico Tardio se enquadra em:
+R: 1 A.C. a 159 D.C.
+
+Questão 1097
+Na fábula "Os Músicos de Bremen", dos Irmãos Grimm, um grupo de animais viaja para Bremen em busca de uma carreira musical. Qual dos seguintes animais NÃO faz parte do grupo?
+R: Porco
+
+Questão 1098
+As Cataratas do Iguaçu ficam na fronteira entre quais países?
+R: Brasil e Argentina
+
+Questão 1099
+Qual destas figuras históricas jamais se envolveu com a medicina?
+R: Justiniano
+
+Questão 1100
+Qual destes países modernos NÃO está localizado no território da civilização maia?
+R: República Dominicana
+
+Questão 1101
+Em RoK, o que você tem que fazer para concluir a missão "Espada do Rei"?
+R: Recrutar 200 Unidades de Infantaria
+
+Questão 1102
+Na mitologia maia, quantos níveis existem no céu e no submundo combinados?
+R: 22
+
+Questão 1103
+Qual runa do Futhark representa Tyr, o deus da guerra e da justiça na mitologia germânica?
+R: Tiwaz
+
+Questão 1104
+Qual das árvores a seguir é comum em ecossistemas boreais?
+R: Abeto
+
+Questão 1105
+De acordo com a World Athletics, qual destes NÃO é um peso de disco internacional oficial?
+R: 1,25 kg
+
+Questão 1106
+Qual dos seguintes eventos ocorreu na América do Norte durante os Loucos Anos Vinte?
+R: Início da publicação da revista "Weird Tales"
 
 .
