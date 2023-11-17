@@ -4451,4 +4451,8 @@ Questão 1106
 Qual dos seguintes eventos ocorreu na América do Norte durante os Loucos Anos Vinte?
 R: Início da publicação da revista "Weird Tales"
 
+Questão 1107
+Em RoK, qual comandante pode afastar os buffs de ataque do inimigo?
+R: Amanitore
+
 .
