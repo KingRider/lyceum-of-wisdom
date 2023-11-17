@@ -1,7 +1,7 @@
-🆕 Última atualização: 28 de Outubro de 2023 - 11:55
+🆕 Última atualização: 17 de Novembro de 2023 - 11:17
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-🤗 Apoio: Francyne Yume | vtr182
+🤗 Apoio: FrancyneYume | vtr182 | raolpi29
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -291,7 +291,7 @@ R: Marcus Junius Brutus
 
 Questão 68
 Quem é o Rei do Reino?
-R: O líder da Aliança que conquistar o Templo Perdido
+R: O Líder da Aliança que conquistar o Templo Perdido
 
 Questão 69
 Que comandante é conhecido como o Conquistador do Caos?
@@ -4450,5 +4450,33 @@ R: 1,25 kg
 Questão 1106
 Qual dos seguintes eventos ocorreu na América do Norte durante os Loucos Anos Vinte?
 R: Início da publicação da revista "Weird Tales"
+
+Questão 1107
+Qual das seguintes regiões é o habitat principal dos ursos polares?
+R: Círculo Ártico
+
+Questão 1108
+Que comandante é conhecida como a Dama dos Mércios?
+R: AEthelflaed
+
+Questão 1109
+Quem dirigiu o filme "Primavera Numa Pequena Cidade"?
+R: Fei Mu
+
+Questão 1110
+Nos séculos 16 a 17, que doença os famosos "médicos da peste" mascarados de pássaros tratavam?
+R: Praga bubônica
+
+Questão 1111
+Em RoK, qual dos seguintes armamentos pode ser usado com a formação em arco?
+R: Emblema do Norte
+
+Questão 1112
+Qual dos seguintes órgãos faz parte do sistema respiratório humano?
+R: Pulmões
+
+Questão 1113
+Em RoK, qual comandante pode afastar os buffs de ataque do inimigo?
+R: Amanitore
 
 .
