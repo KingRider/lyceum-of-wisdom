@@ -1,4 +1,4 @@
-🆕 Última atualização: 25 de Novembro de 2023 - 09:47
+🆕 Última atualização: 25 de Novembro de 2023 - 17:23
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: FrancyneYume | raolpi29 | vtr182
@@ -4498,5 +4498,69 @@ R: Reino Unido
 Questão 1118
 Em RoK, qual é a cor da bainha de Matilda de Flanders?
 R: Azul
+
+Questão 1119
+Qual dos seguintes animais estava na bandeira imperial do Império Inca?
+R: Cobra
+
+Questão 1120
+Qual foi o primeiro filme dirigido por Satoshi Kon?
+R: Perfect Blue
+
+Questão 1121
+Durante a fusao nuclear, qual dos seguintes elementos produz menos energia do que absorve?
+R: Ferro
+
+Questão 1122
+Qual dos seguintes treinadores levou seu time a 13 títulos da Liga de Futebol Inglesa?
+R: Alex Ferguson
+
+Questão 1123
+Em que continente estava localizado o Império Inca?
+R: América do Sul
+
+Questão 1124
+Uma cratera no outro lado da Lua recebeu o nome de um oficial chines que foi (supostamente) a primeira pessoa a viajar para o espaço. Qual era o nome dele?
+R: Wan Hu
+
+Questão 1125
+Qual dos seguintes seres vivos são carnívoros?
+R: Libélulas
+
+Questão 1126
+O Mar de Aral já foi o quarto maior lago do mundo, mas desde então praticamente secou. Onde ele está localizado?
+R: Ásia Central
+
+Questão 1127
+Qual destas é uma descrição incorreta da "Batalha de Poitiers"?
+R: A campanha aconteceu durante a Primeira Guerra Mundial
+
+Questão 1128
+Na mitologia grega, qual juiz dos mortos era responsável por dar o voto decisivo em todas as almas?
+R: Minos
+
+Questão 1129
+Qual é o slogan da fabricante de armas Heckler & Koch?
+R: "Sem concessões!"
+
+Questão 1130
+Qual clube ganhou mais títulos da Liga de Futebol Inglesa?
+R: Manchester United
+
+Questão 1131
+Quem é o treinador mais antigo da história do Arsenal FC?
+R: Arsene Wenger
+
+Questão 1132
+Ao velejar durante uma tempestade, ocasionalmente é possível avistar um efeito de "raio" na ponta do mastro. Qual é o nome desse fenômeno?
+R: Fogo de Santelmo
+
+Questão 1133
+A profundidade no ponto mais profundo do Mar Báltico é de:
+R: 459m
+
+Questão 1134
+Qual dos seguintes clube de futebol NÃO tem sede em Londres?
+R: Everton
 
 .
