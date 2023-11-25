@@ -4479,4 +4479,20 @@ Questão 1113
 Em RoK, qual comandante pode afastar os buffs de ataque do inimigo?
 R: Amanitore
 
+Questão 1114
+Quem ordenou a produção do manuscrito civil popularmente conhecido como Livro do Juízo Final?
+R: Guilherme I
+
+Questão 1115
+Como é chamada a habilidade de especialização do Comandante Cao Cao?
+R: Imperador Wu de Wei
+
+Questão 1116
+Em que país misterioso Stonehenge está localizado?
+R: Reino Unido
+
+Questão 1117
+Em RoK, qual é a cor da bainha de Matilda de Flanders?
+R: Azul
+
 .
