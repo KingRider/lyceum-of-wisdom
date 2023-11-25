@@ -4499,4 +4499,28 @@ Questão 1118
 Em RoK, qual é a cor da bainha de Matilda de Flanders?
 R: Azul
 
+Questão 1119
+Em que continente estava localizada o Império inca?
+R: América do Sul
+
+Questão 1120
+Qual dos seguintes treinadores levou seu time a 13 títulos da Liga de Futebol Inglesa?
+R: Alex Ferguson
+
+Questão 1121
+Durante a fusão nuclear, qual dos seguintes elementos produz menos energia do que absorve?
+R: Ferro
+
+Questão 1122
+Qual foi o primeiro filme animado dirigido por Satoshi Kon?
+R: Perfect Blue
+
+Questão 1123
+Qual dos seguintes animais estava na bandeira imperial do Império inca?
+R: Cobra
+
+Questão 1124
+Qual dos seguintes clubes de futebol NÃO tem sede em Londres?
+R: Everton
+
 .
