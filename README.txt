@@ -1,7 +1,7 @@
-🆕 Última atualização: 17 de Novembro de 2023 - 11:17
+🆕 Última atualização: 25 de Novembro de 2023 - 09:47
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-🤗 Apoio: FrancyneYume | vtr182 | raolpi29
+🤗 Apoio: FrancyneYume | raolpi29 | vtr182
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -4478,5 +4478,25 @@ R: Pulmões
 Questão 1113
 Em RoK, qual comandante pode afastar os buffs de ataque do inimigo?
 R: Amanitore
+
+Questão 1114
+Qual dos seguintes NÃO é um jogo de bola?
+R: Esgrima
+
+Questão 1115
+Quem ordenou a produção do manuscrito civil popularmente conhecido como Livro do Juízo Final?
+R: Guilherme I
+
+Questão 1116
+Como é chamada a habilidade de especialização do Comandante Cao Cao?
+R: Imperador Wu de Wei
+
+Questão 1117
+Em que país misterioso Stonehenge está localizado?
+R: Reino Unido
+
+Questão 1118
+Em RoK, qual é a cor da bainha de Matilda de Flanders?
+R: Azul
 
 .
