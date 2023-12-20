@@ -1,4 +1,4 @@
-🆕 Última atualização: 25 de Novembro de 2023 - 17:23
+🆕 Última atualização: 20 de Dezembro de 2023 - 10:29
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: FrancyneYume | raolpi29 | vtr182
@@ -4562,5 +4562,21 @@ R: 459m
 Questão 1134
 Qual dos seguintes clube de futebol NÃO tem sede em Londres?
 R: Everton
+
+Questão 1135
+Qual dos seguintes NÃO é uma "arma branca"?
+R: Pistola
+
+Questão 1136
+No xadrez internacional, qual lado se move primeiro?
+R: Branco
+
+Questão 1137
+Na revista em quadrinhos "Batman", da DC Comics, qual versão de Robin morreu por conta de uma votação dos leitores?
+R: Jason Todd (Capuz Vermelho)
+
+Questão 1138
+Em seu diálogo no jogo, quem Cleópatra VII menciona que foi assassinado pelos seus próprios senadores?
+R: Júlio César
 
 .
