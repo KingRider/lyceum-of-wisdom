@@ -1,7 +1,9 @@
-🆕 Última atualização: 20 de Dezembro de 2023 - 10:29
+🆕 Última atualização: 30 de Dezembro de 2023 - 09:52
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: FrancyneYume | raolpi29 | vtr182
+
+🎄👨‍👩‍👧‍👦 Feliz Natal 🎅🏻🎄 e 🎉🍾😍 Feliz 2024 🥂🥳✨
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -3965,6 +3967,7 @@ R: Ares
 
 Questão 985
 Quem escreveu a "História da Guerra do Peloponeso", um relato histórico da guerra titular?
+Quem foi o autor da História da Guerra do Peloponeso?
 R: Tucídides
 
 Questão 986
@@ -4578,5 +4581,33 @@ R: Jason Todd (Capuz Vermelho)
 Questão 1138
 Em seu diálogo no jogo, quem Cleópatra VII menciona que foi assassinado pelos seus próprios senadores?
 R: Júlio César
+
+Questão 1139
+Sigmund Freud, pai da psicanálise, era de qual país?
+R: Áustria
+
+Questão 1140
+Qual dos seguintes reinados de imperadores chineses foi conhecido como o "Reinado de Zhenguan"?
+R: Imperador Taizong de Tang
+
+Questão 1141
+Quem foram os dois beligerantes na Batalha de Thermopylae?
+R: Gregos e persas
+
+Questão 1142
+Quem ganhou um Prêmio Nobel em duas áreas diferentes?
+R: Marie Curie
+
+Questão 1143
+Qual das seguintes equipes foi a primeira a marcar 100 pontos em uma única temporada da Liga de Futebol Inglesa?
+R: Manchester City
+
+Questão 1144
+Qual é o aumento na Velocidade de Coleta quando os membros da aliança coletam recursos no território da aliança?
+R: 25%
+
+Questão 1145
+Qual é o apelido de Belisário?
+R: O Último dos Romanos
 
 .
