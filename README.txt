@@ -1,9 +1,7 @@
-🆕 Última atualização: 30 de Dezembro de 2023 - 09:52
+🆕 Última atualização: 17 de Fevereiro de 2024 - 11:19
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-🤗 Apoio: FrancyneYume | raolpi29 | vtr182
-
-🎄👨‍👩‍👧‍👦 Feliz Natal 🎅🏻🎄 e 🎉🍾😍 Feliz 2024 🥂🥳✨
+🤗 Apoio: FrancyneYume
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -1408,6 +1406,7 @@ R: 4
 
 Questão 345
 Na Dinastia Han da China, quem abriu a Estrada da Seda sob ordens do Imperador Wu?
+Na Dinastia Han da China, quem abriu a Rota da Seta sob ordens do Imperador Wu?
 R: Zhang Qian
 
 Questão 346
@@ -4007,7 +4006,7 @@ Qual matemático grego antigo usou o método da exaustão para calcular a área 
 R: Arquimedes
 
 Questão 995
-Segundo mitologia grega, quais dois deuses se transformaram no "peixe no signo de Peixes"?
+Segundo a mitologia grega, quais dois deuses se transformaram no "peixe" no signo de Peixes?
 R: Afrodite e Eros
 
 Questão 996
@@ -4091,7 +4090,7 @@ Qual das seguintes opções NÃO foi incluída nas Olímpiadas de Verão, sediad
 R: Basquete
 
 Questão 1016
-Qual era o nome do antigo deu grego do vinho?
+Qual era o nome do antigo deus grego do vinho?
 R: Dioniso
 
 Questão 1017
@@ -4609,5 +4608,209 @@ R: 25%
 Questão 1145
 Qual é o apelido de Belisário?
 R: O Último dos Romanos
+
+Questão 1146
+Qual dessas frutas NÃO cresce em árvores?
+R: Morango
+
+Questão 1147
+Em RoK, qual comandante é apelidado de "Rainha de Silla"?
+R: Seondeok
+
+Questão 1148
+A qual exército pertencia a "Guarda Varangiana"?
+R: O exército bizantino
+
+Questão 1149
+A conquista otomana de Constantinopla em 1453 marcou o fim do Império Romano do Oriente. Quem era o imperador romano na época?
+R: Constantino XI Paleólogo
+
+Questão 1150
+Qual é a duração do item de Recrutamento de Construtor?
+R: 2 dias
+
+Questão 1151
+Qual é o maior lago da Europa?
+R: Lago Ladoga
+
+Questão 1152
+Quem foi o primeiro autor japonês a receber o Prêmio Nobel de Literatura?
+R: Yasunari Kawabata
+
+Questão 1153
+Qual das seguintes afirmações sobre Zhuge Liang em RoK está incorreta?
+R: Ele se destaca na liderança de unidades de cavalaria
+
+Questão 1154
+Qual dos seguintes títulos só pode ser usado por um governante islâmico?
+R: Sultão
+
+Questão 1155
+Qual das opções a seguir não é um benefício de atualizar sua Taberna?
+R: Melhora a variedade de recompensas em Baús Dourados
+
+Questão 1156
+Ao atualizar seu Armazém do Nv. 24 para o Nv. 25, qual recurso ganha mais capacidade de proteção de recursos?
+R: Ouro
+
+Questão 1157
+Em RoK, qual dos seguintes comandantes se destaca na liderança de unidades de cerco?
+R: Margaret I
+
+Questão 1158
+Em RoK, qual comandante tem o apelido de "Zizka do Cálice"?
+R: Jan Zizka
+
+Questão 1159
+Durante o Período dos Estados Beligerantes da China, que estado derrotou os outros seis e construiu o império chinês unificado?
+R: Qin
+
+Questão 1160
+Na China, os bolinhos de arroz (niangao) são uma iguaria frequentemente consumida durante o Ano Novo Chinês. Qual das seguintes afirmações sobre niangao está INCORRETA?
+R: Geralmente só são consumidos durate o Ano Novo Chinês
+
+Questão 1161
+De acordo com a lenda chinesa, qual das alternativas a seguir não é uma das fraquezas da terrível fera conhecida como "Nian"?
+R: Água
+
+Questão 1162
+Durante qual dinastia chinesa o Siku Quanshu foi compilado?
+R: Qing
+
+Questão 1163
+Em que dia cai a véspera do Ano Novo Chinês no calendário lunar?
+R: Um dia antes do Ano Novo Lunar
+
+Questão 1164
+Qual dos seguintes animais do zodíaco chinês é geralmente considerado fictício?
+R: Dragão
+
+Questão 1165
+O tipo móvel foi usado pela primeira vez em que país?
+R: China
+
+Questão 1166
+Em que ano ocorreu a Batalha de Guandu?
+R: 200 (não AC)
+
+Questão 1167
+Qual poeta chinês escreveu o poema "Li Sao"?
+R: Qu Yuan
+
+Questão 1168
+Em seu diálogo no jogo, qual comandantes Sun Tzu alerta o governador para ficar de olho?
+R: Cao Cao
+
+Questão 1169
+A Cidade Proibida foi construída durante o governo de qual dinastia chinesa?
+R: Ming
+
+Questão 1170
+Quem queimou o Palácio de Epang, construído durante a Dinastia Qin na China?
+R: Xiang Yu
+
+Questão 1171
+Qual das alternativas a seguir não é uma tradição comum do Ano Novo Chinês?
+R: Comer bolos lunares
+
+Questão 1172
+Qual das seguintes formas NÃO foi usada pelo "Espírito de Ossos Brancos" em sua lendária batalha contra o Rei Macaco Sun Wukong na "Jornada ao Oeste".
+R: Um garoto
+
+Questão 1173
+"Cento e quarenta mil, todos desarmados! Entre estes não havia um único homem"? Qual poeta da dinastia Tang escreveu este dístico?
+R: Madame Huarui
+
+Questão 1174
+Qual antiga dinastia chinesa seguiu a dinastia Shang?
+R: A Dinastia Zhou
+
+Questão 1175
+Qual das seguintes civilizações fornece um aumeto na velocidade de construção?
+R: China
+
+Questão 1176
+Em qual categoria se enquandra o sistema formal de escrita do antigo Egito?
+R: Hieroglífico
+
+Questão 1177
+Quem pintou Ninfa do Rio Luo?
+R: Gu Kaizhi
+
+Questão 1178
+Qual dessas opções NÃO foi um dos chamados "24 heróis" do Pavilhão Lingyan?
+R: Li Mi
+
+Questão 1179
+Em qual tribunal o "Huainanzi" foi compilado em um livro?
+R: Liu An
+
+Questão 1180
+"Manuscrito corrido" é um estilo de caligrafia chinesa. Qual das seguintes obras NÃO está escrita em dessa forma?
+R: Estela do Pagode Duobao
+
+Questão 1181
+Qual dessas figuras NÃO é referenciada no título do antigo poema chinês: "Oito Imortais da Taça de Vinho"?
+R: Du Fu
+
+Questão 1182
+Quantas estrelas aparecem no banner exibido atrás do comandante Minamoto no Yoshitsune?
+R: 3
+
+Questão 1183
+Na história do folclore chinês "O vaqueiro e a tecelã", qual constelação o vaqueiro representa?
+R: Áquila
+
+Questão 1184
+Quem escreveu o romance "The Scholars"?
+R: Wu Jingzi
+
+Questão 1185
+Em RoK, qual dos seguintes personagens Sun Tzu menciona em seu diálogo Confiança?
+R: Mulan
+
+Questão 1186
+O mapa Qingming captura a vida cotidiana e a paisagem de qual antiga dinastia chinesa?
+R: Song
+
+Questão 1187
+A Batalha de Changping foi travada entre quais duas forças?
+R: Reinos de Qin e Zhao
+
+Questão 1188
+Quem foi o último Imperador da China?
+R: O Imperador Xuantong (Puyi)
+
+Questão 1189
+Cada animal do zodíaco chinês está associado a um dos cincos elementos clássicos chineses. Qual elemento tem mais animais do zodíaco associados a ele?
+R: Terra
+
+Questão 1190
+Onde fica o Mausoléu do Primeiro Imperador Qin localizado na China?
+R: Shaanxi
+
+Questão 1191
+Qual das seguintes não é considerada uma das Quatro Grandes Invenções da China antiga?
+R: Sismógrafo
+
+Questão 1192
+O Templo do Céu, na China, foi construído durante o reino de que imperador?
+R: O Imperador Yongle (Shy Di)
+
+Questão 1193
+A ametista é valorizada por sua tonalidade violeta brilhante. De que mineral ela é uma variedade?
+R: Quartzo
+
+Questão 1194
+Quem fundou a Ordem da Jarreteira da Inglaterra?
+R: Eduardo III
+
+Questão 1195
+Qual destas afirmações sobre o título "tribuna da plebe" está incorreta?
+R: Eles eram totalmente subservientes ao Senado
+
+Questão 1196
+Qual é o maior aeroporto do mundo em área?
+R: Aeroporto Internacional King Fahd
 
 .
