@@ -1,7 +1,9 @@
-🆕 Última atualização: 17 de Fevereiro de 2024 - 11:19
+🆕 Última atualização: 24 de Fevereiro de 2024 - 11:47
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
+💰 Agradecimento pela doação: JorgeMario
 🤗 Apoio: FrancyneYume
+🧧 Último código de resgate: bds6q2s2a6
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -4812,5 +4814,53 @@ R: Eles eram totalmente subservientes ao Senado
 Questão 1196
 Qual é o maior aeroporto do mundo em área?
 R: Aeroporto Internacional King Fahd
+
+Questão 1197
+Qual é a substância mais abundante no corpo de um adulto saudável?
+R: Água
+
+Questão 1198
+Qual dos seguintes não é um gás nobre?
+R: Oxigênio
+
+Questão 1199
+Qual desses materiais é usado para forjar equipamentos de coleta e manutenção da paz?
+R: Osso animal
+
+Questão 1200
+As Ilhamas são nativas de qual continente terrestre?
+R: América do Sul
+
+Questão 1201
+Qual é o pico insular mais alto no mundo?
+R: Puncak Jaya
+
+Questão 1202
+No envo do Fórum Estadual "O Bosque do Crepúsculo", os bosques titulares ficam em que direção da cidade?
+R: Oeste
+
+Questão 1203
+Em 1689, quais foram os dois governantes que concederam o consentimento real à Declaração de Direitos Ingleses?
+R: William III e Mary II
+
+Questão 1204
+Qual das seguintes peças de Shakespeare é uma comédia romântica escrita em algum momento entre 1590 e 1596?
+R: Sonho de Uma Noite de Verão
+
+Questão 1205
+Quem é o marido de Matilda de Flanders?
+R: Guilherme I (William)
+
+Questão 1206
+No corpo humano, qual dos seguintes ossos está mais próximo do coração?
+R: Esterno
+
+Questão 1207
+Qual das seguintes unidades de medida NÃO é usada para medir radiação ionizante?
+R: Lúmens
+
+Questão 1208
+Com qual destes governantes a Rainha Tamar da Geórgia formou um pacto de não agressão?
+R: Saladino
 
 .
