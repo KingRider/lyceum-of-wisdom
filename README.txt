@@ -1,9 +1,8 @@
-🆕 Última atualização: 24 de Fevereiro de 2024 - 11:47
+🆕 Última atualização: 29 de Abril de 2024 - 09:08am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-💰 Agradecimento pela doação: JorgeMario
 🤗 Apoio: FrancyneYume
-🧧 Último código de resgate: bds6q2s2a6
+🧧 Último código de resgate: ramadan024
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -2930,7 +2929,7 @@ Qual é o maior lago de água doce do mundo por área?
 R: Lago Superior
 
 Questão 725
-Qual é a capacidade padrão de transporte se sueu posto comercial estiver no nível 25?
+Qual é a capacidade padrão de transporte seu posto comercial estiver no nível 25?
 R: 5 milhões
 
 Questão 726
@@ -4202,6 +4201,7 @@ R: Mercúrio
 Questão 1043
 No RoK, qual capítulo das Crônicas do Reino exige a exploração completa de todos os blocos de névoa do reino?
 R: A Longa Paz
+R: Clareza Definitiva
 
 Questão 1044
 Qual destas foi a primeira estação espacial do mundo?
@@ -4862,5 +4862,157 @@ R: Lúmens
 Questão 1208
 Com qual destes governantes a Rainha Tamar da Geórgia formou um pacto de não agressão?
 R: Saladino
+
+Questão 1209
+Qual das seguintes aulas você provavelmente assistirá na faculdade de direito?
+R: Introdução ao Direito Penal
+
+Questão 1210
+Qual das seguintes afirmações é mais provável que um bebê humano de 6 meses de idade faça?
+R: "Mama"
+
+Questão 1211
+Qual dos seguintes órgãos NÃO faz parte do sistema respiratório humano?
+R: Chave de impacto
+
+Questão 1212
+Qual dos seguintes eventos ocorreu DEPOIS do século 19?
+R: O lançamento de Rise of Kingdoms
+
+Questão 1213
+Qual destes queijos é classificado como um queijo duro?
+R: Parmesão
+
+Questão 1214
+O personagem "Robin Hood" apareceu pela primeira vez no folclore de qual país?
+R: Inglaterra
+
+Questão 1215
+Qual foi a primeira guerra chamada de "a guerra para acabar com todas as guerras"?
+R: Primeira Guerra Mundial
+
+Questão 1216
+Qual das seguintes opções é um jogo de bola?
+R: Futebol
+
+Questão 1217
+No RoK, quais alimentos são cultivados nas fazendas da sua cidade?
+R: Milho
+
+Questão 1218
+Em RoK, qual das opções a seguir NÃO aumenta a Saúde de suas unidades de infantaria?
+R: Nível do Posto Comercial
+
+Questão 1219
+Na introdução da história de Cao Cao no RoK, ele diz ao governador que não se importa em ser tratado por outro nome. Qual é esse nome?
+R: Mengde
+
+Questão 1220
+Qual é o maior aeroporto do mundo em área?
+R: Aeroporto Internacional King Fahd
+
+Questão 1221
+Quando foi oficialmente criada a União de Nações Sul-Americanas (UNASUL)?
+R: 2008
+
+Questão 1222
+Qual desses números NÃO está na sequência de Fibonacci?
+R: 4
+
+Questão 1224
+Na história de Aethelflaed no RoK, ela menciona que "sente cheiro de demônio". Quem são os "demônio" aos quais ela está se referindo?
+R: Vikings
+
+Questão 1225
+Qual planeta do nosso sistema solar está mais frequentemente retrógrado em relação à Terra?
+R: Mercúrio
+
+Questão 1226
+Qual é a relação entre diamantes e grafite?
+R: Ambos são alótropos de carbono
+
+Questão 1227
+Qual dos anéis de Saturno está fora do limite de Roche de Saturno?
+R: Anel E
+
+Questão 1228
+Qual continente foi o berço da civilização Maia?
+R: As Américas (Peru)
+
+Questão 1229
+Qual destes animais NÃO é um roedor?
+R: Macaco
+
+Questão 1230
+Qual destes autores criou o personagem Eugene Onegin?
+R: Alexander Pushkin
+
+Questão 1231
+Quanto tempo levaria para um feixe de luz dar a volta na Terra 7 vezes?
+R: 0,94 segundos
+
+Questão 1232
+Qual dos seguintes animais é um anfíbio?
+R: Sapo
+
+Questão 1233
+Quem sucedeu a Pedro I como imperador da Rússia?
+R: Catherine I
+
+Questão 1234
+Na mitologia grega, qual era o nome do rei que transformava em ouro tudo o que tocava?
+R: Midas
+
+Questão 1235
+A bandeira de qual desses países contém o maior número de cores?
+R: República da Coreia
+
+Questão 1236
+O alfabeto gótico foi desenvolvido por qual bispo?
+R: Ulfilas
+
+Questão 1237
+Quem escreveu "A Eneida", o primeiro poema épico da literatura ocidental?
+R: Virgílio
+
+Questão 1238
+Qual das seguintes marcas forneceu a bola oficial da Liga de Futebol Inglesa antes de 2000?
+R: Mitre
+
+Questão 1239
+Quem reunificou a China e encerrou o período das Dinastias do Norte e do Sul da história chinesa?
+R: Imperador Wen do Sui
+
+Questão 1240
+Em que idioma foi escrito o Nibelungenlied?
+R: Alto-alemão médio
+
+Questão 1241
+Em que museu está atualmente a pintura "A Coroação de Napoleao"?
+R: Louvre
+
+Questão 1242
+Qual imperador romano derrotou e capturou Zenobia?
+R: Aureliano
+
+Questão 1243
+No RoK, qual dos seguintes comandantes carrega um escudo?
+R: Hermann
+
+Questão 1244
+Qual dos seguintes animais NÃO está extinto?
+R: Panda gigante
+
+Questão 1245
+Em 2024, qual dessas construções ainda NÃO foi concluída?
+R: Sagrada Família
+
+Questão 1246
+Qual dos seguintes é um número primo?
+R: 29
+
+Questão 1247
+Qual filósofo cunhou o termo filosófico "entelequia"?
+R: Aristóteles
 
 .
