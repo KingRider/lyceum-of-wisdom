@@ -1,8 +1,8 @@
-🆕 Última atualização: 29 de Abril de 2024 - 09:08am
+🆕 Última atualização: 11 de Maio de 2024 - 09:42am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: FrancyneYume
-🧧 Último código de resgate: ramadan024
+🧧 Último código de resgate: lls11yxrok
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -5014,5 +5014,25 @@ R: 29
 Questão 1247
 Qual filósofo cunhou o termo filosófico "entelequia"?
 R: Aristóteles
+
+Questão 1248
+De que país é originária a sobremesa "nada de coco"?
+R: Filipinas
+
+Questão 1249
+Quais dois continentes são separados pelos Montes Urais?
+R: Europa e Ásia
+
+Questão 1250
+A maior península da Europa fica localizada em qual destas regiões?
+R: Europa Setentrional
+
+Questão 1251
+"Álcool" é um nome comum para qual destas substâncias químicas?
+R: Etanol
+
+Questão 1252
+Na Arca de Osíris, qual destas divindades está lutando contra Seth pelo controle do caixão de Osiris?
+R: Iset
 
 .
