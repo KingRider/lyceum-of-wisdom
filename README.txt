@@ -1,8 +1,7 @@
-🆕 Última atualização: 11 de Maio de 2024 - 09:42am
+🆕 Data de Término: 20 de Julho de 2024 - 23:31am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-🤗 Apoio: FrancyneYume
-🧧 Último código de resgate: lls11yxrok
+🧧 Último código de resgate: rok2024hbd (31/Agosto/2024)
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -190,15 +189,15 @@ Que tipo de unidade é mais forte contra a infantaria?
 R: Arquearia
 
 Questão 43
-Q.As duas capitais da Áustria-Hungria eram Budapeste e que outra cidade?
+As duas capitais da Áustria-Hungria eram Budapeste e que outra cidade?
 R: Viena
 
 Questão 44
-Q.Que cidade recebeu as Olimpíadas de 2000?
+Que cidade recebeu as Olimpíadas de 2000?
 R: Sydney
 
 Questão 45
-Q.Que tipo de unidade é mais forte que a cavalaria?
+Que tipo de unidade é mais forte que a cavalaria?
 R: Infantaria
 
 Questão 46
@@ -452,7 +451,7 @@ R: 1000
 Questão 107
 O processo de dividir átomos é conhecido como o quê?
 R: Fissão
-(dividir)(cuidado a palavra dividir é fissão e combinar é fusão)
+(dividir)(cuidado a palavra dividir é fissão e combinar é fusão) item: 166
 
 Questão 108
 Que país não está na Europa?
@@ -690,7 +689,7 @@ R: Doando para a tecnologia da aliança de pesquisa
 Questão 166
 O processo de combinar átomos é conhecido como o quê?
 R: Fusão 
-(combinar)(cuidado a palavra dividir é fissão e combinar é fusão)
+(combinar)(cuidado a palavra dividir é fissão e combinar é fusão) item: 107 
 
 Questão 167
 Vantagens da imprensa de Johannes Gutenberg incluem todos os seguintes, exceto qual?
@@ -5034,5 +5033,217 @@ R: Etanol
 Questão 1252
 Na Arca de Osíris, qual destas divindades está lutando contra Seth pelo controle do caixão de Osiris?
 R: Iset
+
+Questão 1253
+Nos Arcanos Maiores do baralho de tarô, qual é a carta IV?
+R: O Imperador
+
+Questão 1254
+O que é insulina?
+R: Um hormônio peptídeo
+
+Questão 1255
+Qual é o órgão mais longo no sistema digestivo humano?
+R: Intestino delgado
+
+Questão 1256
+Qual dos seguintes líquidos é altamente corrosivo?
+R: Ácido sulfúrico
+
+Questão 1257
+Se o nível da sua Prefeitura for 25, quantos botões aparecerão ao tocar na construção do Quadro de avisos da sua cidade?
+R: 3
+
+Questão 1258
+As anãs vermelhas mais frias próximas do Sol têm uma temperatura de superfície de aproximadamente:
+R: 2000K
+
+Questão 1259
+A ópera surgiu em qual destes países?
+R: Itália
+
+Questão 1260
+Há quantos membros no Conselho de Segurança das Nações Unidas?
+R: 15
+
+Questão 1261
+Que tipo de energia é utilizada na fotossíntese?
+R: Energia solar
+
+Questão 1262
+No Rok, qual comandante diz a frase, "Assim como a água não tem forma definida, a guerra não tem forma constante"?
+R: Sun Tzu
+
+Questão 1263
+Qual destes Faraós ganhou um passaporte egípcio moderno?
+R: Ramsés II
+
+Questão 1264
+Quem compôs "A Flauta Mágica"?
+R: Mozart
+
+Questão 1265
+Quem foi a primeira pessoa a pisar na lua?
+R: Neil Armstrong
+
+Questão 1266
+No RoK, quantas flores Boudica tem no cabelo?
+R: 4
+
+Questão 1267
+Qual dos seguintes personagens não é bom ladrão honrado que rouba dos ricos para dar aos pobres?
+R: D'Artagnan
+
+Questão 1268
+Em que país foi inventada a locomotiva a vapor?
+R: Reino Unido
+
+Questão 1269
+De que país Budapeste é capital?
+R: Hungria
+
+Questão 1270
+Qual destes físicos quânticos propôs o famoso experimento do "gato de Schrödinger"?
+R: Erwin Schrödinger
+
+Questão 1271
+Qual é a montanha mais alta dos Alpes?
+R: Mont Blanc
+
+Questão 1272
+Qual destas pinturas de Claude Monet inspirou o nome do movimento impressionista?
+R: Impressão, nascer do sol
+
+Questão 1273
+Qual destes lagos é o corpo de água mais salgado da Terra?
+R: Lago Gaet'ale
+
+Questão 1274
+Qual das seguintes espécies de pássaros migra cruzando os Himalaias?
+R: Grus Virgo
+
+Questão 1275
+O que o personagem Don Quixote imaginava ser?
+R: Cavaleiro
+
+Questão 1276
+Se uma joia é feita de ouro 12K, qual porcentagem dela é de ouro?
+R: 50%
+
+Questão 1277
+Onde foi emitido o primeiro selo postal do mundo?
+R: Reino Unido
+
+Questão 1278
+Quem saiu vitorioso da batalha do Lago Peipus de 1242?
+R: Alexandre Nevsky
+
+Questão 1279
+Onde está localizado o sítio arqueológico da Grande Zimbabwe?
+R: África
+
+Questão 1280
+Qual é a distância aproximada entre a Lua e a Terra?
+R: 384.000 km
+
+Questão 1281
+Quem é a heroína do romance "E o Vento Levou"?
+R: Katie Scarlett O'Hara
+
+Questão 1282
+Qual destes diretores nasceu na Suécia?
+R: Ingmar Bergman
+
+Questão 1283
+Gorgo foi a rainha de qual cidade-estado grega?
+R: Esparta
+
+Questão 1284
+O nome de qual destes países significa "cidade do leão"?
+R: Singapura
+
+Questão 1285
+Qual cientista propôs a "lei da gravitação universal"?
+R: Isaac Newton
+
+Questão 1286
+Qual pássaro é o símbolo da Nova Zelândia?
+R: Kiwi
+
+Questão 1287
+Qual destes elementos não é considerado um gás nobre?
+R: Nitrogênio
+
+Questão 1288
+Qual destas afirmações sobre a extração de petróleo é FALSA?
+R: o óleo extraído é sempre armazenado no estado líquido
+
+Questão 1289
+A que país pertence a Sicília?
+R: Itália
+
+Questão 1290
+Como se chama a água que foi fervida até virar vapor e, depois, foi condensada para virar líquido novamente?
+R: Água destilada
+
+Questão 1291
+Em qual museu está exibida a máscara de Tutancâmon?
+R: Museu Egípcio
+
+Questão 1292
+Na lista de Gardiner dos hieróglifos egípcios mais comuns, qual é o número do hieróglifo que representa Set?
+R: E20
+
+Questão 1293
+Qual destes elementos é usado na fissão nuclear?
+R: Urânio
+
+Questão 1294
+Qual destas vitaminas é sintetizada pelo corpo humano quando há exposição à luz do sol?
+R: Vitamina D
+
+Questão 1295
+Qual destas pessoas foi um médico renomado na China antiga?
+R: Hua Tuo
+
+Questão 1296
+Quem era o pai de AEthelflaed, Dama dos Mércios?
+R: Alfredo, o Grande
+
+Questão 1297
+Qual destas batalhas ocorreu antes da Batalha de Hastings?
+R: Batalha de Stamford Bridge
+
+Questão 1298
+No RoK, qual destas habilidades não pode causar o efeito de veneno?
+R: Flecha envenenada
+
+Questão 1299
+Em que século aconteceu a Revolução Francesa?
+R: Século XVIII
+
+Questão 1300
+Qual destas afirmações sobre os tubarões está correta?
+R: Eles vivem na água
+
+Questão 1301
+Qual destes imperadores não foi um dos "Tetrarcas" do sistema romano de tetrarquia?
+R: Trajano
+
+Questão 1302
+Qual país é o maior produto de café do mundo?
+R: Brasil
+
+Questão 1303
+Quem escreveu a obra "Philosophiae Naturalis Principia Mathematica"?
+R: Issac Newton
+
+Questão 1304
+Qual das seguintes opções não se enquadra na definição de "desastre natural"?
+R: Fazer hora extra
+
+Questão 1305
+No seu diálogo da narrativa do jogo, qual comandante Cleópatra VII NÃO menciona?
+R: Joana D'Arc
 
 .
