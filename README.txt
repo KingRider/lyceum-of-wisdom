@@ -1,14 +1,9 @@
-🆕 Data de Término: 20 de Julho de 2024 - 23:31am
+🆕 Data de Término: 22 de Janeiro de 2025 - 10:09am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-🧧 Último código de resgate: rok2024hbd (31/Agosto/2024)
 
 Site Rápida:
 https://bit.ly/roklyceum
-
-Para continuarmos e expandir as nossas ideas e objetivos, necessitamos do seu apoio. Por favor de o seu "like" ✅ desde já agradecemos
-(Troca cabeça épica para dourada):
-https://discord.com/channels/474739462589382667/474834936755519489/1092814560978808922# (Postado por シPedro#0283)
 
 Referências com Português:
 https://www.dramaqueengames.com/liceu-da-sabedoria-1 ?(página está desatualzado em 2021 e ultima atualização JSON [lista] em 13/Abril/2022)
@@ -5245,5 +5240,25 @@ R: Fazer hora extra
 Questão 1305
 No seu diálogo da narrativa do jogo, qual comandante Cleópatra VII NÃO menciona?
 R: Joana D'Arc
+
+Questão 1306
+No RoK, qual comandante diz a frase, "Eu continuo em frente, pelo meu povo"?
+R: Constânça
+
+Questão 1307
+Qual é o nome da sonda que aterrizou na Lua em 2013?
+R: Yutu
+
+Questão 1308
+No folclore chinês, o personagem Wu Gang é amaldiçoado a cortar eternamente uma árvore que se cura sozinha na Lua. Que tipo de árvore é essa?
+R: Osmanthus
+
+Questão 1309
+Qual é o papel da função 5 no "modelo de oito funções" de John Beebe?
+R: Personalidade opositora
+
+Questão 1310
+Qual é o apelido de Eleanor da Aquitânia em RoK?
+R: A Duquesa da Flor Selvagem
 
 .
