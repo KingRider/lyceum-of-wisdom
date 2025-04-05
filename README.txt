@@ -1,6 +1,8 @@
-🆕 Data de Término: 22 de Janeiro de 2025 - 10:09am
+🆕 Data de Término: 05 de Abril de 2025 - 16:42am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
+🤗 Apoio: KaueFelipe
+🧧 Último código de resgate: kg2u9ag7wu (Expire: 30/Abril/2025)
 
 Site Rápida:
 https://bit.ly/roklyceum
@@ -5260,5 +5262,33 @@ R: Personalidade opositora
 Questão 1310
 Qual é o apelido de Eleanor da Aquitânia em RoK?
 R: A Duquesa da Flor Selvagem
+
+Questão 1311
+Quais são os polos de um ímã?
+R: Norte e Sul
+
+Questão 1312
+Quais efeitos o título e reino "Preguiçoso" aplica?
+R: Velocidade de Marcha -5%
+
+Questão 1313
+O que o buff de reino "Mobilizar para a Guerra" aumenta?
+R: Aceleração de treinamento 24 horas
+
+Questão 1314
+Quais efeitos o título de reino "mendigo" aplica?
+R: Produção -10%
+
+Questão 1315
+Qual chefe Ceroli tem a habilidade fundamental "Ponto de descongelamento"?
+R: Frida
+
+Questão 1316
+O que o buff de reino "Estaca zero" aumenta?
+R: Velocidade de construção
+
+Questão 1317
+Qual é o apelido de K'inich Janaab'Pakal em RoK?
+R: Sol da Glória Eterna
 
 .
