@@ -1,7 +1,7 @@
 🆕 Data de Término: 05 de Abril de 2025 - 16:42am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
-🤗 Apoio: KaueFelipe
+🤗 Apoio: KaueFelipe + Pedrobam
 🧧 Último código de resgate: kg2u9ag7wu (Expire: 30/Abril/2025)
 
 Site Rápida:
