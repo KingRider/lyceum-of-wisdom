@@ -5291,4 +5291,12 @@ Questão 1317
 Qual é o apelido de K'inich Janaab'Pakal em RoK?
 R: Sol da Glória Eterna
 
+Questão 1318
+Qual chefe dos Ceroli tem a habilidade fundamental "Golpe do Crepúsculo"?
+R: Ak & Hok
+
+Questão 1319
+O que o buff de reino "Revolução Industrial" aumenta?
+R: Velocidade de Pesquisa
+
 .
