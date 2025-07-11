@@ -5299,4 +5299,8 @@ Questão 1319
 O que o buff de reino "Revolução Industrial" aumenta?
 R: Velocidade de Pesquisa
 
+Questão 1320
+Qual é o nome do retrato do papagaio em RoK?
+R: Fogswoth
+
 .
