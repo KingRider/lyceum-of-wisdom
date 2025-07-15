@@ -5303,4 +5303,8 @@ Questão 1320
 Qual é o nome do retrato do papagaio em RoK?
 R: Fogswoth
 
+Questão 1321
+O que o buff de reino "Cura primeiro" aumenta?
+R: Velocidade de Cura
+
 .
