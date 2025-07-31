@@ -5307,4 +5307,8 @@ Questão 1321
 O que o buff de reino "Cura primeiro" aumenta?
 R: Velocidade de Cura
 
+Questão 1322
+Qual destes temas de cidade se parece com um veículo?
+R: Nas asas das velas
+
 .
