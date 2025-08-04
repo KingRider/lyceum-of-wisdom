@@ -5311,4 +5311,8 @@ Questão 1322
 Qual destes temas de cidade se parece com um veículo?
 R: Nas asas das velas
 
+Questão 1323
+Qual destes equipamentos é de qualidade lendária?
+R: A Via Láctea
+
 .
