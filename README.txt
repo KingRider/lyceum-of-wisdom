@@ -5315,4 +5315,9 @@ Questão 1323
 Qual destes equipamentos é de qualidade lendária?
 R: A Via Láctea
 
+Questão 1324
+Quais são as três cores predominantes no estilo de decoração de cerâmica da dinastia Tang conhecida como "sancai"?
+R: Amarelo, verde e branco
+
 .
+
