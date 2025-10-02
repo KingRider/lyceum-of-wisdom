@@ -2882,6 +2882,7 @@ R: Vitamina A
 
 Questão 714
 Zhu Geliang não teve envolvimento em qual dos seguintes incidentes relatados no Romance dos Três Reinos?
+Em qual dos seguintes incidentes em Romance dos Três Reinos Zhuge Liang NÃO esteve envolvido?
 R: Revolta dos Turbantes Amarelos
 
 Questão 715
@@ -5319,5 +5320,8 @@ Questão 1324
 Quais são as três cores predominantes no estilo de decoração de cerâmica da dinastia Tang conhecida como "sancai"?
 R: Amarelo, verde e branco
 
+Questão 1325
+Qual é o signo do zodíaco chinês do ano lunar que começa em 10 de fevereiro de 2024?
+R: Dragão
 .
 
