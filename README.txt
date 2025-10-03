@@ -8,9 +8,6 @@
 ▌ https://www.youtube.com/watch?v=NHcp0EBHVEc
 ▌ ⏳ Valid Until: 16:00 UTC Oct 19, 2025
 ▌ 
-▌ 🎁 Giftcode: GOTOYTBNOW  (Don't need to go to youtube anymore)
-▌ ⏳ Valid Until: Oct 1, 2025
-▌ 
 ▌ 🎁 Giftcode: ROK7THANNI
 ▌ ⏳ Valid Until: 16:00 UTC Oct 19, 2025
 ▌ 
