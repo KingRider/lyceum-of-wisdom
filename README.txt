@@ -1,8 +1,21 @@
-🆕 Data de Término: 01 de Agosto de 2025 - 10:18am
+🆕 Data de Término: 03 de Outubro de 2025 - 10:44am
 👩🏽‍💻 Editor: Sandro Alvares (KingRider) - Barueri/SP - http://www.sandroalvares.com.br/rok
 📧 Contato & ☕ Colabore/PayPal/Pix: sandro.rider@gmail.com ou https://bit.ly/kingrider
 🤗 Apoio: KaueFelipe + Pedrobam
-🧧 Último código de resgate: Grab600gem (Expire: August 4th, 15:59 UTC)
+
+▌ Happy Anniversary Governors!
+▌ 🎁 Giftcode: ROKPLAYERS 
+▌ https://www.youtube.com/watch?v=NHcp0EBHVEc
+▌ ⏳ Valid Until: 16:00 UTC Oct 19, 2025
+▌ 
+▌ 🎁 Giftcode: GOTOYTBNOW  (Don't need to go to youtube anymore)
+▌ ⏳ Valid Until: Oct 1, 2025
+▌ 
+▌ 🎁 Giftcode: ROK7THANNI
+▌ ⏳ Valid Until: 16:00 UTC Oct 19, 2025
+▌ 
+▌ 🎁 Giftcode: ROK7THBDAY
+▌ ⏳ Valid Until: 16:00 UTC Oct 19, 2025
 
 Redeem Codes Official:
 https://discord.com/channels/474739462589382667/1015398371202183218
